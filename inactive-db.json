@@ -1,6 +1,16 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1520774134": [
+        "1520893449": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
             "006.freecounters.co.uk",
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
@@ -86,7 +96,6 @@
             "acim.moqhixoz.cn",
             "aciphex.about-tabs.com",
             "action.ientry.net",
-            "#eyeblaster.com",
             "actonel.about-tabs.com",
             "actos.about-tabs.com",
             "acvs.mediaonenetwork.net",
@@ -191,7 +200,9 @@
             "ad2.pl.mediainter.net",
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
-            "ad2.tr.mediainter.net",
+            "ad2.tr.mediainter.net"
+        ],
+        "to_test": [
             "ad2.zapmedya.com",
             "ad234.prbn.ru",
             "ad3.l3go.com",
@@ -217,7 +228,6 @@
             "adderall.ourtablets.com",
             "adderallxr.freespaces.com",
             "ade.wooboo.com.cn",
-            "#See",
             "adexprt.me",
             "adextensioncontrol.tudou.com",
             "adfarm.mserve.ca",
@@ -613,14 +623,12 @@
             "ads.thefrisky.com",
             "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
-            "#Toronto",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
             "ads.tiscali.com",
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "#TOP500",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
@@ -1212,7 +1220,6 @@
             "benrie.stream",
             "berkleynude.ca.tt",
             "beseenad.looksmart.com",
-            "#spyware",
             "bestgift4you.cn",
             "bestlolaray.com",
             "bestorican.com",
@@ -1467,7 +1474,6 @@
             "clickit.go2net.com",
             "clicks.emarketmakers.com",
             "clicks.m4n.nl",
-            "#used",
             "clickstatsview.chooseonlinecasino.com",
             "clickstatsview.earnmoneycasinos.com",
             "clickstatsview.hourfreeplaycasinos.com",
@@ -1864,7 +1870,6 @@
             "gazetteextra.advertserve.com",
             "gc.gcl.ru",
             "gcads.osdn.com",
-            "#Comment",
             "gcir.gannett-tv.com",
             "gcirm.centralohio.com",
             "gcirm.detnews.com",
@@ -4070,7 +4075,6 @@
             "videos.dskjkiuw.com",
             "videos.twitter.secure-logins01.com",
             "videos.video-loader.com",
-            "#This",
             "view.avenuea.com",
             "view.iballs.a1.avenuea.com",
             "view.netrams.com",
@@ -4322,7 +4326,6 @@
             "www.aureate.com",
             "www.automotive-rewardpath.com",
             "www.awesomevipoffers.com",
-            "#qksrv",
             "www.backsim.ru",
             "www.baiducdn.org",
             "www.bananacashback.com",
@@ -4493,7 +4496,6 @@
             "www.friend-cards.net",
             "www.friend-greeting.com",
             "www.friend-greetings.net",
-            "#commission",
             "www.furnitureulimited.com",
             "www.fusionbanners.com",
             "www.games-toys-bonuspath.com",
@@ -4929,7 +4931,6 @@
             "cra-arc-gc-ca.noads.biz",
             "ldserv01.adtech.fr",
             "oplaca-sie.pl"
-        ],
-        "to_test": []
+        ]
     }
 }
