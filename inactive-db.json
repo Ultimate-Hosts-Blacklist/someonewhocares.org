@@ -1694,11 +1694,7 @@
             "ehg-newarkinone.hitbox.com.hitbox.com",
             "ehg-newsinternational.hitbox.com",
             "ehg-oreilley.hitbox.com",
-            "ehg-presentigsolutions.hitbox.com"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "ehg-presentigsolutions.hitbox.com",
             "ehg-sportsline.hitbox.com",
             "ehg-warner-brothers.hitbox.com",
             "ehg-wizardsofthecoast.hitbox.com.hitbox.com",
@@ -1840,7 +1836,11 @@
             "freeelectronicsdepot.com",
             "freeelectronicsonus.com",
             "freeelectronicssource.com",
-            "freeentertainmentsource.com",
+            "freeentertainmentsource.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "freegiftreward.com",
             "freeipodnanouk.co.uk",
             "freeipoduk.co.uk",
