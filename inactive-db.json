@@ -2267,11 +2267,7 @@
             "m.de.2mdn.net",
             "m.fr.2mdn.net",
             "m.uk.2mdn.net",
-            "m0-s.san.ru"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "m0-s.san.ru",
             "m01.webwise.com",
             "m02.webwise.com",
             "m1.ae.2mdn.net",
@@ -2710,6 +2706,7 @@
             "mm1.vip.sc1.admob.com",
             "mmv.admob.com",
             "mn.5.p2l.info",
+            "mn.mn.co.cu",
             "mo.5.p2l.info",
             "mob.adwhirl.com",
             "mobileanalytics.us-east-2.amazonaws.com",
@@ -2720,7 +2717,11 @@
             "monstersandcritics.advertserve.com",
             "morefastermac.trade",
             "most.cob.net.ba",
-            "motorl.oewabox.at",
+            "motorl.oewabox.at"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "movies.701pages.com",
             "mp.5.p2l.info",
             "mp.tscapeplay.com",
