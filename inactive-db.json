@@ -1249,11 +1249,7 @@
             "blogads.ebanner.nl",
             "blowfish.hitbox.com",
             "bluediamondoffers.com",
-            "bluescreenerrors.net"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "bluescreenerrors.net",
             "bontril.1.p2l.info",
             "bontril.ourtablets.com",
             "BonusCashh.com",
@@ -1377,6 +1373,7 @@
             "cdn.amateurmatch.com",
             "cdn.atdmt.com",
             "cdn.directrev.com",
+            "cdn.employchannel.info",
             "cdn.eyewonder.com",
             "cdn.freefaits.com",
             "cdn.freehalves.com",
@@ -1560,7 +1557,11 @@
             "counter.netmore.net",
             "counter.pcgames.de",
             "counter.sexhound.nl",
-            "counter.times.lv",
+            "counter.times.lv"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "counter.uq.edu.au",
             "counter.webcom.com",
             "counter.webtrends.com",
@@ -4925,7 +4926,6 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com",
-            "cdn.employchannel.info",
             "cra-arc-gc-ca.noads.biz",
             "ldserv01.adtech.fr",
             "oplaca-sie.pl"
