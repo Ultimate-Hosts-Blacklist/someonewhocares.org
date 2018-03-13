@@ -2717,11 +2717,7 @@
             "monstersandcritics.advertserve.com",
             "morefastermac.trade",
             "most.cob.net.ba",
-            "motorl.oewabox.at"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "motorl.oewabox.at",
             "movies.701pages.com",
             "mp.5.p2l.info",
             "mp.tscapeplay.com",
@@ -2924,7 +2920,11 @@
             "oascentral.scientificamerican.com",
             "oascentral.seattleweekly.com",
             "oascentral.sina.com.hk",
-            "oascentral.sparknotes.com",
+            "oascentral.sparknotes.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "oascentral.sptimes.com",
             "oascentral.suntimes.com",
             "oascentral.thenation.com",
