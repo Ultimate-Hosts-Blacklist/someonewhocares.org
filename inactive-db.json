@@ -1557,11 +1557,7 @@
             "counter.netmore.net",
             "counter.pcgames.de",
             "counter.sexhound.nl",
-            "counter.times.lv"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "counter.times.lv",
             "counter.uq.edu.au",
             "counter.webcom.com",
             "counter.webtrends.com",
@@ -1673,7 +1669,11 @@
             "ds.247realmedia.com",
             "ds.amateurmatch.com",
             "dt.linkpulse.com",
-            "dubstep.onedumb.com",
+            "dubstep.onedumb.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "e.as-eu.falkag.net",
             "eads-adserving.com",
             "earnpointsandgifts.com",
@@ -4926,7 +4926,6 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com",
-            "cra-arc-gc-ca.noads.biz",
             "ldserv01.adtech.fr",
             "oplaca-sie.pl"
         ]
