@@ -4120,11 +4120,7 @@
             "w117.am15.net",
             "w118.am15.net",
             "w119.am15.net",
-            "w12.am15.net"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "w12.am15.net",
             "w13.am15.net",
             "w14.am15.net",
             "w15.am15.net",
@@ -4360,7 +4356,11 @@
             "www.bostonsubwayoffer.com",
             "www.brandrewardcentral.com",
             "www.broadcastpc.tv",
-            "www.bulletads.com",
+            "www.bulletads.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "www.bumerang.cc",
             "www.business-rewardpath.com",
             "www.buwobarun.cn",
