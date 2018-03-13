@@ -4784,11 +4784,7 @@
             "www.yibaruxet.cn",
             "www.youcanoptout.com",
             "www.youcanoptout.net",
-            "www.youcanoptout.org"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "www.youcanoptout.org",
             "www.youfileisoft.com",
             "www.your-gift-zone.com",
             "www.yourdvdplayer.com",
@@ -4859,6 +4855,7 @@
             "wy.5.p2l.info",
             "wybieraj-wygrywaj.pl",
             "wytypowana-osoba-wygrywajaca.pl",
+            "wytypowany-zwyciezca.pl",
             "x-box.t35.com",
             "x-hydrocodone.info",
             "x.admob.com",
@@ -4879,7 +4876,6 @@
             "xlonhcld.xlontech.net",
             "xml.adtech.de",
             "xml.click9.com",
-            "xn--lt-68s.com",
             "xpcs.ads.yahoo.com",
             "xponlinescanner.com",
             "xxyyzz.youcanoptout.com",
@@ -4930,6 +4926,10 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru"
         ]
     }
 }
