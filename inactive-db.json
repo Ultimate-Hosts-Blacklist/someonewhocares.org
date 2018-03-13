@@ -1669,11 +1669,7 @@
             "ds.247realmedia.com",
             "ds.amateurmatch.com",
             "dt.linkpulse.com",
-            "dubstep.onedumb.com"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "dubstep.onedumb.com",
             "e.as-eu.falkag.net",
             "eads-adserving.com",
             "earnpointsandgifts.com",
@@ -1698,7 +1694,11 @@
             "ehg-newarkinone.hitbox.com.hitbox.com",
             "ehg-newsinternational.hitbox.com",
             "ehg-oreilley.hitbox.com",
-            "ehg-presentigsolutions.hitbox.com",
+            "ehg-presentigsolutions.hitbox.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "ehg-sportsline.hitbox.com",
             "ehg-warner-brothers.hitbox.com",
             "ehg-wizardsofthecoast.hitbox.com.hitbox.com",
