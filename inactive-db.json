@@ -2920,11 +2920,7 @@
             "oascentral.scientificamerican.com",
             "oascentral.seattleweekly.com",
             "oascentral.sina.com.hk",
-            "oascentral.sparknotes.com"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "oascentral.sparknotes.com",
             "oascentral.sptimes.com",
             "oascentral.suntimes.com",
             "oascentral.thenation.com",
@@ -3250,7 +3246,11 @@
             "protection.SDpolice.com",
             "protection.SIpolice.com",
             "protection.SKpolice.com",
-            "protection.stpolice.com",
+            "protection.stpolice.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "protection.TKpolice.com",
             "protection.TNpolice.com",
             "protection.TOpolice.com",
@@ -4927,8 +4927,7 @@
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
-            "ɢoogle.com",
-            "oplaca-sie.pl"
+            "ɢoogle.com"
         ]
     }
 }
