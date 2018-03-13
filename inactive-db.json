@@ -3858,11 +3858,7 @@
             "track.msadcenter.xzwy.com",
             "track.msadcenter.yaz.com",
             "track.msadcenter.ytbp.com",
-            "track.msadcenter.zhv.com"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "track.msadcenter.zhv.com",
             "track.msadcenter.zlx.com",
             "track.msadcenter.zun.com",
             "track.mybloglog.com",
@@ -4124,7 +4120,11 @@
             "w117.am15.net",
             "w118.am15.net",
             "w119.am15.net",
-            "w12.am15.net",
+            "w12.am15.net"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "w13.am15.net",
             "w14.am15.net",
             "w15.am15.net",
