@@ -3246,11 +3246,7 @@
             "protection.SDpolice.com",
             "protection.SIpolice.com",
             "protection.SKpolice.com",
-            "protection.stpolice.com"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "protection.stpolice.com",
             "protection.TKpolice.com",
             "protection.TNpolice.com",
             "protection.TOpolice.com",
@@ -3427,7 +3423,11 @@
             "searchstats.usa.gov",
             "seasonale.1.p2l.info",
             "seasonalsamplerspecials.com",
-            "sebar.thand.info",
+            "sebar.thand.info"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "secimage.adtech.de",
             "secret.ɢoogle.com",
             "secure-js.kontera.com",
