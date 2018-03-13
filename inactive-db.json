@@ -395,11 +395,7 @@
             "ads.chipcenter.com",
             "ads.cjonline.com",
             "ads.clamav.net",
-            "ads.clara.net"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "ads.clara.net",
             "ads.clickhouse.com",
             "ads.clickthru.net",
             "ads.cluster01.oasis.zmh.zope.net",
@@ -726,7 +722,11 @@
             "ads2.adbrite.com",
             "ads2.advance.net",
             "ads2.advertwizard.com",
-            "ads2.canoe.ca",
+            "ads2.canoe.ca"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
