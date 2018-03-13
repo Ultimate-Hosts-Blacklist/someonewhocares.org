@@ -722,11 +722,7 @@
             "ads2.adbrite.com",
             "ads2.advance.net",
             "ads2.advertwizard.com",
-            "ads2.canoe.ca"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "ads2.canoe.ca",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
@@ -1018,7 +1014,11 @@
             "aimg.haber3.com",
             "air-plane-ticket.beesearch.info",
             "airline-ticket.gloses.net",
-            "aiui.hitbox.com",
+            "aiui.hitbox.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "ak.5.p2l.info",
             "ak.maxserving.com",
             "aktif.haberx.com",
