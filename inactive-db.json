@@ -3639,11 +3639,7 @@
             "stats.styletechnology.me",
             "stats.telegraph.co.uk",
             "stats.tudou.com",
-            "stats.video.search.yahoo.com"
-        ],
-        "to_test": [
-            "ad2.zapmedya.com",
-            "ad234.prbn.ru",
+            "stats.video.search.yahoo.com",
             "stats.yourminis.com",
             "stats1.in",
             "stats2.dooyoo.com",
@@ -3862,7 +3858,11 @@
             "track.msadcenter.xzwy.com",
             "track.msadcenter.yaz.com",
             "track.msadcenter.ytbp.com",
-            "track.msadcenter.zhv.com",
+            "track.msadcenter.zhv.com"
+        ],
+        "to_test": [
+            "ad2.zapmedya.com",
+            "ad234.prbn.ru",
             "track.msadcenter.zlx.com",
             "track.msadcenter.zun.com",
             "track.mybloglog.com",
