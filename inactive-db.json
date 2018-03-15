@@ -4508,12 +4508,7 @@
             "www.games-toys-bonuspath.com",
             "www.games-toys-free.com",
             "www.games-toys-rewardpath.com",
-            "www.getacool100.com"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "www.getacool100.com",
             "www.getacool500.com",
             "www.getacoollaptop.com",
             "www.getacooltv.com",
@@ -4707,6 +4702,7 @@
             "www.scoremygift.com",
             "www.scotiaonline.scotiabank.salferreras.com",
             "www.sdlpgift.com",
+            "www.searchforit.com",
             "www.searchwe.com",
             "www.seasonalsamplerspecials.com",
             "www.securecontactinfo.com",
@@ -4742,9 +4738,13 @@
             "www.tcimg.com",
             "www.te81.net",
             "www.the-binary-theorem.com",
-            "www.the-discount-store.com",
             "www.the-smart-stop.com",
-            "www.theuseful.com",
+            "www.theuseful.com"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "www.theuseful.net",
             "www.thinlaptoprewards.com",
             "www.thoughtfully-free.com",
