@@ -333,12 +333,7 @@
             "ads-hl.noktamedya.com.tr",
             "ads-rolandgarros.com",
             "ads-rouge.haber7.com",
-            "ads-web.mail.com"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "ads-web.mail.com",
             "ads.7days.ae",
             "ads.abs-cbn.com",
             "ads.active.com",
@@ -362,6 +357,7 @@
             "ads.aintitcool.com",
             "ads.airamericaradio.com",
             "ads.ak.facebook.com",
+            "ads.amarillo.com",
             "ads.amazingmedia.com",
             "ads.anm.co.uk",
             "ads.anvato.com",
@@ -610,7 +606,12 @@
             "ads.sohh.com",
             "ads.somethingawful.com",
             "ads.songs.pk",
-            "ads.specificclick.com",
+            "ads.specificclick.com"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "ads.specificpop.com",
             "ads.stupid.com",
             "ads.sumotorrent.com",
