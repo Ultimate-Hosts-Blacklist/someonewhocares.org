@@ -2065,12 +2065,7 @@
             "images.itchydawg.com",
             "images.jambocast.com",
             "images.trafficmp.com",
-            "imageserv.adtech.de"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "imageserv.adtech.de",
             "imageserver1.thruport.com",
             "img.blogads.com",
             "img.sn00.net",
@@ -2113,6 +2108,7 @@
             "insurance-rewardpath.com",
             "interac.refund-canada.com",
             "intnet-offer.com",
+            "intrack.pl",
             "invite.gezinti.com",
             "ioit.iovation.com",
             "ionamin.1.p2l.info",
@@ -2126,7 +2122,6 @@
             "iprocollect.realmedia.com",
             "iq001.adtech.de",
             "ircleaner.com",
-            "irondel.swisshost.by",
             "is.casalemedia.com",
             "isg02.casalemedia.com",
             "isg03.casalemedia.com",
@@ -2497,7 +2492,12 @@
             "ma.5.p2l.info",
             "ma.baidu.com",
             "mac-helper.site",
-            "mac-os.apple.com-secured.online",
+            "mac-os.apple.com-secured.online"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "mac-protection.info",
             "macaddictads.snv.futurenet.com",
             "macfixingsoftware.space",
