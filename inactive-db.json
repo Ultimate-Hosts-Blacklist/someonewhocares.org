@@ -1160,12 +1160,7 @@
             "baidutv.baidu.com",
             "balab.portx.net",
             "balabass.peerserver.com",
-            "bam-pilot.iovation.com"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "bam-pilot.iovation.com",
             "bananacashback.com",
             "banlv.baidu.com",
             "banman.nepsecure.co.uk",
@@ -1359,7 +1354,12 @@
             "camerondiaznude.ca.tt",
             "campaign.iitech.dk",
             "campaign.indieclick.com",
-            "campaigns.interclick.com",
+            "campaigns.interclick.com"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "car-insurance.inshurance-from.com",
             "car-truck-boat-bonuspath.com",
             "car-truck-boat-premiumblvd.com",
