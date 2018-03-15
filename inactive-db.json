@@ -4096,12 +4096,7 @@
             "voyager1.telesat.com.co",
             "vp.tscapeplay.com",
             "vsii.spindox.net",
-            "vt.5.p2l.info"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "vt.5.p2l.info",
             "vwr2.hitbox.com",
             "vwr3.hitbox.com",
             "vxiframe.biz",
@@ -4299,7 +4294,12 @@
             "www.admin.iesnare.com",
             "www.adpowerzone.com",
             "www.adquest3d.com",
-            "www.ads.joetec.net",
+            "www.ads.joetec.net"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "www.ads.revenue.net",
             "www.adsentnetwork.com",
             "www.adserver.com.pl",
