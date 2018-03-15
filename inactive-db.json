@@ -3389,12 +3389,7 @@
             "s1.buysellads.com",
             "s1.thecounter.com",
             "s2.buysellads.com",
-            "s2.youtube.com"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "s2.youtube.com",
             "s3.adbers.com",
             "s32.bilsay.com",
             "safari-critical-alert.com",
@@ -3597,7 +3592,12 @@
             "starchat.oewabox.at",
             "starlix.ql.st",
             "stast2.gq.com",
-            "stat-counter.tass-online.ru",
+            "stat-counter.tass-online.ru"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "stat.alibaba.com",
             "stat.tudou.com",
             "stat.youku.com",
