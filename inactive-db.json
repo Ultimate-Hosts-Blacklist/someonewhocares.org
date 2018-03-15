@@ -2492,12 +2492,7 @@
             "ma.5.p2l.info",
             "ma.baidu.com",
             "mac-helper.site",
-            "mac-os.apple.com-secured.online"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "mac-os.apple.com-secured.online",
             "mac-protection.info",
             "macaddictads.snv.futurenet.com",
             "macfixingsoftware.space",
@@ -2717,7 +2712,6 @@
             "mm1.vip.sc1.admob.com",
             "mmv.admob.com",
             "mn.5.p2l.info",
-            "mn.mn.co.cu",
             "mo.5.p2l.info",
             "mob.adwhirl.com",
             "mobileanalytics.us-east-2.amazonaws.com",
@@ -2824,7 +2818,12 @@
             "nordette.1.p2l.info",
             "nordette.3.p2l.info",
             "nordette.4.p2l.info",
-            "notori.oewabox.at",
+            "notori.oewabox.at"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "nowtestpc.updatenewfresh4u.top",
             "nqm.blackcurranthumidifiers.site",
             "nrads.1host.co.il",
