@@ -3592,12 +3592,7 @@
             "starchat.oewabox.at",
             "starlix.ql.st",
             "stast2.gq.com",
-            "stat-counter.tass-online.ru"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "stat-counter.tass-online.ru",
             "stat.alibaba.com",
             "stat.tudou.com",
             "stat.youku.com",
@@ -3824,7 +3819,12 @@
             "track.msadcenter.bfy.com",
             "track.msadcenter.bvp.com",
             "track.msadcenter.cdn.com",
-            "track.msadcenter.chpn.com",
+            "track.msadcenter.chpn.com"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "track.msadcenter.cxtv.com",
             "track.msadcenter.dtx.com",
             "track.msadcenter.ebg.com",
