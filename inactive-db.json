@@ -606,12 +606,7 @@
             "ads.sohh.com",
             "ads.somethingawful.com",
             "ads.songs.pk",
-            "ads.specificclick.com"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "ads.specificclick.com",
             "ads.specificpop.com",
             "ads.stupid.com",
             "ads.sumotorrent.com",
@@ -839,7 +834,6 @@
             "adserver.conjelco.com",
             "adserver.developersnetwork.com",
             "adserver.devx.com",
-            "adserver.digitoday.com",
             "adserver.directforce.net",
             "adserver.dotcommedia.de",
             "adserver.eham.net",
@@ -940,7 +934,12 @@
             "adservices.picadmedia.com",
             "adserving.cpxinteractive.com",
             "adservingcentral.com",
-            "adserwer.o2.pl",
+            "adserwer.o2.pl"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "adshufffle.com",
             "adsintl.starwave.com",
             "adsm.soush.com",
