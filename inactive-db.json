@@ -3118,12 +3118,7 @@
             "phentermine.4.p2l.info",
             "phentermine.petrovka.info",
             "phentermine.polybuild.ru",
-            "phentermine.t-amo.net"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "phentermine.t-amo.net",
             "PHLpolice.com",
             "phorm.biz.tr",
             "phorm.ch",
@@ -3296,6 +3291,7 @@
             "qc.5.p2l.info",
             "qenabled.com",
             "qip.magna.ru",
+            "qto.reprintingstakeholder.com",
             "quareclk.com",
             "Question2Answer.com",
             "qy.corrmedic.ru",
@@ -3393,7 +3389,12 @@
             "s1.buysellads.com",
             "s1.thecounter.com",
             "s2.buysellads.com",
-            "s2.youtube.com",
+            "s2.youtube.com"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "s3.adbers.com",
             "s32.bilsay.com",
             "safari-critical-alert.com",
