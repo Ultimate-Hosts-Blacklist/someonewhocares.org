@@ -4739,12 +4739,7 @@
             "www.te81.net",
             "www.the-binary-theorem.com",
             "www.the-smart-stop.com",
-            "www.theuseful.com"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com",
+            "www.theuseful.com",
             "www.theuseful.net",
             "www.thinlaptoprewards.com",
             "www.thoughtfully-free.com",
@@ -4867,7 +4862,6 @@
             "wy.5.p2l.info",
             "wybieraj-wygrywaj.pl",
             "wytypowana-osoba-wygrywajaca.pl",
-            "wytypowany-zwyciezca.pl",
             "x-box.t35.com",
             "x-hydrocodone.info",
             "x.admob.com",
@@ -4938,6 +4932,11 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com"
         ]
     }
 }
