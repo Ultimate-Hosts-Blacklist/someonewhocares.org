@@ -907,11 +907,7 @@
             "adserver.usermagnet.com",
             "adserver.virgin.net",
             "adserver.virtualminds.nl",
-            "adserver.voir.ca"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "adserver.voir.ca",
             "adserver.wemnet.nl",
             "adserver.ya.com",
             "adserver01.ancestry.com",
@@ -942,6 +938,7 @@
             "adsintl.starwave.com",
             "adsm.soush.com",
             "adsnew.userfriendly.org",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1082,6 +1079,8 @@
             "apple.com-----scanner.club",
             "apple.com-internet-security-review.info",
             "apple.com-internet-security-review.review",
+            "apple.com-onlinesupport.host",
+            "apple.com-onlinesupport.site",
             "apple.com-safetyalert.com",
             "apple.com-supportcenter.pro",
             "apple.com-supportcenter.website",
@@ -1158,7 +1157,11 @@
             "b.webwise.com",
             "b1.adbrite.com",
             "b1.azjmp.com",
-            "b2b.filecloud.me",
+            "b2b.filecloud.me"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "badservant.guj.de",
             "baidutv.baidu.com",
             "balab.portx.net",
