@@ -4087,11 +4087,7 @@
             "view.avenuea.com",
             "view.iballs.a1.avenuea.com",
             "view.netrams.com",
-            "views.m4n.nl"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "views.m4n.nl",
             "villagevoicecollect.247realmedia.com",
             "vioxx.1.p2l.info",
             "vip1.tw.adserver.yahoo.com",
@@ -4283,7 +4279,11 @@
             "ws.xjb.ac.cn",
             "wss-gw-1.hitbox.com",
             "wss-gw-3.hitbox.com",
-            "wv.5.p2l.info",
+            "wv.5.p2l.info"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "wwb.hitbox.com",
             "wwbtads.com",
             "www.0stats.com",
