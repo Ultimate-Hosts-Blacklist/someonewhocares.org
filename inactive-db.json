@@ -2644,11 +2644,7 @@
             "media87.fastclick.net",
             "media88.fastclick.net",
             "media89.fastclick.net",
-            "media9.fastclick.net"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "media9.fastclick.net",
             "media90.fastclick.net",
             "media91.fastclick.net",
             "media92.fastclick.net",
@@ -2823,6 +2819,7 @@
             "nordette.1.p2l.info",
             "nordette.3.p2l.info",
             "nordette.4.p2l.info",
+            "norton-antivirus-trial.searchservice.info",
             "notori.oewabox.at",
             "nowtestpc.updatenewfresh4u.top",
             "nqm.blackcurranthumidifiers.site",
@@ -2874,7 +2871,11 @@
             "oas.publicitas.ch",
             "oas.sciencemag.org",
             "oas.signonsandiego.com",
-            "oas.startribune.com",
+            "oas.startribune.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "oasads.whitepages.com",
             "oasc02.247realmedia.com",
             "oasc03.247realmedia.com",
