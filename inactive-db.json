@@ -3619,11 +3619,7 @@
             "static1.influads.com",
             "statique.secureguards.eu",
             "statistics.dynamicsitestats.com",
-            "statistics.reedbusiness.nl"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "statistics.reedbusiness.nl",
             "stats.absol.co.za",
             "stats.adbrite.com",
             "stats.big-boards.com",
@@ -3845,7 +3841,11 @@
             "track.msadcenter.lngl.com",
             "track.msadcenter.lzwp.com",
             "track.msadcenter.mazp.com",
-            "track.msadcenter.mkqa.com",
+            "track.msadcenter.mkqa.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "track.msadcenter.moas.com",
             "track.msadcenter.nge.com",
             "track.msadcenter.nlke.com",
