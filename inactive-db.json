@@ -4823,11 +4823,7 @@
             "www2.zapadserver1.com",
             "www21.counsellor.gov.cn",
             "www3.ad.tomshardware.com",
-            "www3.click-fr.com"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "www3.click-fr.com",
             "www3.ddns.ms",
             "www3.ihaberadserver.com",
             "www3.kampanyatakip.net",
@@ -4938,6 +4934,10 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv"
         ]
     }
 }
