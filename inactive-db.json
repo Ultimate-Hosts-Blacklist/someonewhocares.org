@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1521120096": [
+        "1521378484": [
             "#Comment",
             "#commission",
             "#eyeblaster.com",
@@ -22,7 +22,6 @@
             "11398.onceedge.ru",
             "#",
             "123specialgifts.com",
-            "1kdailyprofit.biz",
             "1q0bjj4d39.top",
             "1und1.ivwbox.de",
             "2-art-coliseum.com",
@@ -151,7 +150,12 @@
             "ad.mainichi.jp",
             "ad.moscowtimes.ru",
             "ad.mygamesol.com",
-            "ad.nate.com",
+            "ad.nate.com"
+        ],
+        "to_test": [
+            "ad2.adecn.com",
+            "ad2.bbmedia.cz",
+            "ad2.hotel.com",
             "ad.oret.jp",
             "ad.pandora.tv",
             "ad.preferences.com",
@@ -4932,11 +4936,6 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com"
-        ],
-        "to_test": [
-            "ad2.adecn.com",
-            "ad2.bbmedia.cz",
-            "ad2.hotel.com"
         ]
     }
 }
