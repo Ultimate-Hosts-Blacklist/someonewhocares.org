@@ -4279,11 +4279,7 @@
             "ws.xjb.ac.cn",
             "wss-gw-1.hitbox.com",
             "wss-gw-3.hitbox.com",
-            "wv.5.p2l.info"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "wv.5.p2l.info",
             "wwb.hitbox.com",
             "wwbtads.com",
             "www.0stats.com",
@@ -4415,7 +4411,11 @@
             "www.coolpremiumsnow.com",
             "www.counter.sexhound.nl",
             "www.counter4all.de",
-            "www.cpmadvisors.com",
+            "www.cpmadvisors.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "www.crazywinnings.com",
             "www.crediblegfj.info",
             "www.cshacks.partycat.us",
