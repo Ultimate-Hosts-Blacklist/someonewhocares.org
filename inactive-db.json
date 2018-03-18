@@ -238,11 +238,7 @@
             "adimage.asiaone.com",
             "adimage.asiaone.com.sg",
             "adimages.earthweb.com",
-            "adimages.watchmygf.net"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "adimages.watchmygf.net",
             "adincl.gopher.com",
             "adipex.1.p2l.info",
             "adipex.3.p2l.info",
@@ -304,7 +300,7 @@
             "adj8.thruport.com",
             "adj9.thruport.com",
             "adm.shacknews.com",
-            "adm.xmfish.com",
+            "adman.in.gr",
             "admanager1.collegepublisher.com",
             "admanager2.broadbandpublisher.com",
             "admanager3.collegepublisher.com",
@@ -320,6 +316,7 @@
             "adn.kinkydollars.com",
             "adn.zone-telechargement.com",
             "adnet.chicago.tribune.com",
+            "adnetworkperformance.compopcash.net",
             "adng.ascii24.com",
             "adobur.net",
             "adoburcrv.com",
@@ -548,7 +545,11 @@
             "ads.ngenuity.com",
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
-            "ads.nudecards.com",
+            "ads.nudecards.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
             "ads.onlineathens.com",
