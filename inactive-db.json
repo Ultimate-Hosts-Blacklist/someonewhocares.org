@@ -1673,11 +1673,7 @@
             "ds.247realmedia.com",
             "ds.amateurmatch.com",
             "dt.linkpulse.com",
-            "dubstep.onedumb.com"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "dubstep.onedumb.com",
             "e.as-eu.falkag.net",
             "eads-adserving.com",
             "earnpointsandgifts.com",
@@ -1725,7 +1721,11 @@
             "engage.speedera.net",
             "engager.tmg.nl",
             "engine.adland.ru",
-            "engine.cmmeglobal.com",
+            "engine.cmmeglobal.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "engine.influads.com",
             "enirocode.adtlgc.com",
             "enirodk.adtlgc.com",
