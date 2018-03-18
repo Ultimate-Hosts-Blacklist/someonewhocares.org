@@ -1611,11 +1611,7 @@
             "d.serve-sys.com",
             "d.sspcash.adxcore.com",
             "d.wiyun.com",
-            "d1.openx.org"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "d1.openx.org",
             "d11.zedo.com",
             "d12.zedo.com",
             "da.ce.bd.a9.top.list.ru",
@@ -1677,7 +1673,11 @@
             "ds.247realmedia.com",
             "ds.amateurmatch.com",
             "dt.linkpulse.com",
-            "dubstep.onedumb.com",
+            "dubstep.onedumb.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "e.as-eu.falkag.net",
             "eads-adserving.com",
             "earnpointsandgifts.com",
