@@ -3409,11 +3409,7 @@
             "sc9.admob.com",
             "scan.antispyware-free-scanner.com",
             "scanner.best-click-av1.info",
-            "scanner.best-protect.info"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "scanner.best-protect.info",
             "schlager.oewabox.at",
             "schumacher.adtech.de",
             "scripts.linkz.net",
@@ -3623,7 +3619,11 @@
             "static1.influads.com",
             "statique.secureguards.eu",
             "statistics.dynamicsitestats.com",
-            "statistics.reedbusiness.nl",
+            "statistics.reedbusiness.nl"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "stats.absol.co.za",
             "stats.adbrite.com",
             "stats.big-boards.com",
