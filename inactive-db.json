@@ -2871,11 +2871,7 @@
             "oas.publicitas.ch",
             "oas.sciencemag.org",
             "oas.signonsandiego.com",
-            "oas.startribune.com"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "oas.startribune.com",
             "oasads.whitepages.com",
             "oasc02.247realmedia.com",
             "oasc03.247realmedia.com",
@@ -3042,6 +3038,7 @@
             "openx.shinyads.com",
             "openx.xenium.pl",
             "openxxx.viragemedia.com",
+            "oplaca-sie.pl",
             "opserver01.iti.net.pk",
             "optimize.doubleclick.net",
             "optimzedby.rmxads.com",
@@ -3183,7 +3180,11 @@
             "popups.ad-logics.com",
             "poster-op2joygames.me",
             "postgazettecollect.247realmedia.com",
-            "powabcyfqe.com",
+            "powabcyfqe.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "pple.com.virus-mac.com",
             "pq.stat.ku6.com",
             "pr.5.p2l.info",
