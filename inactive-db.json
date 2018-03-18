@@ -1157,11 +1157,7 @@
             "b.webwise.com",
             "b1.adbrite.com",
             "b1.azjmp.com",
-            "b2b.filecloud.me"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "b2b.filecloud.me",
             "badservant.guj.de",
             "baidutv.baidu.com",
             "balab.portx.net",
@@ -1360,7 +1356,11 @@
             "camerondiaznude.ca.tt",
             "campaign.iitech.dk",
             "campaign.indieclick.com",
-            "campaigns.interclick.com",
+            "campaigns.interclick.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "car-insurance.inshurance-from.com",
             "car-truck-boat-bonuspath.com",
             "car-truck-boat-premiumblvd.com",
