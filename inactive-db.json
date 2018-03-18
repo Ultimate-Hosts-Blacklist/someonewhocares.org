@@ -545,11 +545,7 @@
             "ads.ngenuity.com",
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
-            "ads.nudecards.com"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "ads.nudecards.com",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
             "ads.onlineathens.com",
@@ -911,7 +907,11 @@
             "adserver.usermagnet.com",
             "adserver.virgin.net",
             "adserver.virtualminds.nl",
-            "adserver.voir.ca",
+            "adserver.voir.ca"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "adserver.wemnet.nl",
             "adserver.ya.com",
             "adserver01.ancestry.com",
