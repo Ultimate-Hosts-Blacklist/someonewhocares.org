@@ -1356,11 +1356,7 @@
             "camerondiaznude.ca.tt",
             "campaign.iitech.dk",
             "campaign.indieclick.com",
-            "campaigns.interclick.com"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "campaigns.interclick.com",
             "car-insurance.inshurance-from.com",
             "car-truck-boat-bonuspath.com",
             "car-truck-boat-premiumblvd.com",
@@ -1401,7 +1397,6 @@
             "cdn.go.pol.bbelements.com",
             "cdn.hadj7.adjuggler.net",
             "cdn.hanaging.info",
-            "cdn.hauleddes.com",
             "cdn.holdlads.com",
             "cdn.lazymem.com",
             "cdn.lazymic.com",
@@ -1558,7 +1553,6 @@
             "counter.1stblaze.com",
             "counter.aaddzz.com",
             "counter.adultcheck.com",
-            "counter.adultrevenueservice.com",
             "counter.asexhound.com",
             "counter.credo.ru",
             "counter.digits.com",
@@ -1617,7 +1611,11 @@
             "d.serve-sys.com",
             "d.sspcash.adxcore.com",
             "d.wiyun.com",
-            "d1.openx.org",
+            "d1.openx.org"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "d11.zedo.com",
             "d12.zedo.com",
             "da.ce.bd.a9.top.list.ru",
