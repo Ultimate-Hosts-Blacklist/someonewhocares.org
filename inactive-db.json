@@ -2133,11 +2133,7 @@
             "isg08.casalemedia.com",
             "isg09.casalemedia.com",
             "issges.oewabox.at",
-            "itempana.site"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "itempana.site",
             "itwititer.com",
             "itxt.vibrantmedia.com",
             "ity.elusmedic.ru",
@@ -2648,7 +2644,11 @@
             "media87.fastclick.net",
             "media88.fastclick.net",
             "media89.fastclick.net",
-            "media9.fastclick.net",
+            "media9.fastclick.net"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "media90.fastclick.net",
             "media91.fastclick.net",
             "media92.fastclick.net",
