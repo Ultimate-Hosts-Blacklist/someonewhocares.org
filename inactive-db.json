@@ -4634,11 +4634,7 @@
             "www.mycelloffer.com",
             "www.myfreedinner.com",
             "www.myfreegifts.co.uk",
-            "www.myfreemp3player.com"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv",
+            "www.myfreemp3player.com",
             "www.myluvcrush.ca",
             "www.myoffertracking.com",
             "www.nakhit.com",
@@ -4683,7 +4679,6 @@
             "www.producttestpanel.com",
             "www.purredheanb.online",
             "www.puush.in",
-            "www.qitrck.com",
             "www.quareclk.com",
             "www.radiate.com",
             "www.ravel-rewardpath.com",
@@ -4752,7 +4747,6 @@
             "www.thinlaptoprewards.com",
             "www.thoughtfully-free.com",
             "www.topbrandrewards.com",
-            "www.topdemaroc.com",
             "www.toy-offer.net",
             "www.trackadvertising.net",
             "www.tradedoubler.com.ar",
@@ -4829,7 +4823,11 @@
             "www2.zapadserver1.com",
             "www21.counsellor.gov.cn",
             "www3.ad.tomshardware.com",
-            "www3.click-fr.com",
+            "www3.click-fr.com"
+        ],
+        "to_test": [
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "www3.ddns.ms",
             "www3.ihaberadserver.com",
             "www3.kampanyatakip.net",
