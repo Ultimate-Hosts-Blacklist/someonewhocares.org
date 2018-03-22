@@ -159,9 +159,7 @@
             "ad.searchina.ne.jp",
             "ad.sensismediasmart.com",
             "ad.sharethis.com",
-            "ad.showbizz.net"
-        ],
-        "to_test": [
+            "ad.showbizz.net",
             "ad.sma.punto.net",
             "ad.smni.com",
             "ad.spielothek.so",
@@ -202,7 +200,9 @@
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
             "ad2.tr.mediainter.net",
-            "ad234.prbn.ru",
+            "ad234.prbn.ru"
+        ],
+        "to_test": [
             "ad3.l3go.com",
             "ad3.lbn.ru",
             "ad3.nationalreview.com",
