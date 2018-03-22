@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1521378484": [
+        "1521725750": [
             "#Comment",
             "#commission",
             "#eyeblaster.com",
@@ -55,7 +55,6 @@
             "86log.joy.cn",
             "8cr.purredheanb.online",
             "8ruzz.allcpa.006238.xyz",
-            "a-blog.eu",
             "a-scrip.org",
             "a.adexchangemachine.com",
             "a.admaxserver.com",
@@ -151,6 +150,8 @@
             "ad.moscowtimes.ru",
             "ad.mygamesol.com",
             "ad.nate.com",
+            "ad.oret.jp",
+            "ad.pandora.tv",
             "ad.preferences.com",
             "ad.qwapi.com",
             "ad.reduxmediia.com",
@@ -158,7 +159,9 @@
             "ad.searchina.ne.jp",
             "ad.sensismediasmart.com",
             "ad.sharethis.com",
-            "ad.showbizz.net",
+            "ad.showbizz.net"
+        ],
+        "to_test": [
             "ad.sma.punto.net",
             "ad.smni.com",
             "ad.spielothek.so",
@@ -4934,10 +4937,6 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com"
-        ],
-        "to_test": [
-            "ad.oret.jp",
-            "ad.pandora.tv"
         ]
     }
 }
