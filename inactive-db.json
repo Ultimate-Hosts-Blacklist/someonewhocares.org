@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1521899935": [
+        "1521986798": [
             "#Comment",
             "#commission",
             "#eyeblaster.com",
@@ -199,8 +199,7 @@
             "ad2.pl.mediainter.net",
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
-            "ad2.tr.mediainter.net",
-            "ad234.prbn.ru"
+            "ad2.tr.mediainter.net"
         ],
         "to_test": [
             "ad3.l3go.com",
@@ -4936,7 +4935,8 @@
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
-            "ɢoogle.com"
+            "ɢoogle.com",
+            "ad234.prbn.ru"
         ]
     }
 }
