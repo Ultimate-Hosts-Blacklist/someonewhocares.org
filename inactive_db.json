@@ -4140,9 +4140,7 @@
             "w109.am15.net",
             "w11.am15.net",
             "w11.centralmediaserver.com",
-            "w111.am15.net"
-        ],
-        "to_test": [
+            "w111.am15.net",
             "w112.am15.net",
             "w113.am15.net",
             "w114.am15.net",
@@ -4338,7 +4336,9 @@
             "www.alladultdirectories.com",
             "www.alladultdirectory.net",
             "www.alrpost69.com",
-            "www.apparelncs.com",
+            "www.apparelncs.com"
+        ],
+        "to_test": [
             "www.appleprotection.org",
             "www.applicationwiki.com",
             "www.arbeitssuche-web.de",
