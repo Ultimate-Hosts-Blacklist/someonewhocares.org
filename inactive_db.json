@@ -436,9 +436,7 @@
             "ads.dothads.com",
             "ads.doubleviking.com",
             "ads.drivelinemedia.com",
-            "ads.dumpalink.com"
-        ],
-        "to_test": [
+            "ads.dumpalink.com",
             "ads.ecosalon.com",
             "ads.edirectme.com",
             "ads.einmedia.com",
@@ -736,6 +734,7 @@
             "ads2.advance.net",
             "ads2.advertwizard.com",
             "ads2.canoe.ca",
+            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
@@ -793,7 +792,9 @@
             "adserv.aip.org",
             "adserv.entriq.net",
             "adserv.free6.com",
-            "adserv.geocomm.com",
+            "adserv.geocomm.com"
+        ],
+        "to_test": [
             "adserv.internetfuel.com",
             "adserv.jupiter.com",
             "adserv.muchosucko.com",
