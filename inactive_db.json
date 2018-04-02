@@ -1,9 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1522418613": [
+        "1522688392": [
+            "#Comment",
             "#commission",
+            "#eyeblaster.com",
             "#qksrv",
+            "#See",
+            "#spyware",
             "#This",
+            "#TOP500",
+            "#Toronto",
             "#used",
             "006.freecounters.co.uk",
             "06272002-dbase.hitcountz.net",
@@ -21,7 +27,6 @@
             "2-art-coliseum.com",
             "2.adbrite.com",
             "2.marketbanker.com",
-            "2.speedknow.co",
             "20-yrs-1.info",
             "2001-007.com",
             "207-87-18-203.wsmg.digex.net",
@@ -90,12 +95,12 @@
             "acim.moqhixoz.cn",
             "aciphex.about-tabs.com",
             "action.ientry.net",
-            "#eyeblaster.com",
             "actonel.about-tabs.com",
             "actos.about-tabs.com",
             "acvs.mediaonenetwork.net",
             "acvsrv.mediaonenetwork.net",
             "acyclovir.1.p2l.info",
+            "ad",
             "ad-411.com",
             "ad-servicestats.net",
             "ad-uk.tiscali.com",
@@ -175,6 +180,8 @@
             "ad.webprovider.com",
             "ad.wiredvision.jp",
             "ad.zaman.com",
+            "ad.zaman.com.tr",
+            "ad001.ru",
             "ad01.adonspot.com",
             "ad1.clickhype.com",
             "ad1.gamezone.com",
@@ -195,7 +202,9 @@
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
             "ad2.tr.mediainter.net",
-            "ad234.prbn.ru",
+            "ad234.prbn.ru"
+        ],
+        "to_test": [
             "ad3.l3go.com",
             "ad3.lbn.ru",
             "ad3.nationalreview.com",
@@ -219,7 +228,6 @@
             "adderall.ourtablets.com",
             "adderallxr.freespaces.com",
             "ade.wooboo.com.cn",
-            "#See",
             "adexprt.me",
             "adextensioncontrol.tudou.com",
             "adfarm.mserve.ca",
@@ -621,14 +629,12 @@
             "ads.thefrisky.com",
             "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
-            "#Toronto",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
             "ads.tiscali.com",
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "#TOP500",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
@@ -1225,7 +1231,6 @@
             "benrie.stream",
             "berkleynude.ca.tt",
             "beseenad.looksmart.com",
-            "#spyware",
             "bestgift4you.cn",
             "bestlolaray.com",
             "bestorican.com",
@@ -1880,7 +1885,6 @@
             "gazetteextra.advertserve.com",
             "gc.gcl.ru",
             "gcads.osdn.com",
-            "#Comment",
             "gcir.gannett-tv.com",
             "gcirm.centralohio.com",
             "gcirm.detnews.com",
@@ -4946,7 +4950,6 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
-        ],
-        "to_test": []
+        ]
     }
 }
