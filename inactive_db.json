@@ -202,9 +202,7 @@
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
             "ad2.tr.mediainter.net",
-            "ad234.prbn.ru"
-        ],
-        "to_test": [
+            "ad234.prbn.ru",
             "ad3.l3go.com",
             "ad3.lbn.ru",
             "ad3.nationalreview.com",
@@ -216,6 +214,7 @@
             "ad6.liverail.com",
             "adblockdetect.xyz",
             "adbnr.ru",
+            "adcarem.co",
             "adclient.rottentomatoes.com",
             "adcodes.aim4media.com",
             "adcontent.videoegg.com",
@@ -395,6 +394,7 @@
             "ads.britishexpats.com",
             "ads.calgarysun.com",
             "ads.callofdutyblackopsforum.net",
+            "ads.cardea.se",
             "ads.cardplayer.com",
             "ads.cdfreaks.com",
             "ads.cdnow.com",
@@ -411,6 +411,7 @@
             "ads.cmg.valueclick.net",
             "ads.cnn.com",
             "ads.cnngo.com",
+            "ads.collegclub.com",
             "ads.collegehumor.com",
             "ads.comediagroup.hu",
             "ads.comicbookresources.com",
@@ -435,7 +436,9 @@
             "ads.dothads.com",
             "ads.doubleviking.com",
             "ads.drivelinemedia.com",
-            "ads.dumpalink.com",
+            "ads.dumpalink.com"
+        ],
+        "to_test": [
             "ads.ecosalon.com",
             "ads.edirectme.com",
             "ads.einmedia.com",
