@@ -792,9 +792,7 @@
             "adserv.aip.org",
             "adserv.entriq.net",
             "adserv.free6.com",
-            "adserv.geocomm.com"
-        ],
-        "to_test": [
+            "adserv.geocomm.com",
             "adserv.internetfuel.com",
             "adserv.jupiter.com",
             "adserv.muchosucko.com",
@@ -950,6 +948,7 @@
             "adsintl.starwave.com",
             "adsm.soush.com",
             "adsnew.userfriendly.org",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1083,7 +1082,9 @@
             "api.opencandy.com",
             "api.sagent.io",
             "apodir.oewabox.at",
-            "apopt.hbmediapro.com",
+            "apopt.hbmediapro.com"
+        ],
+        "to_test": [
             "app2.letmacwork.world",
             "app3.letmacwork.world",
             "apparelncs.com",
