@@ -1,16 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1522688392": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
+        "1522935759": [
+            "",
             "006.freecounters.co.uk",
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
@@ -20,8 +11,8 @@
             "1000ps.oewabox.at",
             "10pg.scl5fyd.info",
             "11398.onceedge.ru",
-            "#",
             "123specialgifts.com",
+            "1kdailyprofit.biz",
             "1q0bjj4d39.top",
             "1und1.ivwbox.de",
             "2-art-coliseum.com",
@@ -153,6 +144,7 @@
             "ad.nate.com",
             "ad.oret.jp",
             "ad.pandora.tv",
+            "ad.pgwticketshop.nl",
             "ad.preferences.com",
             "ad.qwapi.com",
             "ad.reduxmediia.com",
@@ -201,7 +193,20 @@
             "ad2.pl.mediainter.net",
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
-            "ad2.tr.mediainter.net",
+            "ad2.tr.mediainter.net"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#",
             "ad234.prbn.ru",
             "ad3.l3go.com",
             "ad3.lbn.ru",
@@ -4987,7 +4992,6 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "ɢoogle.com"
-        ],
-        "to_test": []
+        ]
     }
 }
