@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1523449621": [
+        "1523713628": [
             "",
             "006.freecounters.co.uk",
             "06272002-dbase.hitcountz.net",
@@ -53,7 +53,6 @@
             "a.adstome.com",
             "a.as-eu.falkag.net",
             "a.as-us.falkag.net",
-            "a.backclick.net",
             "a.boom.ro",
             "a.cctv.com",
             "a.collective-media.net",
@@ -116,7 +115,6 @@
             "ad.directmirror.com",
             "ad.directrev.com",
             "ad.download.net",
-            "ad.e-sport.com",
             "ad.espn.starwave.com",
             "ad.favod.net",
             "ad.fnnews.com",
@@ -133,6 +131,7 @@
             "ad.impressbm.co.jp",
             "ad.indomp3z.us",
             "ad.investopedia.com",
+            "ad.ir.ru",
             "ad.isohunt.com",
             "ad.iwin.com",
             "ad.jokeroo.com",
@@ -161,6 +160,7 @@
             "ad.suprnova.org",
             "ad.technoramedia.com",
             "ad.tgdaily.com",
+            "ad.thehill.com",
             "ad.tiscali.com",
             "ad.tomshardware.com",
             "ad.trafficmp.com",
@@ -195,7 +195,20 @@
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
             "ad2.tr.mediainter.net",
-            "ad234.prbn.ru",
+            "ad234.prbn.ru"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#",
             "ad3.l3go.com",
             "ad3.lbn.ru",
             "ad3.nationalreview.com",
@@ -4992,19 +5005,6 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#"
         ]
     }
 }
