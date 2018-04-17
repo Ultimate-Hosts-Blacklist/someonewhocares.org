@@ -1,14 +1,14 @@
-localhost
-localhost.localdomain
-broadcasthost
-localhost
-local
-ip6-localhost ip6-loopback
-ip6-localnet
-ip6-mcastprefix
-ip6-allnodes
-ip6-allrouters
-ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+ip6-localhost
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 goatse.cx
 www.goatse.cx
 oralse.cx
@@ -2300,6 +2300,7 @@ newwayscanner.info
 nextbestgame.org
 no1.unternehemen.com
 no3.unternehmen.org
+noteupgrade.themainplacesetnowforcontentsgo.win
 novemberrainx.com
 nowgetsoft.pushingnewforcontentsafeload.download
 nowinstallupgrade.goodcentralupdatesall.bid
