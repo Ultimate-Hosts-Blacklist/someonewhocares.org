@@ -4821,20 +4821,7 @@
             "www.us-choicevalue.com",
             "www.us-topsites.com",
             "www.usatravel-specials.com",
-            "www.usatravel-specials.net"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#",
+            "www.usatravel-specials.net",
             "www.via22.net",
             "www.via99.org",
             "www.viagra-home.com",
@@ -5007,6 +4994,19 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#"
         ]
     }
 }
