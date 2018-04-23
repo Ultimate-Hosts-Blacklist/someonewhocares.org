@@ -1,19 +1,19 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1524231040": [
+        "1524490448": [
             "",
             "006.freecounters.co.uk",
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "0qizz.super-promo.hoxo.info",
             "1.adbrite.com",
-            "1.allyes.com.cn",
             "1.forgetstore.com",
             "1.httpads.com",
             "1000ps.oewabox.at",
             "10pg.scl5fyd.info",
             "11398.onceedge.ru",
             "123specialgifts.com",
+            "1kdailyprofit.biz",
             "1q0bjj4d39.top",
             "1und1.ivwbox.de",
             "2-art-coliseum.com",
@@ -194,7 +194,20 @@
             "ad2.pl.mediainter.net",
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
-            "ad2.tr.mediainter.net",
+            "ad2.tr.mediainter.net"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#",
             "ad234.prbn.ru",
             "ad3.l3go.com",
             "ad3.lbn.ru",
@@ -5005,19 +5018,6 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#"
         ]
     }
 }
