@@ -4829,20 +4829,7 @@
             "www.traffictraders.com",
             "www.traktum.com",
             "www.travel-leisure-bonuspath.com",
-            "www.travel-leisure-premiumblvd.com"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#",
+            "www.travel-leisure-premiumblvd.com",
             "www.traveladvertising.com",
             "www.traveller-offer.com",
             "www.traveller-offer.net",
@@ -5030,6 +5017,19 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#"
         ]
     }
 }
