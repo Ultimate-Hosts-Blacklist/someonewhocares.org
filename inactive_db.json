@@ -4905,20 +4905,7 @@
             "www2.bannerspace.com",
             "www2.kampanyatakip.net",
             "www2.zapadserver1.com",
-            "www21.counsellor.gov.cn"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#",
+            "www21.counsellor.gov.cn",
             "www3.ad.tomshardware.com",
             "www3.click-fr.com",
             "www3.ddns.ms",
@@ -4961,6 +4948,7 @@
             "wy.5.p2l.info",
             "wybieraj-wygrywaj.pl",
             "wytypowana-osoba-wygrywajaca.pl",
+            "wytypowany-zwyciezca.pl",
             "x-box.t35.com",
             "x-hydrocodone.info",
             "x.admob.com",
@@ -5033,6 +5021,19 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#"
         ]
     }
 }
