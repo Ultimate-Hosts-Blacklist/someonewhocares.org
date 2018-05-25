@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1526997375": [
+        "1527256180": [
             "",
             "006.freecounters.co.uk",
             "06272002-dbase.hitcountz.net",
@@ -24,6 +24,7 @@
             "207-87-18-203.wsmg.digex.net",
             "247adbiz.net",
             "24hwebsex.com",
+            "24trk.com",
             "2754.btrll.com",
             "3.adbrite.com",
             "312.1d27c9b8fb.com",
@@ -43,7 +44,6 @@
             "7cnbcnews.com",
             "7n0zz.300prize.7113879.com",
             "7x7.ruwe.net",
-            "86file.megajoy.com",
             "86get.joy.cn",
             "86log.joy.cn",
             "8cr.purredheanb.online",
@@ -146,6 +146,7 @@
             "ad.oret.jp",
             "ad.pandora.tv",
             "ad.pgwticketshop.nl",
+            "ad.preferences.com",
             "ad.qwapi.com",
             "ad.reduxmediia.com",
             "ad.response.jp",
@@ -171,7 +172,20 @@
             "ad.vurts.com",
             "ad.watch.impress.co.jp",
             "ad.webprovider.com",
-            "ad.wiredvision.jp",
+            "ad.wiredvision.jp"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#",
             "ad.zaman.com",
             "ad.zaman.com.tr",
             "ad001.ru",
@@ -5029,20 +5043,6 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#",
-            "ad.preferences.com"
         ]
     }
 }
