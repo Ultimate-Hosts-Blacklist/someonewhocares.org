@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1527256180": [
+        "1527601762": [
             "",
             "006.freecounters.co.uk",
             "06272002-dbase.hitcountz.net",
@@ -183,7 +183,20 @@
             "ad1.lbn.ru",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
-            "ad101com.adbureau.net",
+            "ad101com.adbureau.net"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#",
             "ad2.adecn.com",
             "ad2.bbmedia.cz",
             "ad2.hotel.com",
@@ -5030,19 +5043,6 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#"
         ]
     }
 }
