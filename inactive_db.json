@@ -5013,20 +5013,7 @@
             "youcanoptout.net",
             "youcanoptout.org",
             "your-free-iphone.com",
-            "your-gift-zone.com"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#",
+            "your-gift-zone.com",
             "yourhotgiftzone.com",
             "ypn-js.overture.com",
             "yrwap.cn",
@@ -5060,6 +5047,19 @@
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
             "ɢoogle.com"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#"
         ]
     }
 }
