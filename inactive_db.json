@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "1530367740": [
+        "1530713059": [
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "0qizz.super-promo.hoxo.info",
@@ -12,7 +12,6 @@
             "11398.onceedge.ru",
             "123specialgifts.com",
             "17003124.xyz",
-            "1kdailyprofit.biz",
             "1q0bjj4d39.top",
             "1und1.ivwbox.de",
             "2-art-coliseum.com",
@@ -98,6 +97,7 @@
             "ad-servicestats.net",
             "ad-uk.tiscali.com",
             "ad-yt-bfp.doubleclick.net",
+            "ad.23blogs.com",
             "ad.3au.doubleclick.net",
             "ad.accessmediaproductions.com",
             "ad.adfunky.com",
@@ -186,7 +186,21 @@
             "ad1.lbn.ru",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
-            "ad101com.adbureau.net",
+            "ad101com.adbureau.net"
+        ],
+        "to_test": [
+            "#Comment",
+            "#commission",
+            "#eyeblaster.com",
+            "#qksrv",
+            "#See",
+            "#spyware",
+            "#This",
+            "#TOP500",
+            "#Toronto",
+            "#used",
+            "#",
+            "",
             "ad2.adecn.com",
             "ad2.bbmedia.cz",
             "ad2.hotel.com",
@@ -5083,21 +5097,7 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
-            "ɢoogle.com"
-        ],
-        "to_test": [
-            "#Comment",
-            "#commission",
-            "#eyeblaster.com",
-            "#qksrv",
-            "#See",
-            "#spyware",
-            "#This",
-            "#TOP500",
-            "#Toronto",
-            "#used",
-            "#",
-            "",
+            "ɢoogle.com",
             "006.freecounters.co.uk"
         ]
     }
