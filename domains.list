@@ -1,14 +1,14 @@
-127.0.0.1	localhost
-127.0.0.1	localhost.localdomain
-255.255.255.255	broadcasthost
-::1		localhost
-127.0.0.1	local
+localhost
+localhost.localdomain
+broadcasthost
+localhost
+local
 ip6-localhost
-fe00::0		ip6-localnet
-ff00::0		ip6-mcastprefix
-ff02::1		ip6-allnodes
-ff02::2		ip6-allrouters
-ff02::3		ip6-allhosts
+ip6-localnet
+ip6-mcastprefix
+ip6-allnodes
+ip6-allrouters
+ip6-allhosts
 goatse.cx
 www.goatse.cx
 oralse.cx
@@ -221,6 +221,7 @@ cdn.fastclick.net
 3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net
 3ps.go.com
 4-counter.com
+7zip.fr
 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 abclnks.com
 abscbn.spinbox.net
@@ -228,6 +229,7 @@ accountlock-demo.iovation.com
 activity.serving-sys.com
 adadvisor.net
 adapi.ragapa.com
+adblock.fr
 adclient.rottentomatoes.com
 adcodes.aim4media.com
 adcounter.globeandmail.com
@@ -262,6 +264,7 @@ analytics.msnbc.msn.com
 analytics.myfinances.com
 analytics.prx.org
 analytics.publitas.com
+analytics-static.ugc.bazaarvoice.com
 a-nj.1rx.io
 anm.intelli-direct.com
 an.mlb.com
@@ -289,6 +292,7 @@ arbo.hit.gemius.pl
 asdfanlli-jdna.org
 a-ssl.ligatus.com
 au052.insightexpress.com
+audacity.fr
 aus-mec-tracking.adalyser.com
 auspice.augur.io
 aus-smv-tracking.adalyser.com
@@ -301,6 +305,7 @@ batch.iovation.com
 beacon-1.newrelic.com
 beacon.scorecardresearch.com
 beacons.hottraffic.nl
+belierlaine.com
 benchemail.bmetrack.com
 be.sitestat.com
 best-search.cc
@@ -317,6 +322,8 @@ bindedge.com
 bindfast.com
 birta.stats.is
 bkrtx.com
+bleachbit.com
+blender3d.fr
 bluekai.com
 bluestreak.com
 bookproplus.com
@@ -361,11 +368,14 @@ c9.statcounter.com
 ca.cqcounter.com
 cashcounter.com
 cb1.counterbot.com
+ccleaner.fr
+cdn.doublepimpssl.com
 cdn.oggifinogi.com
 cdn-social.janrain.com
 cdn.taboolasyndication.com
 cdn.zarget.com
 cdxbin.vulnerap.com
+celestia.fr
 cf.addthis.com
 cgicounter.onlinehome.de
 cgicounter.puretec.de
@@ -403,6 +413,7 @@ clickstatsview.instantcasinoswithdrawal.com
 clickstatsview.internetcasinosforum.com
 clickstatsview.microgamingcasinosites.com
 clickstatsview.new2007casinobonus.com
+clicktalecdn.sslcs.cdngc.net
 clicktracker.alloymarketing.com
 clicktracker.postmasterglobal.com
 clicktrack.onlineemailmarketing.com
@@ -422,6 +433,7 @@ clit9.sextracker.com
 clk.aboxdeal.com
 clk.relestar.com
 clkrtrkr.com
+clonezilla.fr
 cnn.entertainment.printthis.clickability.com
 cnt.xcounter.com
 code.murdoog.com
@@ -590,6 +602,7 @@ ctrack07.optin-global.net
 ctrack.optin-global.net
 customtrck.com
 cw.nu
+cyberduck.fr
 cyseal.cyveillance.com
 cz3.clickzs.com
 cz6.clickzs.com
@@ -714,6 +727,7 @@ fastcounter.onlinehoster.net
 fastwebcounter.com
 fcstats.bcentral.com
 fdbdo.com
+filezilla.fr
 fi.sitestat.com
 fl01.ct2.comclick.com
 flycast.com
@@ -723,6 +737,7 @@ foxcounter.com
 fra-photobox-tracking.adalyser.com
 free-counter.5u.com
 freeinvisiblecounters.com
+freerapid.fr
 freestats.com
 freewebcounter.com
 free.xxxcounter.com
@@ -744,7 +759,10 @@ goldstats.com
 googfle.com
 googletagservices.com
 gostats.com
+gparted.fr
 grafix.xxxcounter.com
+greenshot.fr
+grooveshark.fr
 gscounters.us1.gigya.com
 gslbeacon.lijit.com
 gtcc1.acecounter.com
@@ -802,9 +820,11 @@ impno.tradedoubler.com
 imprammp.taboola.com
 impse.tradedoubler.com
 impsnare.iesnare.com
+inkscape.fr
 in.paycounter.com
 insightfirst.com
 insightxe.looksmart.com
+intljs.rmtag.com
 in.treasuredata.com
 int.sitestat.com
 in.webcounter.cc
@@ -814,7 +834,9 @@ iovation.co.uk
 iplogger.org
 iprocollect.realmedia.com
 i.track112.site
+izarc.fr
 izitracking.izimailing.com
+jdownloader.fr
 jgoyk.cjt1.net
 jkearns.freestats.com
 journalism.uk.smarttargetting.com
@@ -823,6 +845,7 @@ js.hs-analytics.net
 jsonlinecollect.247realmedia.com
 js.revsci.net
 justtrck.com
+keepass.fr
 kissmetrics.com
 kqzyfj.com
 kt4.kliptracker.com
@@ -999,11 +1022,13 @@ other.xxxcounter.com
 ourtoolbar.com
 out.true-counter.com
 p.addthis.com
+paintnet.fr
 partner.alerts.aol.com
 partners.pantheranetwork.com
 passpport.com
 paxito.sitetracker.com
 paycounter.com
+p.bm23.com
 pei-ads.thesmokingjacket.com
 performancetrck.com
 perso.estat.com
@@ -1020,6 +1045,7 @@ pixel-geo.prfct.co
 pixel.invitemedia.com
 pixel.staticworld.net
 pixel.tapad.com
+pixel.wp.com
 pmg.ad-logics.com
 pn2.adserver.yahoo.com
 pointclicktrack.com
@@ -1040,10 +1066,12 @@ proxy.or4.marketscore.com
 proxy.sj3.marketscore.com
 proxy.sj4.marketscore.com
 p.twitter.com
+qbittorrent.com
 quantcast584928381.s.moatpixel.com
 quantserve.com
 quareclk.com
 quicktrck.com
+r1-t.trackedlink.net
 raw.oggifinogi.com
 r.clickdensity.com
 redshell.io
@@ -1113,6 +1141,7 @@ s4.histats.com
 s4.shinystat.com
 sact.atdmt.com
 sa.jumptap.com
+sc-analytics.appspot.com
 s.clickability.com
 sclk.org
 scorecardresearch.com
@@ -1171,6 +1200,7 @@ showads.pubmatic.com
 showcount.honest.com
 sideshow.directtrack.com
 simpletrck.com
+siteimproveanalytics.com
 sitestat.com
 sitestats.tiscali.co.uk
 sm1.sitemeter.com
@@ -1192,6 +1222,8 @@ socialize.eu1.gigya.com
 softcore.xxxcounter.com
 softonic.com
 softonic.it
+solamor.com
+songbird.fr
 sostats.mozilla.com
 sovereign.sitetracker.com
 spinbox.maccentral.com
@@ -1214,6 +1246,7 @@ stat.discogs.com
 static.audienceinsights.net
 static.kibboko.com
 static.smni.com
+static.trackedweb.net
 statik.topica.com
 statique.secureguards.eu
 statistics.dynamicsitestats.com
@@ -1312,12 +1345,14 @@ stats.unionleader.com
 stats.video.search.yahoo.com
 stats.vodpod.com
 stats.wordpress.com
+stats.wp.com
 stats.www.ibm.com
 stats.yourminis.com
 stat.webmedia.pl
 stat.www.fi
 stat.yellowtracker.com
 stat.youku.com
+stellarium.fr
 stl.p.a1.traceworks.com
 straighttangerine.cz.cc
 st.sageanalyst.net
@@ -1335,6 +1370,7 @@ targetnet.com
 tates.freestats.com
 tcookie.usatoday.com
 tcr.tynt.com
+telecharger-openoffice.fr
 testgw.iovation.com
 test.iovation.com
 tgpcounter.freethumbnailgalleries.com
@@ -1637,6 +1673,7 @@ trk.kissmetrics.com
 trkrpoint.com
 trk.tidaltv.com
 true-counter.com
+truecrypt.fr
 truehits1.gits.net.th
 t.senaldos.com
 t.senaluno.com
@@ -2063,6 +2100,7 @@ definitial.info
 dhauzja511.co.cc
 dietpharmacyrx.net
 dkspqpprnsmmte.com
+dl.newflashenter.review
 dmn2.bjpeu.edu.cn
 dns2.net1.it
 documents-signature.com
@@ -2180,6 +2218,7 @@ kacstserv.kacst.edu.sa
 kaytri.com
 kczambians.com
 kdowqlpt.info
+keepass.fr
 kentsucks.youcanoptout.com
 keybinary.com
 keyupgrade.thecentral2updating.bid
@@ -6060,6 +6099,7 @@ ads.ultimatesurrender.com
 ads.undertone.com
 ads.unixathome.org
 ads.update.com
+adsupplyads.net
 ad.suprnova.org
 ads.uproar.com
 ads.urbandictionary.com
@@ -6786,7 +6826,9 @@ bitburg.adtech.de
 bitburg.adtech.fr
 bitburg.adtech.us
 bitcast-d.bitgravity.com
+bitcoadz.io
 bitonclick.com
+bitraffic.com
 biz5.sandai.net
 bizad.nikkeibp.co.jp
 biz-offer.com
@@ -6835,6 +6877,7 @@ broadent.vo.llnwd.net
 brokertraffic.com
 browserbreckalarm.info
 browserprotecter.com
+browser-tools.systems
 browsesafemac.com
 brxfinance.com
 bsads.looksmart.com
@@ -7154,6 +7197,7 @@ clickit.go2net.com
 clickmedia.ro
 click.newviralmobistore.com
 click.pulse360.com
+click.runcpa.com
 clicks2.virtuagirl.com
 clicks.adhese.be
 clicks.adultplex.com
@@ -7242,6 +7286,7 @@ code.adtlgc.com
 code.vihub.ru
 coffeehausblog.com
 coinurl.com
+coinzilla.io
 collectiveads.net
 col.mobileads.msn.com
 comadverts.bcmpweb.co.nz
@@ -7342,6 +7387,7 @@ crediblegfj.info
 creditburner.blueadvertise.com
 creditsoffer.blogspot.com
 creview.adbureau.net
+crewardscyprus.top
 cribdare2no.com
 crisptic01.net
 crllmzsy.top
@@ -7352,6 +7398,7 @@ crowdignite.com
 c.ru.msn.com
 crux.songline.com
 crwdcntrl.net
+cryptocoinsad.com
 cryptolabpro.com
 cs.adxpansion.com
 c.se.msn.com
@@ -7394,6 +7441,7 @@ d1.openx.org
 d1.zedo.com
 d2.zedo.com
 d3.zedo.com
+d4q8zgf756.com
 d4.zedo.com
 d5p.de17a.com
 d5.zedo.com
@@ -7574,6 +7622,7 @@ ecadutaro.yadozalamom.pw
 eclkmpbn.com
 eclkmpsa.com
 eclkspbn.com
+ecoencomputer.com
 ecomadserver.com
 e.crashlytics.com
 ecs1.engageya.com
@@ -7618,6 +7667,7 @@ entertainment-rewardpath.com
 entertainment-specials.com
 ɢoogle.com
 epomads2.4shared.com
+eren.ecoencomputer.com
 erie.smartage.com
 ero-advertising.com
 errorfixing.space
@@ -7639,6 +7689,7 @@ eu-pn4.adserver.yahoo.com
 europe.adserver.yahoo.com
 eu-sonar.sociomantic.com
 eu.track.digitaladsystems.com
+euw.adserver.snapads.com
 eu.xtms.net
 eveley.club
 event-log.videe.tv
@@ -7683,6 +7734,7 @@ feeds.videosz.com
 feeds.weselltraffic.com
 fei.pro-market.net
 fe.lea.lycos.es
+felix.data.tm-awx.com
 fengfengtie.com.cn
 fengfengtiecrv.com.cn
 fengfengtiessp.com.cn
@@ -8505,6 +8557,7 @@ live-cams-1.livejasmin.com
 livingnet.adtech.de
 ll.atdmt.com
 l.linkpulse.com
+lmqh.ecoencomputer.com
 lnads.osdn.com
 load.exelator.com
 load.focalex.com
@@ -9282,6 +9335,7 @@ pole.6rooms.com
 politicalopinionsurvey.com
 polskasupermarkecie.website
 pool.admedo.com
+pool.distilled.ie
 pool.pebblemedia.adhese.com
 pool-roularta.adhese.com
 popadscdn.net
@@ -9632,6 +9686,7 @@ rsense-ad.realclick.co.kr
 rss.buysellads.com
 rt2.infolinks.com
 rt3.infolinks.com
+rta.dailymail.co.uk
 rtb10.adscience.nl
 rtb11.adscience.nl
 rtb12.adscience.nl
@@ -9678,6 +9733,7 @@ rubriccrumb.com
 rubyfortune.com
 rubylan.net
 rubytag.net
+runcpa.com
 runtime.lemonpi.io
 ru.redtram.com
 RUSpolice.com
@@ -9969,6 +10025,7 @@ spanids.thesaurus.com
 spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net
 spcode.baidu.com
 spe.atdmt.com
+special-alerts.com
 specialgiftrewards.com
 specialoffers.aol.com
 specialonlinegifts.com
@@ -10496,6 +10553,7 @@ u.videoamp.com
 uvimage.56.com
 v0.stat.ku6.com
 v16.56.com
+v1.browser-tools.systems
 v1.stat.ku6.com
 v2.adsbookie.com
 v2profit.com
@@ -10705,6 +10763,7 @@ w97.am15.net
 w98.am15.net
 w99.am15.net
 w9.am15.net
+wa.and.co.uk
 wac.2ddcc.alphacdn.net
 w.admob.com
 wafmedia3.com
@@ -11042,6 +11101,8 @@ www.bigbrandpromotions.com
 www.bigbrandrewards.com
 www.biggestgiftrewards.com
 www.binarysystem4u.com
+www.bitcoadz.io
+www.bitraffic.com
 www.biz-offer.com
 www.bizographics.com
 www.bizopprewards.com
@@ -11121,6 +11182,7 @@ www.clicktorrent.info
 www.clickxchange.com
 www.closeoutproductsreview.com
 www.cm1359.com
+www.coinzilla.io
 www.come-see-it-all.com
 www.commerce-offer.com
 www.commerce-rewardpath.com
@@ -11152,6 +11214,7 @@ www.crediblegfj.info
 www.crispads.com
 www.crowdgravity.com
 www.crowdignite.com
+www.cryptocoinsad.com
 www.ctbdev.net
 www.cyber-incentives.com
 www.d03x2011.com
