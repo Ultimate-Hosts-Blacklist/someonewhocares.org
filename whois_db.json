@@ -165,6 +165,11 @@
             "expiration_date": "28-feb-2020",
             "state": "future"
         },
+        "32red.it": {
+            "epoch": "1540598400",
+            "expiration_date": "27-oct-2018",
+            "state": "past"
+        },
         "360ads.com": {
             "epoch": "1571356800",
             "expiration_date": "18-oct-2019",
