@@ -320,6 +320,16 @@
             "expiration_date": "13-jun-2019",
             "state": "future"
         },
+        "ad-clicks.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "ad-delivery.net": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
         "ad-feeds.com": {
             "epoch": "1571011200",
             "expiration_date": "14-oct-2019",
@@ -418,6 +428,21 @@
         "ad6media.fr": {
             "epoch": "1555718400",
             "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "adconscious.com": {
+            "epoch": "1558483200",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "addenly.info": {
+            "epoch": "1567900800",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "addfreestats.com": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
             "state": "future"
         },
         "addthis.com": {
@@ -743,6 +768,11 @@
         "adsdaq.com": {
             "epoch": "1565568000",
             "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "adsearch.pl": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
             "state": "future"
         },
         "adserver.com": {
