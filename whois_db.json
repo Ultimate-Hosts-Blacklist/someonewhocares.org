@@ -65,6 +65,11 @@
             "expiration_date": "31-may-2019",
             "state": "future"
         },
+        "1kdailyprofit.biz": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
         "1man1jar.org": {
             "epoch": "1566259200",
             "expiration_date": "20-aug-2019",
@@ -261,8 +266,8 @@
             "state": "future"
         },
         "a7cleaner.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "a98spolicies.com": {
