@@ -1220,6 +1220,11 @@
             "expiration_date": "21-aug-2018",
             "state": "past"
         },
+        "arbomedia.pl": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
         "aritzal.com": {
             "epoch": "1591920000",
             "expiration_date": "12-jun-2020",
