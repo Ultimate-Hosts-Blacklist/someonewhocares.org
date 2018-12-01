@@ -5018,7 +5018,7 @@
         "nearbyad.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "needadvertising.com": {
             "epoch": "1562198400",
@@ -5063,7 +5063,7 @@
         "newclk.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "neweggstats.com": {
             "epoch": "1565654400",
