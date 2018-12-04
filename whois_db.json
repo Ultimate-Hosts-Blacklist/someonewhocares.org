@@ -4618,7 +4618,7 @@
         "merryholidays.org": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "messardu.com": {
             "epoch": "1571702400",
@@ -4918,7 +4918,7 @@
         "mygiftresource.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "mygreatrewards.com": {
             "epoch": "1566691200",
@@ -5021,9 +5021,9 @@
             "state": "future"
         },
         "nearbyad.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "needadvertising.com": {
             "epoch": "1562198400",
@@ -5066,9 +5066,9 @@
             "state": "future"
         },
         "newclk.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "neweggstats.com": {
             "epoch": "1565654400",
@@ -5093,7 +5093,7 @@
         "newsprofin.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "newtger.info": {
             "epoch": "1548374400",
