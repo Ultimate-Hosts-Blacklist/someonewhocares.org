@@ -3596,9 +3596,9 @@
             "state": "future"
         },
         "grz67.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "guiaconsumidor.com": {
             "epoch": "1613001600",
@@ -3606,8 +3606,8 @@
             "state": "future"
         },
         "guide2poker.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "guildofangels.net": {
@@ -3788,7 +3788,7 @@
         "housedman.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "howtobuildsoftware.com": {
             "epoch": "1564444800",
