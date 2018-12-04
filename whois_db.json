@@ -2651,8 +2651,8 @@
             "state": "future"
         },
         "directleads.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "dirtyrhino.com": {
@@ -2723,7 +2723,7 @@
         "dowelsobject.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "downads.com": {
             "epoch": "1558742400",
