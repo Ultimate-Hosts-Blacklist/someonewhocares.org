@@ -510,6 +510,11 @@
             "expiration_date": "15-oct-2019",
             "state": "future"
         },
+        "adexprt.me": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
         "adexprts.com": {
             "epoch": "1575676800",
             "expiration_date": "07-dec-2019",
@@ -551,8 +556,8 @@
             "state": "future"
         },
         "adireland.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "adition.com": {
