@@ -3646,8 +3646,8 @@
             "state": "future"
         },
         "hashing.win": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "havakhosh.com": {
@@ -4026,8 +4026,8 @@
             "state": "future"
         },
         "itsfree123.com": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com": {
@@ -4073,7 +4073,7 @@
         "jarsquatter.com": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "jdownloader.fr": {
             "epoch": "1550880000",
