@@ -4893,7 +4893,7 @@
         "my-uq.com": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "myanyone.net": {
             "epoch": "1556582400",
