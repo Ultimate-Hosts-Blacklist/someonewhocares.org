@@ -6533,7 +6533,7 @@
         "strawpoii.me": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "stream-direct.co": {
             "epoch": "1553817600",
@@ -6806,8 +6806,8 @@
             "state": "future"
         },
         "thecounter.com": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "thehomo.org": {
@@ -6928,32 +6928,32 @@
         "toolbarbest.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toolbarbucks.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toolbarcool.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toolbardollars.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toolbarmoney.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toolbarnew.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toolbarpartner.com": {
             "epoch": "1574812800",
@@ -6963,12 +6963,12 @@
         "toolbarsale.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toolbarweb.biz": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "topbestgames.com": {
             "epoch": "1565827200",
