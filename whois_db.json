@@ -5376,8 +5376,8 @@
             "state": "future"
         },
         "performancetrck.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "phonejapan.com": {
@@ -6038,7 +6038,7 @@
         "sazadubo48.bid": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sc10.net": {
             "epoch": "1567296000",
