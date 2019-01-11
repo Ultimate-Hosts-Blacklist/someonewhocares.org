@@ -870,6 +870,21 @@
             "expiration_date": "08-jan-2020",
             "state": "future"
         },
+        "adserver.pl": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "adserversolutions.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "past"
+        },
+        "adservicestats.com": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
         "adsmart.com": {
             "epoch": "1586304000",
             "expiration_date": "08-apr-2020",
