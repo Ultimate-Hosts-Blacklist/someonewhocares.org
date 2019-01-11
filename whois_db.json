@@ -1101,8 +1101,8 @@
             "state": "future"
         },
         "ahzahg6ohb.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "ajcclassifieds.com": {
@@ -1188,7 +1188,7 @@
         "apex-ad.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "app-measurement.com": {
             "epoch": "1560902400",
