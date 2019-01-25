@@ -3940,6 +3940,11 @@
             "expiration_date": "10-dec-2019",
             "state": "future"
         },
+        "hatter-story.info": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
         "havakhosh.com": {
             "epoch": "1558137600",
             "expiration_date": "18-may-2019",
@@ -3970,6 +3975,11 @@
             "expiration_date": "27-dec-2018",
             "state": "past"
         },
+        "heti-naplo.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
         "hg8dc7bm.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
@@ -3998,6 +4008,81 @@
         "hipersushiads.com": {
             "epoch": "1591920000",
             "expiration_date": "12-jun-2020",
+            "state": "future"
+        },
+        "hir-online.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "hir-tv.com": {
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "hirado-online.net": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "hirado.top": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "past"
+        },
+        "hirek.top": {
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "hirkert.info": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "hirkozlo.com": {
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "hirmadar.com": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "hirnaplo.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "hironline24.net": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "hirorigo.net": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "hirozon.info": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "hirportal.info": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "hirvarazs.info": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "hirzona24.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
             "state": "future"
         },
         "histats.com": {
@@ -4110,6 +4195,11 @@
             "expiration_date": "28-jan-2019",
             "state": "future"
         },
+        "hungaryexpres.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
         "i4track.net": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
@@ -4198,6 +4288,11 @@
         "inclk.com": {
             "epoch": "1555545600",
             "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "index-blog.net": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "indisancal.com": {
