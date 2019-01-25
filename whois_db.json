@@ -406,8 +406,8 @@
             "state": "future"
         },
         "ad-srv.net": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "ad-u.com": {
@@ -970,6 +970,11 @@
             "expiration_date": "11-feb-2019",
             "state": "future"
         },
+        "adsrv.me": {
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
         "adsrvr.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
@@ -1013,6 +1018,11 @@
         "adsynergy.com": {
             "epoch": "1570060800",
             "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "adtag.cc": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
             "state": "future"
         },
         "adtaily.com": {
@@ -1121,8 +1131,8 @@
             "state": "future"
         },
         "advmaker.ru": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "advplace.com": {
@@ -1238,6 +1248,16 @@
         "ako.cc": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "aktiv-blog.com": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "aktiv-hirek.net": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
             "state": "future"
         },
         "ale-gratka.pl": {
