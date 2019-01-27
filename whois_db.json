@@ -6525,6 +6525,11 @@
             "expiration_date": "30-mar-2020",
             "state": "future"
         },
+        "remekcikkek.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
         "rencontreavenue.com": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
@@ -6638,6 +6643,11 @@
         "rpgmasterleague.com": {
             "epoch": "1575331200",
             "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "rtlhirek-online.com": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
             "state": "future"
         },
         "ru4.com": {
