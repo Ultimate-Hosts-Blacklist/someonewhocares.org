@@ -7255,6 +7255,11 @@
             "expiration_date": "15-apr-2019",
             "state": "future"
         },
+        "suhunsoo.uk": {
+            "epoch": "1603324800",
+            "expiration_date": "22-oct-2020",
+            "state": "future"
+        },
         "sumome.com": {
             "epoch": "1575590400",
             "expiration_date": "06-dec-2019",
@@ -7321,8 +7326,8 @@
             "state": "future"
         },
         "swfhostltd.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "symbiosting.com": {
@@ -7345,6 +7350,11 @@
             "expiration_date": "28-sep-2025",
             "state": "future"
         },
+        "szabadonebredok.info": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
         "szalonenagrody.com": {
             "epoch": "1571356800",
             "expiration_date": "18-oct-2019",
@@ -7353,6 +7363,11 @@
         "szalonepromocje.com": {
             "epoch": "1571356800",
             "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "szerencses.info": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
             "state": "future"
         },
         "tahoesup.com": {
@@ -7570,6 +7585,11 @@
             "expiration_date": "07-dec-2019",
             "state": "future"
         },
+        "tiltott.net": {
+            "epoch": "1552608000",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
         "timelywebsitehostesses.com": {
             "epoch": "1565827200",
             "expiration_date": "15-aug-2019",
@@ -7585,14 +7605,19 @@
             "expiration_date": "09-feb-2019",
             "state": "future"
         },
+        "titokterminal.com": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "todayresearch.com": {
             "epoch": "1560643200",
             "expiration_date": "16-jun-2019",
             "state": "future"
         },
         "tommysbookmarks.com": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "tommysbookmarks.net": {
@@ -7686,8 +7711,8 @@
             "state": "future"
         },
         "topstats.com": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "torjackan.info": {
