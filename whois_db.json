@@ -1290,6 +1290,16 @@
             "expiration_date": "16-sep-2019",
             "state": "future"
         },
+        "anephangja.com": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "anepszava.com": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
         "ankieta-online.pl": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
@@ -1338,6 +1348,11 @@
         "app-measurement.com": {
             "epoch": "1560902400",
             "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "appdatum.com": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
             "state": "future"
         },
         "application-software-store-net.win": {
