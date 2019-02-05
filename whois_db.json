@@ -4041,8 +4041,8 @@
             "state": "future"
         },
         "hirado-online.net": {
-            "epoch": "1549065600",
-            "expiration_date": "02-feb-2019",
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
             "state": "future"
         },
         "hirado.top": {
@@ -4553,6 +4553,11 @@
         "jyhfuqoh.info": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "kaprazatos.club": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
             "state": "future"
         },
         "kaytri.com": {
