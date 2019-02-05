@@ -1708,12 +1708,12 @@
         "bindedge.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "bindfast.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "biromacos.com": {
             "epoch": "1571875200",
@@ -1926,8 +1926,8 @@
             "state": "future"
         },
         "btlsurvey.com": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "budapest1873.net": {
