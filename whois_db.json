@@ -2888,7 +2888,7 @@
         "diskager.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "disqusads.com": {
             "epoch": "1576454400",
