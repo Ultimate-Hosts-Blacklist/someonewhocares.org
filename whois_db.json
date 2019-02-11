@@ -1706,14 +1706,14 @@
             "state": "future"
         },
         "bindedge.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "bindfast.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "biromacos.com": {
             "epoch": "1571875200",
@@ -2166,8 +2166,8 @@
             "state": "future"
         },
         "chelick.net": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "choicedealz.com": {
