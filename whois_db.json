@@ -2750,6 +2750,11 @@
             "expiration_date": "25-feb-2019",
             "state": "future"
         },
+        "dailynewstonight.com": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
         "damavandkuh.com": {
             "epoch": "1558137600",
             "expiration_date": "18-may-2019",
@@ -2881,14 +2886,14 @@
             "state": "future"
         },
         "dirtyrhino.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "diskager.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "disqusads.com": {
             "epoch": "1576454400",
