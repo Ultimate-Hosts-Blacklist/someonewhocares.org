@@ -773,12 +773,12 @@
         "adrotate.se": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "adrotator.se": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "adrunnr.com": {
             "epoch": "1614643200",
