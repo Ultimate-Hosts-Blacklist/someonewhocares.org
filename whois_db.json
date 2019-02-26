@@ -930,6 +930,11 @@
             "expiration_date": "28-sep-2019",
             "state": "future"
         },
+        "adsmart.co.uk": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "past"
+        },
         "adsmart.com": {
             "epoch": "1586304000",
             "expiration_date": "08-apr-2020",
@@ -966,8 +971,8 @@
             "state": "future"
         },
         "adspiro.pl": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
             "state": "future"
         },
         "adsrevenue.net": {
@@ -988,6 +993,11 @@
         "adsrvr.org": {
             "epoch": "1616976000",
             "expiration_date": "29-mar-2021",
+            "state": "future"
+        },
+        "adsspace.net": {
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
             "state": "future"
         },
         "adstogo.com": {
@@ -1190,6 +1200,11 @@
             "expiration_date": "20-aug-2019",
             "state": "future"
         },
+        "afform.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
         "affpartners.com": {
             "epoch": "1581292800",
             "expiration_date": "10-feb-2020",
@@ -1223,7 +1238,7 @@
         "afunnygames.com": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "agardomains.com": {
             "epoch": "1569196800",
