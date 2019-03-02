@@ -696,8 +696,8 @@
             "state": "future"
         },
         "admez.com": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
             "state": "future"
         },
         "admxxx.com": {
@@ -741,9 +741,9 @@
             "state": "future"
         },
         "adobur.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
         },
         "adocean.pl": {
             "epoch": "1552867200",
