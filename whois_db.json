@@ -6298,7 +6298,7 @@
         "pleasewait.co": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "ploaz54.com": {
             "epoch": "1554508800",
@@ -6673,7 +6673,7 @@
         "realizmobi.com": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "rebevengwas.com": {
             "epoch": "1572480000",
@@ -6863,6 +6863,11 @@
         "runcpa.com": {
             "epoch": "1574121600",
             "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "runtnc.net": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
             "state": "future"
         },
         "russian-sex.com": {
