@@ -510,6 +510,11 @@
             "expiration_date": "31-jul-2019",
             "state": "future"
         },
+        "ad-up.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
         "ad-vice.biz": {
             "epoch": "1582848000",
             "expiration_date": "28-feb-2020",
@@ -1150,6 +1155,11 @@
             "expiration_date": "09-jun-2019",
             "state": "future"
         },
+        "adspics.com": {
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
         "adspirit.net": {
             "epoch": "1567987200",
             "expiration_date": "09-sep-2019",
@@ -1158,6 +1168,11 @@
         "adspiro.pl": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "adspoll.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
             "state": "future"
         },
         "adsrevenue.net": {
@@ -1193,6 +1208,11 @@
         "adstome.com": {
             "epoch": "1576454400",
             "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "adsupplyads.com": {
+            "epoch": "1593043200",
+            "expiration_date": "25-jun-2020",
             "state": "future"
         },
         "adsupplyads.net": {
@@ -1275,6 +1295,16 @@
             "expiration_date": "30-mar-2019",
             "state": "future"
         },
+        "adtrix.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "adult-top-list.com": {
+            "epoch": "1558310400",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
         "adultadworld.com": {
             "epoch": "1566172800",
             "expiration_date": "19-aug-2019",
@@ -1285,9 +1315,24 @@
             "expiration_date": "28-nov-2019",
             "state": "future"
         },
+        "advaliant.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "advancedmaccleaner.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
         "advancing-technology.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "advanpromo.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
             "state": "future"
         },
         "advconversion.com": {
@@ -1315,9 +1360,24 @@
             "expiration_date": "04-jan-2020",
             "state": "future"
         },
+        "advertpro.com": {
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
         "advertstream.com": {
             "epoch": "1574726400",
             "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "advertyz.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "adview.cn": {
+            "epoch": "1597881600",
+            "expiration_date": "20-aug-2020",
             "state": "future"
         },
         "adview.pl": {
