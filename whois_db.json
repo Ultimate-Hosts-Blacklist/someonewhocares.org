@@ -10080,6 +10080,11 @@
             "expiration_date": "21-sep-2019",
             "state": "future"
         },
+        "xbn.ru": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
         "xcnn.com": {
             "epoch": "1573603200",
             "expiration_date": "13-nov-2019",
@@ -10125,6 +10130,11 @@
             "expiration_date": "23-mar-2019",
             "state": "future"
         },
+        "xn--turkishirlines-1p8g.com": {
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
         "xpantivirus.com": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
@@ -10140,6 +10150,11 @@
             "expiration_date": "07-jun-2019",
             "state": "future"
         },
+        "xvideoslive.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
         "xxlargepop.com": {
             "epoch": "1560038400",
             "expiration_date": "09-jun-2019",
@@ -10150,9 +10165,29 @@
             "expiration_date": "07-dec-2019",
             "state": "future"
         },
+        "xxxnations.com": {
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "xxxtoolbar.com": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "y8.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
         "yadro.ru": {
             "epoch": "1579651200",
             "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "yceml.net": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
             "state": "future"
         },
         "yie4zooseif.info": {
@@ -10163,6 +10198,11 @@
         "yieldmanager.net": {
             "epoch": "1552780800",
             "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "yieldpartners.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
             "state": "future"
         },
         "yllix.com": {
@@ -10190,9 +10230,19 @@
             "expiration_date": "07-feb-2020",
             "state": "future"
         },
+        "youf1le.com": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
         "youfck.com": {
             "epoch": "1571788800",
             "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "youfiletor.com": {
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
             "state": "future"
         },
         "yourdvdplayer.com": {
@@ -10203,6 +10253,11 @@
         "yourfreegascard.com": {
             "epoch": "1563840000",
             "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "yourfuckbook.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
             "state": "future"
         },
         "yourgascards.com": {
@@ -10240,6 +10295,11 @@
             "expiration_date": "11-feb-2020",
             "state": "future"
         },
+        "ypmate.com": {
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
         "yt-adblocker.com": {
             "epoch": "1654041600",
             "expiration_date": "01-jun-2022",
@@ -10253,6 +10313,11 @@
         "zabavazaodrasle.com": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "zbippirad.info": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
             "state": "future"
         },
         "zemgo.com": {
