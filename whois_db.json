@@ -10005,6 +10005,11 @@
             "expiration_date": "11-may-2019",
             "state": "future"
         },
+        "wantsfly.com": {
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
+            "state": "future"
+        },
         "warlog.info": {
             "epoch": "1577923200",
             "expiration_date": "02-jan-2020",
@@ -10016,8 +10021,8 @@
             "state": "future"
         },
         "wdm29.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "we-are-gamers.com": {
@@ -10026,8 +10031,13 @@
             "state": "future"
         },
         "wearewolves-records.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "web-stat.com": {
+            "epoch": "1612742400",
+            "expiration_date": "08-feb-2021",
             "state": "future"
         },
         "webassembly.stream": {
@@ -10041,8 +10051,8 @@
             "state": "future"
         },
         "webcompteur.com": {
-            "epoch": "1549238400",
-            "expiration_date": "04-feb-2019",
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
             "state": "future"
         },
         "webcounter.com": {
@@ -10055,6 +10065,11 @@
             "expiration_date": "30-dec-2019",
             "state": "future"
         },
+        "webpartition.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
         "webpaypal.com": {
             "epoch": "1554940800",
             "expiration_date": "11-apr-2019",
@@ -10063,6 +10078,16 @@
         "websnettechieapp.win": {
             "epoch": "1560297600",
             "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "websponsors.com": {
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "webstat.com": {
+            "epoch": "1565395200",
+            "expiration_date": "10-aug-2019",
             "state": "future"
         },
         "webstats1.com": {
@@ -10100,6 +10125,11 @@
             "expiration_date": "11-aug-2019",
             "state": "future"
         },
+        "weknow.ac": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
         "wenda.io": {
             "epoch": "1572134400",
             "expiration_date": "27-oct-2019",
@@ -10108,6 +10138,11 @@
         "wewillrocknow.com": {
             "epoch": "1573776000",
             "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "whalecashads.com": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "whatishotnow.net": {
@@ -10130,6 +10165,11 @@
             "expiration_date": "04-apr-2021",
             "state": "future"
         },
+        "widgetbucks.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
         "wigetmedia.com": {
             "epoch": "1604793600",
             "expiration_date": "08-nov-2020",
@@ -10143,6 +10183,11 @@
         "willysy.com": {
             "epoch": "1567814400",
             "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "windaily.com": {
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "windowgolddealtheclicks.live": {
