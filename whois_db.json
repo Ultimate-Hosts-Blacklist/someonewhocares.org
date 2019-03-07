@@ -9070,6 +9070,11 @@
             "expiration_date": "16-sep-2019",
             "state": "future"
         },
+        "textbanners.net": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
         "textsrv.com": {
             "epoch": "1560988800",
             "expiration_date": "20-jun-2019",
@@ -9078,6 +9083,11 @@
         "tgpmanager.com": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "thatrendsystem.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
             "state": "future"
         },
         "thatsjustgay.com": {
@@ -9090,6 +9100,11 @@
             "expiration_date": "11-oct-2019",
             "state": "future"
         },
+        "the-binary-options-guide.com": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
         "the-binary-trader.biz": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
@@ -9098,6 +9113,11 @@
         "the-counter.net": {
             "epoch": "1565827200",
             "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "the-discount-store.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
             "state": "future"
         },
         "the-path-gateway.com": {
@@ -9120,6 +9140,11 @@
             "expiration_date": "26-dec-2019",
             "state": "future"
         },
+        "theexgirlfriends.com": {
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
         "thehomo.org": {
             "epoch": "1566259200",
             "expiration_date": "20-aug-2019",
@@ -9140,6 +9165,11 @@
             "expiration_date": "09-may-2019",
             "state": "future"
         },
+        "themusicnetwork.co.uk": {
+            "epoch": "1613347200",
+            "expiration_date": "15-feb-2021",
+            "state": "future"
+        },
         "thepiratetrader.com": {
             "epoch": "1577145600",
             "expiration_date": "24-dec-2019",
@@ -9150,19 +9180,34 @@
             "expiration_date": "08-mar-2019",
             "state": "future"
         },
+        "theprofitsmaker.net": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
         "thesuperdeliciousnews.com": {
             "epoch": "1537056000",
             "expiration_date": "16-sep-2018",
             "state": "past"
         },
+        "thetraderinpajamas.com": {
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
         "theuseful.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "theuseful.net": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "thewaycloud.com": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "thinktarget.com": {
@@ -9206,8 +9251,8 @@
             "state": "future"
         },
         "titan-gel-extra.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "titokterminal.com": {
@@ -9443,6 +9488,11 @@
         "traffictraders.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "trafic.ro": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
             "state": "future"
         },
         "trafmag.com": {
@@ -9821,8 +9871,8 @@
             "state": "future"
         },
         "vattacukor.net": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "vb1rc5l52n.us": {
