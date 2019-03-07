@@ -6271,9 +6271,9 @@
             "state": "future"
         },
         "mellowads.com": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
-            "state": "past"
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
         },
         "merchantapp.com": {
             "epoch": "1584921600",
@@ -6394,6 +6394,11 @@
             "epoch": "1543968000",
             "expiration_date": "05-dec-2018",
             "state": "past"
+        },
+        "mizvan.com": {
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
         },
         "mktrkr.com": {
             "epoch": "1580860800",
