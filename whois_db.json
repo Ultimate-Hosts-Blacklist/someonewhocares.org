@@ -9070,14 +9070,29 @@
             "expiration_date": "29-jul-2019",
             "state": "future"
         },
+        "statsession.com": {
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
         "statsie.com": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
             "state": "future"
         },
+        "stattrax.com": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
         "stellarium.fr": {
             "epoch": "1580169600",
             "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "stiffnetwork.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
             "state": "future"
         },
         "stopphoulplay.com": {
@@ -9186,8 +9201,8 @@
             "state": "future"
         },
         "sweetsforfree.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "swfhostltd.com": {
@@ -9208,6 +9223,11 @@
         "sysip.net": {
             "epoch": "1578614400",
             "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "systempartition.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
             "state": "future"
         },
         "systweak.com": {
@@ -9245,6 +9265,16 @@
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "talentbroker.net": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "tanger.com.br": {
+            "epoch": "1768780800",
+            "expiration_date": "19-jan-2026",
+            "state": "future"
+        },
         "tanieaukcje.com": {
             "epoch": "1558742400",
             "expiration_date": "25-may-2019",
@@ -9258,6 +9288,11 @@
         "tanio-najtaniej.com": {
             "epoch": "1571529600",
             "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "tao123.com": {
+            "epoch": "1619568000",
+            "expiration_date": "28-apr-2021",
             "state": "future"
         },
         "targetctracker.com": {
@@ -9284,6 +9319,11 @@
             "epoch": "1536796800",
             "expiration_date": "13-sep-2018",
             "state": "past"
+        },
+        "techconfigformat.com": {
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
         },
         "technicads.com": {
             "epoch": "1556928000",
@@ -9318,6 +9358,16 @@
         "telecharger-openoffice.fr": {
             "epoch": "1580169600",
             "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "terraclicks.com": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "testracking.com": {
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
             "state": "future"
         },
         "text-link-ads-inventory.com": {
@@ -9381,8 +9431,8 @@
             "state": "future"
         },
         "the-path-gateway.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "thebrighttag.com": {
@@ -9436,8 +9486,8 @@
             "state": "future"
         },
         "thepounder.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "theprofitsmaker.net": {
