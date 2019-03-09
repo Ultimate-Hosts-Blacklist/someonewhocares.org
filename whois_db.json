@@ -3865,9 +3865,19 @@
             "expiration_date": "18-feb-2020",
             "state": "future"
         },
+        "elemntindexer.com": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "emailproductreview.com": {
             "epoch": "1577664000",
             "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "emarketmakers.com": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "emergingupdates.com": {
@@ -4648,7 +4658,7 @@
         "getloan.com": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "getmyads.com": {
             "epoch": "1764806400",
@@ -4748,7 +4758,7 @@
         "goat.cx": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "goatse.ca": {
             "epoch": "1559779200",
