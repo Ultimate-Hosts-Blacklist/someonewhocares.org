@@ -7640,14 +7640,24 @@
             "expiration_date": "27-may-2019",
             "state": "future"
         },
+        "pills-home.com": {
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
         "pituitosus.com": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
             "state": "future"
         },
         "pixel.watch": {
             "epoch": "1568764800",
             "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "placelocal.com": {
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "platads.com": {
@@ -7676,9 +7686,9 @@
             "state": "future"
         },
         "pleasewait.co": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
-            "state": "past"
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
         },
         "ploaz54.com": {
             "epoch": "1554508800",
@@ -7693,6 +7703,21 @@
         "pointclicktrack.com": {
             "epoch": "1575244800",
             "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "poker-new.com": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "poker-unique.com": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "poker4spain.com": {
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
             "state": "future"
         },
         "politicalopinionsurvey.com": {
@@ -7731,8 +7756,8 @@
             "state": "future"
         },
         "poponclick.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "popupad.net": {
@@ -8786,9 +8811,9 @@
             "state": "future"
         },
         "smartclip.com": {
-            "epoch": "1551916800",
-            "expiration_date": "07-mar-2019",
-            "state": "past"
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
         },
         "smartclip.net": {
             "epoch": "1577318400",
