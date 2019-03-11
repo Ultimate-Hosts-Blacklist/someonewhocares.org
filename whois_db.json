@@ -1028,7 +1028,7 @@
         "ads80.com": {
             "epoch": "1552262400",
             "expiration_date": "11-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adsbizsimple.com": {
             "epoch": "1556841600",
