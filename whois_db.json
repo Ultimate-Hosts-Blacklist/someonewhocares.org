@@ -5131,8 +5131,8 @@
             "state": "future"
         },
         "hirvarazs.info": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "hirzona24.com": {
@@ -5246,8 +5246,8 @@
             "state": "future"
         },
         "howtotroll.org": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "httpads.com": {
@@ -5833,11 +5833,11 @@
         "kreaffiliation.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "kromtech.net": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "ktrackdata.com": {
