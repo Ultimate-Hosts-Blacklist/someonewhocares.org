@@ -4233,7 +4233,7 @@
         "following-technology.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "folloyu.com": {
             "epoch": "1553299200",
@@ -4606,9 +4606,9 @@
             "state": "future"
         },
         "gar-tech.com": {
-            "epoch": "1536278400",
-            "expiration_date": "07-sep-2018",
-            "state": "past"
+            "epoch": "1615593600",
+            "expiration_date": "13-mar-2021",
+            "state": "future"
         },
         "gator.com": {
             "epoch": "1647734400",
