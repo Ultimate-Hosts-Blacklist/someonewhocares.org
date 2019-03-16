@@ -2693,7 +2693,7 @@
         "charging-technology.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "charmedno1.com": {
             "epoch": "1574812800",
@@ -3118,6 +3118,11 @@
         "computer-offer.com": {
             "epoch": "1575676800",
             "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "computertechanalysis.com": {
+            "epoch": "1615593600",
+            "expiration_date": "13-mar-2021",
             "state": "future"
         },
         "computerxchange.com": {
