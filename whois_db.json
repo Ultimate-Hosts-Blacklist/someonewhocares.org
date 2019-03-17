@@ -1331,8 +1331,8 @@
             "state": "future"
         },
         "advancing-technology.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "advanpromo.com": {
@@ -1583,6 +1583,11 @@
         "algocashmaster.net": {
             "epoch": "1554595200",
             "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "allaskme.com": {
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
             "state": "future"
         },
         "allkindlecloud.com": {
