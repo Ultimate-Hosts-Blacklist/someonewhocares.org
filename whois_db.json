@@ -1285,6 +1285,11 @@
             "expiration_date": "02-mar-2021",
             "state": "future"
         },
+        "adtology3.com": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
         "adtotal.pl": {
             "epoch": "1564358400",
             "expiration_date": "29-jul-2019",
@@ -1966,8 +1971,8 @@
             "state": "future"
         },
         "bangbuddy.com": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
             "state": "future"
         },
         "bannerbackup.com": {
