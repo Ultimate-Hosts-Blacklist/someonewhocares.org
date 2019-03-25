@@ -7791,8 +7791,8 @@
             "state": "future"
         },
         "popupclick.ru": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "popupdomination.com": {
@@ -8151,9 +8151,9 @@
             "state": "future"
         },
         "rdsa2012.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
-            "state": "past"
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
         },
         "reacherinst.com": {
             "epoch": "1583452800",
@@ -8596,9 +8596,9 @@
             "state": "future"
         },
         "selective-business.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
-            "state": "past"
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
         },
         "selfpwn.org": {
             "epoch": "1566259200",
