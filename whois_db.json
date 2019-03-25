@@ -1943,7 +1943,7 @@
         "badults.se": {
             "epoch": "1553472000",
             "expiration_date": "25-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "bagslap.com": {
             "epoch": "1577404800",
@@ -2036,9 +2036,9 @@
             "state": "future"
         },
         "best-iphone6s.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
-            "state": "past"
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
         },
         "best2017games.com": {
             "epoch": "1567814400",
