@@ -1303,7 +1303,7 @@
         "adtrak.net": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adtrix.com": {
             "epoch": "1569888000",
@@ -1556,9 +1556,9 @@
             "state": "future"
         },
         "ako.cc": {
-            "epoch": "1553644800",
-            "expiration_date": "27-mar-2019",
-            "state": "past"
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
         },
         "aktiv-blog.com": {
             "epoch": "1571356800",
