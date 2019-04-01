@@ -1191,8 +1191,8 @@
             "state": "future"
         },
         "adsrvr.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "adsrvr.org": {
@@ -1301,9 +1301,9 @@
             "state": "future"
         },
         "adtrak.net": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
         },
         "adtrix.com": {
             "epoch": "1569888000",
@@ -1408,6 +1408,11 @@
         "advplace.com": {
             "epoch": "1562025600",
             "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "advserver.xyz": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
             "state": "future"
         },
         "advzilla.com": {
@@ -1745,6 +1750,11 @@
             "expiration_date": "01-feb-2020",
             "state": "future"
         },
+        "applyfix.tech": {
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
         "appnexus.com": {
             "epoch": "1599782400",
             "expiration_date": "11-sep-2020",
@@ -1755,14 +1765,19 @@
             "expiration_date": "02-may-2019",
             "state": "future"
         },
+        "apps-cloud.xyz": {
+            "epoch": "1616716800",
+            "expiration_date": "26-mar-2021",
+            "state": "future"
+        },
         "arabtechmessenger.net": {
             "epoch": "1534809600",
             "expiration_date": "21-aug-2018",
             "state": "past"
         },
         "arbomedia.pl": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "aritzal.com": {
@@ -1940,6 +1955,16 @@
             "expiration_date": "20-jul-2019",
             "state": "future"
         },
+        "badmactogoodmac.space": {
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "badmactogoodmac.tech": {
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
         "badults.se": {
             "epoch": "1585094400",
             "expiration_date": "25-mar-2020",
@@ -2058,6 +2083,11 @@
         "bestmmo2018.com": {
             "epoch": "1568505600",
             "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "bestreview.site": {
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "bestrxpills.com": {
@@ -2398,6 +2428,11 @@
         "brucelead.com": {
             "epoch": "1571184000",
             "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "brwser-message.pw": {
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
             "state": "future"
         },
         "brxfinance.com": {
