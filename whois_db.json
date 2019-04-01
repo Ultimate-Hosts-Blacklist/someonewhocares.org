@@ -3980,6 +3980,11 @@
             "expiration_date": "20-dec-2021",
             "state": "future"
         },
+        "errx049.icu": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
         "estats4all.com": {
             "epoch": "1561680000",
             "expiration_date": "28-jun-2019",
@@ -4008,6 +4013,11 @@
         "exponential.com": {
             "epoch": "1854748800",
             "expiration_date": "10-oct-2028",
+            "state": "future"
+        },
+        "extinstalls.icu": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
             "state": "future"
         },
         "extremblog.com": {
@@ -4233,6 +4243,11 @@
         "firrectly.top": {
             "epoch": "1582070400",
             "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "firstgame.xyz": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "fixbonus.com": {
@@ -4720,6 +4735,11 @@
             "expiration_date": "20-may-2019",
             "state": "future"
         },
+        "getlink.pw": {
+            "epoch": "1585094400",
+            "expiration_date": "25-mar-2020",
+            "state": "future"
+        },
         "getloan.com": {
             "epoch": "1583625600",
             "expiration_date": "08-mar-2020",
@@ -4751,8 +4771,8 @@
             "state": "future"
         },
         "getspecialgifts.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "getyourfreetv.com": {
@@ -4866,9 +4886,9 @@
             "state": "future"
         },
         "goobbe.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
         },
         "goodbizez.com": {
             "epoch": "1557532800",
