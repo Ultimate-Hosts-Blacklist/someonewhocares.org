@@ -4530,6 +4530,11 @@
             "expiration_date": "22-mar-2020",
             "state": "future"
         },
+        "friend-greeting.com": {
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
+        },
         "friend-greetings.com": {
             "epoch": "1590537600",
             "expiration_date": "27-may-2020",
@@ -5101,8 +5106,8 @@
             "state": "future"
         },
         "hg8dc7bm.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "hibids10.com": {
