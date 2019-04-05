@@ -1251,13 +1251,13 @@
             "state": "future"
         },
         "adtaily.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
             "state": "future"
         },
         "adtaily.pl": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
             "state": "future"
         },
         "adtech.com": {
@@ -2133,7 +2133,7 @@
         "bhyuu.com": {
             "epoch": "1554422400",
             "expiration_date": "05-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bidclix.net": {
             "epoch": "1555632000",
