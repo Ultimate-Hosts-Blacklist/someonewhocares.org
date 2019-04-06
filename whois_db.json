@@ -10051,9 +10051,9 @@
             "state": "future"
         },
         "traktrafficflow.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "traktum.com": {
             "epoch": "1831766400",
@@ -10623,7 +10623,7 @@
         "walkthedinosaur.com": {
             "epoch": "1554508800",
             "expiration_date": "06-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "wangluoruanjian.com": {
             "epoch": "1557532800",
