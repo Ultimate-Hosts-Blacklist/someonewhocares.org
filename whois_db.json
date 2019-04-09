@@ -5878,7 +5878,7 @@
         "kliksaya.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "knowinteractive.com": {
             "epoch": "1576281600",
@@ -6068,7 +6068,7 @@
         "letsfinder.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "letslowbefast.site": {
             "epoch": "1550102400",
