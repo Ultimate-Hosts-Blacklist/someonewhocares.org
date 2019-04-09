@@ -11196,24 +11196,24 @@
             "state": "future"
         },
         "zeroredirect5.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
             "state": "future"
         },
         "zeroredirect6.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "zeroredirect7.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
             "state": "future"
         },
         "zeroredirect8.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "zeroredirect9.com": {
             "epoch": "1594944000",
