@@ -5876,9 +5876,9 @@
             "state": "future"
         },
         "kliksaya.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
         },
         "knowinteractive.com": {
             "epoch": "1576281600",
@@ -6066,9 +6066,9 @@
             "state": "future"
         },
         "letsfinder.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
         },
         "letslowbefast.site": {
             "epoch": "1550102400",
@@ -6353,6 +6353,11 @@
         "mai-hirek.net": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "mailforfreedom.com": {
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
             "state": "future"
         },
         "mailtrack.me": {
