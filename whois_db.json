@@ -10161,8 +10161,8 @@
             "state": "future"
         },
         "trustaffs.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "trustedmaccleaner.com": {
@@ -10588,7 +10588,7 @@
         "vthought.com": {
             "epoch": "1554940800",
             "expiration_date": "11-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "vtoyshop.com": {
             "epoch": "1579392000",
