@@ -9693,7 +9693,7 @@
         "themacuser.org": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "themaplemethod.com": {
             "epoch": "1588204800",
@@ -10036,8 +10036,8 @@
             "state": "future"
         },
         "traffictraders.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "trafic.ro": {
