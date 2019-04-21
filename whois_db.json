@@ -7371,9 +7371,9 @@
             "state": "future"
         },
         "nspmotion.com": {
-            "epoch": "1555718400",
-            "expiration_date": "20-apr-2019",
-            "state": "past"
+            "epoch": "1587340800",
+            "expiration_date": "20-apr-2020",
+            "state": "future"
         },
         "ntsearch.com": {
             "epoch": "1595030400",
@@ -8293,7 +8293,7 @@
         "quik-serv.com": {
             "epoch": "1555804800",
             "expiration_date": "21-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "quizzitch.net": {
             "epoch": "1556755200",
