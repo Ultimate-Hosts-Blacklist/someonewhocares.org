@@ -1811,8 +1811,8 @@
             "state": "future"
         },
         "asklots.com": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
             "state": "future"
         },
         "askto.net": {
@@ -2083,6 +2083,11 @@
         "bestmmo2018.com": {
             "epoch": "1568505600",
             "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "bestorican.com": {
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
             "state": "future"
         },
         "bestreview.site": {
