@@ -16,8 +16,8 @@
             "state": "future"
         },
         "0pn.ru": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "0stats.com": {
@@ -476,13 +476,13 @@
             "state": "future"
         },
         "ad-noise.net": {
-            "epoch": "1555804800",
-            "expiration_date": "21-apr-2019",
-            "state": "past"
+            "epoch": "1587427200",
+            "expiration_date": "21-apr-2020",
+            "state": "future"
         },
         "ad-plus.cn": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1619136000",
+            "expiration_date": "23-apr-2021",
             "state": "future"
         },
         "ad-server.co.za": {
