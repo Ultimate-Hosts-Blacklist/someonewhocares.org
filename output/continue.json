@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/someonewhocares.org/domains.list": {
-        "down": 3146,
-        "invalid": 11,
-        "tested": 8601,
-        "up": 5444
+        "down": 3723,
+        "invalid": 72,
+        "tested": 10108,
+        "up": 6313
     }
 }
