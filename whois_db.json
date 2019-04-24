@@ -8823,7 +8823,7 @@
         "sexitnow.com": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexpartnerx.com": {
             "epoch": "1577664000",
@@ -9306,9 +9306,9 @@
             "state": "future"
         },
         "stattrax.com": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
-            "state": "past"
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
+            "state": "future"
         },
         "stellarium.fr": {
             "epoch": "1580169600",
