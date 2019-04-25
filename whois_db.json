@@ -118,7 +118,7 @@
         "21jewelry.com": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "21updatechefw150218.ru": {
             "epoch": "1552867200",
@@ -171,8 +171,8 @@
             "state": "future"
         },
         "2girls1finger.org": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1619222400",
+            "expiration_date": "24-apr-2021",
             "state": "future"
         },
         "2guys1stump.org": {
