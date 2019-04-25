@@ -3136,9 +3136,9 @@
             "state": "future"
         },
         "coinurl.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
-            "state": "past"
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
         },
         "coinverti.com": {
             "epoch": "1584662400",
@@ -3728,6 +3728,11 @@
         "doesok.top": {
             "epoch": "1563494400",
             "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "dolohen.com": {
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
             "state": "future"
         },
         "donotwatch.org": {
