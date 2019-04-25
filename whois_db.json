@@ -4540,6 +4540,11 @@
             "expiration_date": "20-may-2019",
             "state": "future"
         },
+        "frequencyaccess.com": {
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
         "frequencyscheduler.com": {
             "epoch": "1568246400",
             "expiration_date": "12-sep-2019",
@@ -5058,6 +5063,11 @@
         "hai2u.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "hajoopteg.com": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "hakerzy.net": {
