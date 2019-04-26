@@ -8461,8 +8461,8 @@
             "state": "future"
         },
         "remotepartition.com": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "rencontreavenue.com": {
@@ -8493,7 +8493,7 @@
         "rewardhotspot.com": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "rewardpoll.com": {
             "epoch": "1560988800",
@@ -8603,6 +8603,11 @@
         "ru4.com": {
             "epoch": "1573603200",
             "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "rubi4edit.com": {
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "rubyfortune.com": {
@@ -8846,9 +8851,9 @@
             "state": "future"
         },
         "sexitnow.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
-            "state": "past"
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
         },
         "sexpartnerx.com": {
             "epoch": "1577664000",
@@ -9343,6 +9348,11 @@
         "stiffnetwork.com": {
             "epoch": "1566950400",
             "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "stompebi.link": {
+            "epoch": "1603670400",
+            "expiration_date": "26-oct-2020",
             "state": "future"
         },
         "stopphoulplay.com": {
