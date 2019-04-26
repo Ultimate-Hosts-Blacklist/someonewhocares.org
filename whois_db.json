@@ -9615,6 +9615,11 @@
             "expiration_date": "04-may-2019",
             "state": "future"
         },
+        "technology-revealed.com": {
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
+            "state": "future"
+        },
         "techques.com": {
             "epoch": "1577318400",
             "expiration_date": "26-dec-2019",
@@ -9960,6 +9965,11 @@
             "expiration_date": "17-feb-2020",
             "state": "future"
         },
+        "topreward.site": {
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
         "topshape.me": {
             "epoch": "1565308800",
             "expiration_date": "09-aug-2019",
@@ -10131,9 +10141,9 @@
             "state": "future"
         },
         "trcko.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
-            "state": "past"
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
         },
         "treasuredata.com": {
             "epoch": "1585440000",
@@ -10143,7 +10153,7 @@
         "treeloot.com": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "trekmedia.net": {
             "epoch": "1556668800",
@@ -10193,6 +10203,11 @@
         "trkrpoint.com": {
             "epoch": "1578182400",
             "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "tropiccritics.com": {
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "trourted.pro": {
@@ -10388,6 +10403,11 @@
         "uniqueinternettexasholdempoker.com": {
             "epoch": "1577232000",
             "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "updateplayer-flash.icu": {
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
             "state": "future"
         },
         "upgradebasic.com": {
