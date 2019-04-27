@@ -2161,8 +2161,8 @@
             "state": "future"
         },
         "bigbangempire.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "bigbrandpromotions.com": {
@@ -2228,7 +2228,7 @@
         "bitonclick.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bitraffic.com": {
             "epoch": "1567209600",
@@ -2321,9 +2321,9 @@
             "state": "future"
         },
         "books-media-edu-rewardempire.com": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
-            "state": "past"
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
+            "state": "future"
         },
         "boonsolutions.com": {
             "epoch": "1565481600",
@@ -2378,7 +2378,7 @@
         "brightonclick.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "brightroll.com": {
             "epoch": "1576454400",
