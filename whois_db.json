@@ -4696,8 +4696,8 @@
             "state": "future"
         },
         "gamerz123.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "gamesrotator.com": {
@@ -4733,7 +4733,7 @@
         "geniusdisplay.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "geoads.com": {
             "epoch": "1583280000",
@@ -4833,7 +4833,7 @@
         "gigaonclick.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "gimmethatreward.com": {
             "epoch": "1581206400",
@@ -5366,8 +5366,8 @@
             "state": "future"
         },
         "httpads.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "httpwwwadserver.com": {
