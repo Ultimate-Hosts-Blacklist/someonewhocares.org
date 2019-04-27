@@ -2538,12 +2538,12 @@
         "buzzadnetwork.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "buzzonclick.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bvfsc.info": {
             "epoch": "1564444800",
@@ -2566,8 +2566,8 @@
             "state": "future"
         },
         "cadaver.org": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1619481600",
+            "expiration_date": "27-apr-2021",
             "state": "future"
         },
         "cafecoc.com": {
@@ -2868,7 +2868,7 @@
         "clearonclick.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "clevernt.com": {
             "epoch": "1561161600",
