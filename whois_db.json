@@ -7133,7 +7133,7 @@
         "nanoadexchange.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "napimigrans.com": {
             "epoch": "1568937600",
@@ -7306,8 +7306,8 @@
             "state": "future"
         },
         "nextstudent.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "nexttrk.com": {
@@ -7508,27 +7508,27 @@
         "onclickmega.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "onclickprediction.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "onclickpredictiv.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "onclicksuper.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "onclicktop.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "onclkds.com": {
             "epoch": "1572048000",
@@ -7793,7 +7793,7 @@
         "performanceadexchange.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "performancetrck.com": {
             "epoch": "1578182400",
@@ -8053,12 +8053,12 @@
         "predictiondisplay.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "predictivadnetwork.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "preligions.com": {
             "epoch": "1571875200",
@@ -8228,7 +8228,7 @@
         "pureadexchange.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "purryowl.com": {
             "epoch": "1572825600",
