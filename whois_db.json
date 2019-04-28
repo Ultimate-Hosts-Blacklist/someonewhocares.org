@@ -9586,9 +9586,9 @@
             "state": "future"
         },
         "team4heat.net": {
-            "epoch": "1536796800",
-            "expiration_date": "13-sep-2018",
-            "state": "past"
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
+            "state": "future"
         },
         "techconfigformat.com": {
             "epoch": "1578614400",
@@ -10043,7 +10043,7 @@
         "tradeadexchange.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "tradedoubler.com": {
             "epoch": "1696896000",
@@ -10151,9 +10151,9 @@
             "state": "future"
         },
         "treeloot.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
-            "state": "past"
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
+            "state": "future"
         },
         "trekmedia.net": {
             "epoch": "1556668800",
@@ -10518,7 +10518,7 @@
         "venturead.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "verypositiveus.com": {
             "epoch": "1566604800",
