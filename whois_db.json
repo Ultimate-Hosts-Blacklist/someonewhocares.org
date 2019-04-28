@@ -8491,9 +8491,9 @@
             "state": "future"
         },
         "rewardhotspot.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
-            "state": "past"
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
+            "state": "future"
         },
         "rewardpoll.com": {
             "epoch": "1560988800",
@@ -8828,7 +8828,7 @@
         "serv-load.com": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "servedbyadbutler.com": {
             "epoch": "1635033600",
