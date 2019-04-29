@@ -2541,14 +2541,14 @@
             "state": "future"
         },
         "buzzadnetwork.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "buzzonclick.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "bvfsc.info": {
             "epoch": "1564444800",
@@ -2871,9 +2871,9 @@
             "state": "future"
         },
         "clearonclick.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "clevernt.com": {
             "epoch": "1561161600",
@@ -3276,8 +3276,8 @@
             "state": "future"
         },
         "coquine-dispo.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
             "state": "future"
         },
         "coreglead.co.uk": {
@@ -3356,8 +3356,8 @@
             "state": "future"
         },
         "creatrixads.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
             "state": "future"
         },
         "credit-dreams.com": {
@@ -3523,7 +3523,7 @@
         "darmowe-zakupy.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "dashbo15myapp.com": {
             "epoch": "1576800000",
