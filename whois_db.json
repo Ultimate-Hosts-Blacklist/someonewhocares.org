@@ -6263,12 +6263,12 @@
         "lolshock.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "loltrain.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "lottoforever.com": {
             "epoch": "1560988800",
@@ -6481,9 +6481,9 @@
             "state": "future"
         },
         "maxonclick.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "maxserving.com": {
             "epoch": "1612051200",
@@ -6531,9 +6531,9 @@
             "state": "future"
         },
         "mediafaze.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "mediaoffers.click": {
             "epoch": "1576281600",
@@ -6681,8 +6681,8 @@
             "state": "future"
         },
         "milyondolar.com": {
-            "epoch": "1556409600",
-            "expiration_date": "28-apr-2019",
+            "epoch": "1588032000",
+            "expiration_date": "28-apr-2020",
             "state": "future"
         },
         "minden-egyben.com": {
@@ -6851,8 +6851,8 @@
             "state": "future"
         },
         "monster-ads.net": {
-            "epoch": "1556409600",
-            "expiration_date": "28-apr-2019",
+            "epoch": "1588032000",
+            "expiration_date": "28-apr-2020",
             "state": "future"
         },
         "moodoo.com.cn": {
