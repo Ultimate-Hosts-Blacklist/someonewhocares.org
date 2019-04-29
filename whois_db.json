@@ -1610,6 +1610,11 @@
             "expiration_date": "14-jan-2020",
             "state": "future"
         },
+        "alltereg0.ru": {
+            "epoch": "1590796800",
+            "expiration_date": "30-may-2020",
+            "state": "future"
+        },
         "alocdn.com": {
             "epoch": "1568332800",
             "expiration_date": "13-sep-2019",
@@ -2226,9 +2231,9 @@
             "state": "future"
         },
         "bitonclick.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "bitraffic.com": {
             "epoch": "1567209600",
@@ -2376,9 +2381,9 @@
             "state": "future"
         },
         "brightonclick.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "brightroll.com": {
             "epoch": "1576454400",
