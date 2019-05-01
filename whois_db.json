@@ -9261,8 +9261,8 @@
             "state": "future"
         },
         "sponsor1.com": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "sponsoradulto.com": {
@@ -9321,9 +9321,9 @@
             "state": "future"
         },
         "statistik-gallup.dk": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
-            "state": "past"
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
         },
         "statistik-gallup.net": {
             "epoch": "1578960000",
