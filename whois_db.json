@@ -3053,7 +3053,7 @@
         "clownsong.com": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cltrkr.com": {
             "epoch": "1572825600",
@@ -3521,9 +3521,9 @@
             "state": "future"
         },
         "darmowe-zakupy.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
-            "state": "past"
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
         },
         "dashbo15myapp.com": {
             "epoch": "1576800000",
