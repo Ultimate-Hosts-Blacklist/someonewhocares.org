@@ -5861,8 +5861,8 @@
             "state": "future"
         },
         "keybinary.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "keyofhealth.com": {
@@ -6261,14 +6261,14 @@
             "state": "future"
         },
         "lolshock.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
-            "state": "past"
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
         },
         "loltrain.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
-            "state": "past"
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
         },
         "lottoforever.com": {
             "epoch": "1560988800",
@@ -6826,8 +6826,8 @@
             "state": "future"
         },
         "mokavilag.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "mokuskerek.club": {
@@ -6903,6 +6903,11 @@
         "mp3red.cc": {
             "epoch": "1570492800",
             "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "mplayerdownloader.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "mpression.net": {
@@ -6996,8 +7001,8 @@
             "state": "future"
         },
         "myanyone.net": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "mybinaryoptionsrobot.com": {
