@@ -10168,7 +10168,7 @@
         "trekmedia.net": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "trendcounter.com": {
             "epoch": "1593388800",
@@ -10191,14 +10191,14 @@
             "state": "past"
         },
         "trendsonline.me": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
-            "state": "past"
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
         },
         "trendsonline.mobi": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
-            "state": "past"
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
         },
         "tricikli.com": {
             "epoch": "1576454400",
