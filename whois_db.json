@@ -7338,7 +7338,7 @@
         "nickleplatedads.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "nimp.org": {
             "epoch": "1585958400",
@@ -7468,7 +7468,7 @@
         "offer-mediaservices.download": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "offer.camp": {
             "epoch": "1569715200",
@@ -7898,7 +7898,7 @@
         "platads.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "playinvaders.com": {
             "epoch": "1572825600",
@@ -8341,8 +8341,8 @@
             "state": "future"
         },
         "quizzitch.net": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "r7mediar.com": {
