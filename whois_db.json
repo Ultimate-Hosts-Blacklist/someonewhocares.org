@@ -4918,7 +4918,7 @@
         "goldadpremium.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "goldstats.com": {
             "epoch": "1558915200",
@@ -5073,7 +5073,7 @@
         "hai2u.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hajoopteg.com": {
             "epoch": "1575676800",
@@ -5276,8 +5276,8 @@
             "state": "future"
         },
         "hitbox.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "hitboxbenchmarker.com": {
@@ -5301,8 +5301,8 @@
             "state": "future"
         },
         "hlcc.ca": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "holidayshoppingrewards.com": {
