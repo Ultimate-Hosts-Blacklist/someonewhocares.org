@@ -991,8 +991,8 @@
             "state": "future"
         },
         "ads2ads.net": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "ads2srv.com": {
@@ -1011,8 +1011,8 @@
             "state": "future"
         },
         "ads4cheap.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "ads4homes.com": {
@@ -1033,7 +1033,7 @@
         "adsbizsimple.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "adscendmedia.com": {
             "epoch": "1573516800",
@@ -1071,8 +1071,8 @@
             "state": "future"
         },
         "adserver.net": {
-            "epoch": "1554940800",
-            "expiration_date": "11-apr-2019",
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
             "state": "future"
         },
         "adserver.pl": {
