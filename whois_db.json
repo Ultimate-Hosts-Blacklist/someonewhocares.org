@@ -4446,13 +4446,13 @@
             "state": "future"
         },
         "freefuelcard.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "freefuelcoupon.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "freegasonus.com": {
@@ -4916,9 +4916,9 @@
             "state": "future"
         },
         "goldadpremium.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
-            "state": "past"
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "goldstats.com": {
             "epoch": "1558915200",
@@ -5071,9 +5071,9 @@
             "state": "future"
         },
         "hai2u.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
-            "state": "past"
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "hajoopteg.com": {
             "epoch": "1575676800",
@@ -5348,7 +5348,7 @@
         "hotchatdate.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hotgiftzone.com": {
             "epoch": "1557878400",
