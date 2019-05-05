@@ -5966,9 +5966,9 @@
             "state": "future"
         },
         "krakragames.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
-            "state": "past"
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "kreaffiliation.com": {
             "epoch": "1584316800",
@@ -6828,7 +6828,7 @@
         "mojn.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "mokavilag.com": {
             "epoch": "1588204800",
