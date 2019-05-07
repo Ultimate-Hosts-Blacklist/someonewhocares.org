@@ -4201,8 +4201,8 @@
             "state": "future"
         },
         "fervortracer.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "ffxitrack.com": {
@@ -4648,7 +4648,7 @@
         "funnelchair.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "funnyreign.com": {
             "epoch": "1569801600",
@@ -5346,9 +5346,9 @@
             "state": "future"
         },
         "hotchatdate.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
-            "state": "past"
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
+            "state": "future"
         },
         "hotgiftzone.com": {
             "epoch": "1557878400",
