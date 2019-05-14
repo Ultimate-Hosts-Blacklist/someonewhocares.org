@@ -1175,8 +1175,8 @@
         "state": "future"
     },
     "adspoll.com": {
-        "epoch": "1557532800",
-        "expiration_date": "11-may-2019",
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "adsrevenue.net": {
@@ -10195,7 +10195,7 @@
         "state": "future"
     },
     "trendsonline.biz": {
-        "epoch": "1556496000",
+        "epoch": 1556496000,
         "expiration_date": "29-apr-2019",
         "state": "past"
     },
@@ -10855,8 +10855,8 @@
         "state": "future"
     },
     "weknow.ac": {
-        "epoch": "1557705600",
-        "expiration_date": "13-may-2019",
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "wenda.io": {
