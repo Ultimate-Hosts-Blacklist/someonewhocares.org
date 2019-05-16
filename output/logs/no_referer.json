@@ -1,646 +1,222 @@
 {
-    "1558000828.6830058": {
-        "domain": "pcnetworkreliablecloudservices.online",
-        "extension": "online"
-    },
-    "1558000829.4420807": {
-        "domain": "phorm.com.br",
-        "extension": "br"
-    },
-    "1558000829.7438736": {
-        "domain": "phorm.dk",
-        "extension": "dk"
-    },
-    "1558000829.7734234": {
-        "domain": "phorm.hk",
-        "extension": "hk"
-    },
-    "1558000833.2110558": {
-        "domain": "prizestohandle.club",
-        "extension": "club"
-    },
-    "1558000834.6155505": {
-        "domain": "purredheanb.online",
-        "extension": "online"
-    },
-    "1558000838.388944": {
-        "domain": "scorepconline.club",
-        "extension": "club"
-    },
-    "1558000843.760697": {
-        "domain": "subsitesadserver.co.uk",
-        "extension": "uk"
-    },
-    "1558000844.2673583": {
-        "domain": "suhunsoo.uk",
-        "extension": "uk"
-    },
-    "1558000849.0915987": {
-        "domain": "tradedoubler.com.ar",
-        "extension": "ar"
-    },
-    "1558000852.1905136": {
-        "domain": "veirregnant.club",
-        "extension": "club"
-    },
-    "1558000853.5127618": {
-        "domain": "voucher-for-you.online",
-        "extension": "online"
-    },
-    "1558000854.3531296": {
-        "domain": "webnavegador.com.br",
-        "extension": "br"
-    },
-    "1558000856.5040412": {
-        "domain": "yhit.press",
-        "extension": "press"
-    },
-    "1558000856.8869517": {
-        "domain": "you-have-0ne-messsagehe0.top",
-        "extension": "top"
-    },
-    "1558000858.2763865": {
-        "domain": "zfn5wua2d1.online",
-        "extension": "online"
-    },
-    "1558000870.496717": {
-        "domain": "www.yhit.press",
-        "extension": "press"
-    },
-    "1558000870.9494777": {
-        "domain": "www.you-have-0ne-messsagehe0.top",
-        "extension": "top"
-    },
-    "1558000874.599778": {
-        "domain": "www.zfn5wua2d1.online",
-        "extension": "online"
-    },
-    "1558000878.4318135": {
-        "domain": "www.1q0bjj4d39.top",
-        "extension": "top"
-    },
-    "1558000990.25565": {
-        "domain": "www.appfixing.space",
-        "extension": "space"
-    },
-    "1558000992.9336457": {
-        "domain": "www.applicationpremium70.club",
-        "extension": "club"
-    },
-    "1558001007.3791995": {
-        "domain": "www.battleoftheprizes.club",
-        "extension": "club"
-    },
-    "1558001009.243809": {
-        "domain": "www.best-games4you.top",
-        "extension": "top"
-    },
-    "1558001077.7438772": {
-        "domain": "www.eveley.club",
-        "extension": "club"
-    },
-    "1558001082.2336347": {
-        "domain": "www.fast-lost4tmz.world",
-        "extension": "world"
-    },
-    "1558001083.1006906": {
-        "domain": "www.fatfasts-4tmz.world",
-        "extension": "world"
-    },
-    "1558001090.5141716": {
-        "domain": "www.freebiegb.co.uk",
-        "extension": "uk"
-    },
-    "1558001090.6859164": {
-        "domain": "www.freecamerauk.co.uk",
-        "extension": "uk"
-    },
-    "1558001092.478272": {
-        "domain": "www.freeipodnanouk.co.uk",
-        "extension": "uk"
-    },
-    "1558001092.6594443": {
-        "domain": "www.freemaintenancesysforpcandmac.top",
-        "extension": "top"
-    },
-    "1558001093.013489": {
-        "domain": "www.freepayasyougotopupuk.co.uk",
-        "extension": "uk"
-    },
-    "1558001093.7612014": {
-        "domain": "www.freshmac.space",
-        "extension": "space"
-    },
-    "1558001104.585448": {
-        "domain": "www.gift-today85.online",
-        "extension": "online"
-    },
-    "1558001111.5712848": {
-        "domain": "www.healthclicks.co.uk",
-        "extension": "uk"
-    },
-    "1558001114.5658007": {
-        "domain": "www.hirtrafik.top",
-        "extension": "top"
-    },
-    "1558001115.1871517": {
-        "domain": "www.hlu9tseh.men",
-        "extension": "men"
-    },
-    "1558001133.7564983": {
-        "domain": "www.kaprazatos.club",
-        "extension": "club"
-    },
-    "1558001277.7151659": {
-        "domain": "www.1q0bjj4d39.top",
-        "extension": "top"
-    },
-    "1558001392.901776": {
-        "domain": "www.appfixing.space",
-        "extension": "space"
-    },
-    "1558001395.5410008": {
-        "domain": "www.applicationpremium70.club",
-        "extension": "club"
-    },
-    "1558001409.942767": {
-        "domain": "www.battleoftheprizes.club",
-        "extension": "club"
-    },
-    "1558001411.8007824": {
-        "domain": "www.best-games4you.top",
-        "extension": "top"
-    },
-    "1558001479.3836708": {
-        "domain": "www.eveley.club",
-        "extension": "club"
-    },
-    "1558001483.844947": {
-        "domain": "www.fast-lost4tmz.world",
-        "extension": "world"
-    },
-    "1558001484.7188642": {
-        "domain": "www.fatfasts-4tmz.world",
-        "extension": "world"
-    },
-    "1558001492.1881788": {
-        "domain": "www.freebiegb.co.uk",
-        "extension": "uk"
-    },
-    "1558001492.3610058": {
-        "domain": "www.freecamerauk.co.uk",
-        "extension": "uk"
-    },
-    "1558001494.134004": {
-        "domain": "www.freeipodnanouk.co.uk",
-        "extension": "uk"
-    },
-    "1558001494.3248975": {
-        "domain": "www.freemaintenancesysforpcandmac.top",
-        "extension": "top"
-    },
-    "1558001494.6643114": {
-        "domain": "www.freepayasyougotopupuk.co.uk",
-        "extension": "uk"
-    },
-    "1558001495.3826866": {
-        "domain": "www.freshmac.space",
-        "extension": "space"
-    },
-    "1558001506.4569137": {
-        "domain": "www.gift-today85.online",
-        "extension": "online"
-    },
-    "1558001513.913074": {
-        "domain": "www.healthclicks.co.uk",
-        "extension": "uk"
-    },
-    "1558001516.919537": {
-        "domain": "www.hirtrafik.top",
-        "extension": "top"
-    },
-    "1558001517.5188308": {
-        "domain": "www.hlu9tseh.men",
-        "extension": "men"
-    },
-    "1558001535.8802469": {
-        "domain": "www.kaprazatos.club",
-        "extension": "club"
-    },
-    "1558001575.714902": {
-        "domain": "www.macfixingsoftware.space",
-        "extension": "space"
-    },
-    "1558001575.9028387": {
-        "domain": "www.macmeasurmenthub.club",
-        "extension": "club"
-    },
-    "1558001576.0898345": {
-        "domain": "www.macmeasurmentpro.club",
-        "extension": "club"
-    },
-    "1558001597.9440236": {
-        "domain": "www.mobile-antivirus.club",
-        "extension": "club"
-    },
-    "1558001598.4646297": {
-        "domain": "www.mokuskerek.club",
-        "extension": "club"
-    },
-    "1558001603.4405427": {
-        "domain": "www.myfreegifts.co.uk",
-        "extension": "uk"
-    },
-    "1558001603.9484782": {
-        "domain": "www.mylike.co.uk",
-        "extension": "uk"
-    },
-    "1558001604.3276176": {
-        "domain": "www.myperiod.club",
-        "extension": "club"
-    },
-    "1558001631.6952434": {
-        "domain": "www.olqdh.top",
-        "extension": "top"
-    },
-    "1558001643.6998143": {
-        "domain": "www.pc-virus-k7d4v9.online",
-        "extension": "online"
-    },
-    "1558001646.7801623": {
-        "domain": "www.phorm.com.br",
-        "extension": "br"
-    },
-    "1558001647.6606143": {
-        "domain": "www.phorm.hk",
-        "extension": "hk"
-    },
-    "1558001656.0971386": {
-        "domain": "www.prizestohandle.club",
-        "extension": "club"
-    },
-    "1558001660.6263368": {
-        "domain": "www.purredheanb.online",
-        "extension": "online"
-    },
-    "1558001739.7099159": {
-        "domain": "www.tradedoubler.com.ar",
-        "extension": "ar"
-    },
-    "1558001759.4359307": {
-        "domain": "www.voucher-for-you.online",
-        "extension": "online"
-    },
-    "1558001773.939791": {
-        "domain": "www.webnavegador.com.br",
-        "extension": "br"
-    },
-    "1558001779.972972": {
-        "domain": "1q0bjj4d39.top",
-        "extension": "top"
-    },
-    "1558001780.0094955": {
-        "domain": "1tracksource.online",
-        "extension": "online"
-    },
-    "1558001782.8627822": {
-        "domain": "admin.iesnare.co.uk",
-        "extension": "uk"
-    },
-    "1558001784.6614647": {
-        "domain": "adsr3pg.com.br",
-        "extension": "br"
-    },
-    "1558001784.959434": {
-        "domain": "adtag.cc",
-        "extension": "cc"
-    },
-    "1558001785.5306988": {
-        "domain": "adwenturehelp.club",
-        "extension": "club"
-    },
-    "1558001788.176119": {
-        "domain": "appfixing.space",
-        "extension": "space"
-    },
-    "1558001788.5680351": {
-        "domain": "applicationpremium70.club",
-        "extension": "club"
-    },
-    "1558001790.4642246": {
-        "domain": "badmactogoodmac.space",
-        "extension": "space"
-    },
-    "1558001790.9859207": {
-        "domain": "battleoftheprizes.club",
-        "extension": "club"
-    },
-    "1558001791.3531828": {
-        "domain": "best-games4you.top",
-        "extension": "top"
-    },
-    "1558001791.7511926": {
-        "domain": "best-search.cc",
-        "extension": "cc"
-    },
-    "1558001793.9796677": {
-        "domain": "broadcastpc.tv",
-        "extension": "tv"
-    },
-    "1558001794.532344": {
-        "domain": "bumerang.cc",
-        "extension": "cc"
-    },
-    "1558001798.2400675": {
-        "domain": "ci-mpsnare.iesnare.co.uk",
-        "extension": "uk"
-    },
-    "1558001803.850432": {
-        "domain": "dashgreen.online",
-        "extension": "online"
-    },
-    "1558001808.092245": {
-        "domain": "errorfixing.space",
-        "extension": "space"
-    },
-    "1558001808.5577798": {
-        "domain": "eveley.club",
-        "extension": "club"
-    },
-    "1558001810.084469": {
-        "domain": "fast-lost4tmz.world",
-        "extension": "world"
-    },
-    "1558001810.4364953": {
-        "domain": "fatfasts-4tmz.world",
-        "extension": "world"
-    },
-    "1558001812.2387848": {
-        "domain": "firrectly.top",
-        "extension": "top"
-    },
-    "1558001813.3646276": {
-        "domain": "freecamerauk.co.uk",
-        "extension": "uk"
-    },
-    "1558001813.5932589": {
-        "domain": "freebiegb.co.uk",
-        "extension": "uk"
-    },
-    "1558001814.7402034": {
-        "domain": "freeipoduk.co.uk",
-        "extension": "uk"
-    },
-    "1558001814.9374309": {
-        "domain": "freeipodnanouk.co.uk",
-        "extension": "uk"
-    },
-    "1558001815.1129508": {
-        "domain": "freemaintenancesysforpcandmac.top",
-        "extension": "top"
-    },
-    "1558001815.3353405": {
-        "domain": "freepayasyougotopupuk.co.uk",
-        "extension": "uk"
-    },
-    "1558001815.936513": {
-        "domain": "freshmac.space",
-        "extension": "space"
-    },
-    "1558001818.450314": {
-        "domain": "gift-today85.online",
-        "extension": "online"
-    },
-    "1558001820.7734265": {
-        "domain": "healthclicks.co.uk",
-        "extension": "uk"
-    },
-    "1558001821.6550298": {
-        "domain": "hirek.top",
-        "extension": "top"
-    },
-    "1558001821.8594425": {
-        "domain": "hirexpressz.top",
-        "extension": "top"
-    },
-    "1558001822.4316432": {
+    "1558002844.7182655": {
         "domain": "hirtrafik.top",
         "extension": "top"
     },
-    "1558001822.9700994": {
+    "1558002844.9428558": {
         "domain": "hitstats.co.uk",
         "extension": "uk"
     },
-    "1558001826.1179192": {
+    "1558002848.312135": {
         "domain": "ioubes.press",
         "extension": "press"
     },
-    "1558001830.834194": {
+    "1558002853.326609": {
         "domain": "lingintirejohny.club",
         "extension": "club"
     },
-    "1558001832.3912458": {
+    "1558002854.8092253": {
         "domain": "macfixingsoftware.space",
         "extension": "space"
     },
-    "1558001832.7812045": {
+    "1558002855.0371451": {
         "domain": "macmeasurmenthub.club",
         "extension": "club"
     },
-    "1558001832.9966094": {
+    "1558002855.2199526": {
         "domain": "macmeasurmentpro.club",
         "extension": "club"
     },
-    "1558001833.0427701": {
+    "1558002855.4706373": {
         "domain": "macshield8.club",
         "extension": "club"
     },
-    "1558001835.364459": {
+    "1558002858.2071824": {
         "domain": "mobile-antivirus.club",
         "extension": "club"
     },
-    "1558001835.9743807": {
+    "1558002858.3688095": {
         "domain": "mokuskerek.club",
         "extension": "club"
     },
-    "1558001836.9387338": {
+    "1558002859.3855872": {
         "domain": "mycashback.co.uk",
         "extension": "uk"
     },
-    "1558001837.0413375": {
+    "1558002859.8925874": {
         "domain": "myfreegifts.co.uk",
         "extension": "uk"
     },
-    "1558001837.5005486": {
+    "1558002860.0721035": {
         "domain": "mylike.co.uk",
         "extension": "uk"
     },
-    "1558001837.6707566": {
+    "1558002860.5224245": {
         "domain": "myperiod.club",
         "extension": "club"
     },
-    "1558001843.407409": {
+    "1558002865.5478265": {
         "domain": "olqdh.top",
         "extension": "top"
     },
-    "1558001844.043798": {
+    "1558002866.2544408": {
         "domain": "oreidofitilho.com.br",
         "extension": "br"
     },
-    "1558001844.6211646": {
+    "1558002866.940599": {
         "domain": "pacificnet.host",
         "extension": "host"
     },
-    "1558001845.5074875": {
+    "1558002867.5332413": {
+        "domain": "pcnetworkreliablecloudservices.online",
+        "extension": "online"
+    },
+    "1558002867.6579025": {
         "domain": "pc-virus-k7d4v9.online",
         "extension": "online"
     },
-    "1558001846.3025324": {
+    "1558002868.2013237": {
         "domain": "phorm.com.br",
         "extension": "br"
     },
-    "1558001846.4846303": {
+    "1558002868.6275656": {
         "domain": "phorm.dk",
         "extension": "dk"
     },
-    "1558001846.886836": {
+    "1558002868.7562118": {
         "domain": "phorm.hk",
         "extension": "hk"
     },
-    "1558001849.7604659": {
+    "1558002872.0002184": {
         "domain": "prizestohandle.club",
         "extension": "club"
     },
-    "1558001851.3165655": {
+    "1558002873.6948214": {
         "domain": "purredheanb.online",
         "extension": "online"
     },
-    "1558001855.2658942": {
+    "1558002877.5249789": {
         "domain": "scorepconline.club",
         "extension": "club"
     },
-    "1558001860.8420575": {
+    "1558002883.0463903": {
         "domain": "subsitesadserver.co.uk",
         "extension": "uk"
     },
-    "1558001860.899883": {
+    "1558002883.3440874": {
         "domain": "suhunsoo.uk",
         "extension": "uk"
     },
-    "1558001865.494664": {
+    "1558002888.279892": {
         "domain": "tradedoubler.com.ar",
         "extension": "ar"
     },
-    "1558001868.642724": {
+    "1558002891.7856646": {
         "domain": "veirregnant.club",
         "extension": "club"
     },
-    "1558001870.047871": {
+    "1558002893.2244802": {
         "domain": "voucher-for-you.online",
         "extension": "online"
     },
-    "1558001871.0300956": {
+    "1558002893.9959252": {
         "domain": "webnavegador.com.br",
         "extension": "br"
     },
-    "1558001873.1543572": {
+    "1558002896.3197517": {
         "domain": "yhit.press",
         "extension": "press"
     },
-    "1558001873.2984097": {
+    "1558002896.6171875": {
         "domain": "you-have-0ne-messsagehe0.top",
         "extension": "top"
     },
-    "1558001874.853735": {
+    "1558002898.3667781": {
         "domain": "zfn5wua2d1.online",
         "extension": "online"
     },
-    "1558001887.534971": {
+    "1558002910.8514762": {
         "domain": "www.yhit.press",
         "extension": "press"
     },
-    "1558001887.988617": {
+    "1558002911.3189545": {
         "domain": "www.you-have-0ne-messsagehe0.top",
         "extension": "top"
     },
-    "1558001891.6609724": {
+    "1558002915.0151572": {
         "domain": "www.zfn5wua2d1.online",
         "extension": "online"
     },
-    "1558001895.5203147": {
+    "1558002918.9751792": {
         "domain": "www.1q0bjj4d39.top",
         "extension": "top"
     },
-    "1558002010.1717978": {
+    "1558003036.6122923": {
         "domain": "www.appfixing.space",
         "extension": "space"
     },
-    "1558002012.926166": {
+    "1558003039.3604422": {
         "domain": "www.applicationpremium70.club",
         "extension": "club"
     },
-    "1558002027.80589": {
+    "1558003054.2236893": {
         "domain": "www.battleoftheprizes.club",
         "extension": "club"
     },
-    "1558002029.7059155": {
+    "1558003056.1383116": {
         "domain": "www.best-games4you.top",
         "extension": "top"
     },
-    "1558002099.5656781": {
+    "1558003125.6773858": {
         "domain": "www.eveley.club",
         "extension": "club"
     },
-    "1558002104.2545264": {
+    "1558003130.2929995": {
         "domain": "www.fast-lost4tmz.world",
         "extension": "world"
     },
-    "1558002105.1476367": {
+    "1558003131.1938555": {
         "domain": "www.fatfasts-4tmz.world",
         "extension": "world"
     },
-    "1558002112.887876": {
+    "1558003138.7737796": {
         "domain": "www.freebiegb.co.uk",
         "extension": "uk"
     },
-    "1558002113.071176": {
+    "1558003138.954095": {
         "domain": "www.freecamerauk.co.uk",
         "extension": "uk"
     },
-    "1558002114.8995335": {
+    "1558003140.7919607": {
         "domain": "www.freeipodnanouk.co.uk",
         "extension": "uk"
     },
-    "1558002115.1074784": {
+    "1558003140.9852357": {
         "domain": "www.freemaintenancesysforpcandmac.top",
         "extension": "top"
     },
-    "1558002115.4721024": {
+    "1558003141.3508158": {
         "domain": "www.freepayasyougotopupuk.co.uk",
         "extension": "uk"
     },
-    "1558002116.2227972": {
+    "1558003142.1247466": {
         "domain": "www.freshmac.space",
         "extension": "space"
     },
-    "1558002127.5300653": {
+    "1558003153.370739": {
         "domain": "www.gift-today85.online",
         "extension": "online"
     },
-    "1558002135.2282622": {
+    "1558003160.5399172": {
         "domain": "www.healthclicks.co.uk",
         "extension": "uk"
     },
-    "1558002138.4304657": {
+    "1558003163.6671708": {
         "domain": "www.hirtrafik.top",
         "extension": "top"
     },
-    "1558002139.017735": {
+    "1558003164.26026": {
         "domain": "www.hlu9tseh.men",
         "extension": "men"
-    },
-    "1558002158.1378655": {
-        "domain": "www.kaprazatos.club",
-        "extension": "club"
     }
 }
