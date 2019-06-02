@@ -1545,8 +1545,8 @@
         "state": "future"
     },
     "airadmins.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "airfrance.life": {
@@ -7872,6 +7872,11 @@
     "phormchina.com": {
         "epoch": "1582416000",
         "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "phox2ey.bid": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "phuphi.com": {
