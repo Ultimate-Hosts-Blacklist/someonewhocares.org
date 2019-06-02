@@ -270,8 +270,8 @@
         "state": "future"
     },
     "4girlsfingerpaint.org": {
-        "epoch": "1559347200",
-        "expiration_date": "01-jun-2019",
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "4th3d48.com": {
@@ -430,8 +430,8 @@
         "state": "future"
     },
     "activeindexer.com": {
-        "epoch": "1557446400",
-        "expiration_date": "10-may-2019",
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
         "state": "future"
     },
     "ad-balancer.net": {
@@ -7260,8 +7260,8 @@
         "state": "future"
     },
     "netsponsors.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "networkad.net": {
@@ -8757,6 +8757,11 @@
     "screen-mates.com": {
         "epoch": "1575072000",
         "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
+    "scribus.fr": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
         "state": "future"
     },
     "scrollbelow.com": {
@@ -10750,8 +10755,8 @@
         "state": "future"
     },
     "wangluoruanjian.com": {
-        "epoch": "1557532800",
-        "expiration_date": "11-may-2019",
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "wantsfly.com": {
