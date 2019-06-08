@@ -1680,8 +1680,8 @@
         "state": "future"
     },
     "answerhub.com": {
-        "epoch": "1558742400",
-        "expiration_date": "25-may-2019",
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "antispywareexpert.com": {
@@ -9710,9 +9710,9 @@
         "state": "future"
     },
     "textbanners.net": {
-        "epoch": "1559952000",
+        "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "textsrv.com": {
         "epoch": "1560988800",
