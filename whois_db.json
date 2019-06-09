@@ -775,9 +775,9 @@
         "state": "future"
     },
     "adition.com": {
-        "epoch": 1559174400,
-        "expiration_date": "30-may-2019",
-        "state": "past"
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
     },
     "adjmps.com": {
         "epoch": "1560470400",
@@ -2825,8 +2825,8 @@
         "state": "future"
     },
     "cl96rwprue.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "claimfreerewards.com": {
