@@ -1155,8 +1155,8 @@
         "state": "future"
     },
     "adsonar.com": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1623196800,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "adspics.com": {
@@ -5135,9 +5135,9 @@
         "state": "past"
     },
     "helpmymacfaster.club": {
-        "epoch": "1545868800",
-        "expiration_date": "27-dec-2018",
-        "state": "past"
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
     },
     "heroesofrpg.com": {
         "epoch": "1572912000",
@@ -7025,8 +7025,8 @@
         "state": "future"
     },
     "mybinaryoptionsrobot.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "mycamptrack.com": {
@@ -9330,8 +9330,8 @@
         "state": "future"
     },
     "ssl4anyone5.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "stackoverflow.xyz": {
@@ -9925,8 +9925,8 @@
         "state": "future"
     },
     "tons-to-see.com": {
-        "epoch": "1557964800",
-        "expiration_date": "16-may-2019",
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "toofanshadid.com": {
@@ -10640,9 +10640,9 @@
         "state": "future"
     },
     "vipromoffers.com": {
-        "epoch": "1560124800",
+        "epoch": 1560124800,
         "expiration_date": "10-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "viralture.com": {
         "epoch": "1577318400",
