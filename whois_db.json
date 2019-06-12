@@ -5270,8 +5270,8 @@
         "state": "future"
     },
     "histats.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "histock.info": {
@@ -5847,6 +5847,11 @@
     "kdowqlpt.info": {
         "epoch": "1569456000",
         "expiration_date": "26-sep-2019",
+        "state": "future"
+    },
+    "keepass.com": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
         "state": "future"
     },
     "keepass.fr": {
@@ -7245,9 +7250,9 @@
         "state": "future"
     },
     "net-web-techie-software.win": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "netadclick.com": {
         "epoch": "1606176000",
@@ -9710,9 +9715,9 @@
         "state": "future"
     },
     "textbanners.net": {
-        "epoch": 1559952000,
-        "expiration_date": "08-jun-2019",
-        "state": "past"
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
     },
     "textsrv.com": {
         "epoch": "1560988800",
@@ -10965,9 +10970,9 @@
         "state": "future"
     },
     "winsupportit.club": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "wonderlandads.com": {
         "epoch": "1588118400",
