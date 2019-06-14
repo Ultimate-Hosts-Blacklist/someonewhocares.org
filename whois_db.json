@@ -2589,6 +2589,11 @@
         "expiration_date": "23-nov-2019",
         "state": "future"
     },
+    "callbling.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "cam4.fr": {
         "epoch": "1586736000",
         "expiration_date": "13-apr-2020",
@@ -5345,8 +5350,8 @@
         "state": "future"
     },
     "hot-daily-deal.com": {
-        "epoch": "1557964800",
-        "expiration_date": "16-may-2019",
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "hotchatdate.com": {
@@ -6415,8 +6420,8 @@
         "state": "future"
     },
     "magyarokvagyunk.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "mai-hirek.net": {
