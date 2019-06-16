@@ -7600,9 +7600,9 @@
         "state": "future"
     },
     "online2018softwarefree.win": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "onlinewebfind.com": {
         "epoch": "1576627200",
