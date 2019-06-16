@@ -2470,9 +2470,9 @@
         "state": "future"
     },
     "bugsbanner.it": {
-        "epoch": "1559433600",
+        "epoch": 1559433600,
         "expiration_date": "02-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "bulkclicks.com": {
         "epoch": "1568851200",
@@ -8965,8 +8965,8 @@
         "state": "future"
     },
     "sherkatkonandeh.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "sherkhundi.com": {
@@ -9160,8 +9160,8 @@
         "state": "future"
     },
     "smokersopinionpoll.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "smsmovies.net": {
