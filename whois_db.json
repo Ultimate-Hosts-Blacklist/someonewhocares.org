@@ -8455,8 +8455,8 @@
         "state": "future"
     },
     "redonetype.com": {
-        "epoch": "1560556800",
-        "expiration_date": "15-jun-2019",
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "redshell.io": {
@@ -11010,9 +11010,9 @@
         "state": "future"
     },
     "wpadx.com": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "wppluginspro.com": {
         "epoch": "1565740800",
