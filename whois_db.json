@@ -435,8 +435,8 @@
         "state": "future"
     },
     "ad-balancer.net": {
-        "epoch": "1558310400",
-        "expiration_date": "20-may-2019",
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "ad-clicks.com": {
@@ -3100,8 +3100,8 @@
         "state": "future"
     },
     "coffeehausblog.com": {
-        "epoch": "1558051200",
-        "expiration_date": "17-may-2019",
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "coin-ad.com": {
@@ -6995,9 +6995,9 @@
         "state": "future"
     },
     "mv0129.stream": {
-        "epoch": "1560643200",
+        "epoch": 1560643200,
         "expiration_date": "16-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "mvonline.com": {
         "epoch": "1585353600",
@@ -9115,8 +9115,8 @@
         "state": "future"
     },
     "smartadserver.com": {
-        "epoch": "1560124800",
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "smartclip.com": {
