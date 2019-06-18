@@ -3515,8 +3515,8 @@
         "state": "future"
     },
     "darakht.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "darmowe-liczniki.info": {
@@ -6665,8 +6665,8 @@
         "state": "future"
     },
     "methodcasino2015.com": {
-        "epoch": "1558915200",
-        "expiration_date": "27-may-2019",
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "methode-binaire.com": {
@@ -8265,8 +8265,8 @@
         "state": "future"
     },
     "publiads.com": {
-        "epoch": "1559865600",
-        "expiration_date": "07-jun-2019",
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "pubpress.net": {
@@ -10650,9 +10650,9 @@
         "state": "future"
     },
     "vipromoffers.com": {
-        "epoch": 1560124800,
-        "expiration_date": "10-jun-2019",
-        "state": "past"
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
     },
     "viralture.com": {
         "epoch": "1577318400",
