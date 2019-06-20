@@ -1735,9 +1735,9 @@
         "state": "past"
     },
     "applicationsoftwareshopnet.win": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "applicationsoftwarestorenet.win": {
         "epoch": 1560297600,
@@ -9325,8 +9325,8 @@
         "state": "future"
     },
     "spotxchange.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1717804800,
+        "expiration_date": "08-jun-2024",
         "state": "future"
     },
     "sq2trk2.com": {
@@ -9725,9 +9725,9 @@
         "state": "future"
     },
     "textsrv.com": {
-        "epoch": "1560988800",
+        "epoch": 1560988800,
         "expiration_date": "20-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "tgpmanager.com": {
         "epoch": "1588377600",
