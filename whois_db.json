@@ -3510,8 +3510,8 @@
         "state": "future"
     },
     "damavandkuh.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "darakht.com": {
@@ -4640,8 +4640,8 @@
         "state": "future"
     },
     "fun-e-cards.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "functional-business.com": {
@@ -10855,9 +10855,9 @@
         "state": "future"
     },
     "websnettechieapp.win": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "websponsors.com": {
         "epoch": "1578873600",
