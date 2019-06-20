@@ -4400,8 +4400,8 @@
         "state": "future"
     },
     "freecameraonus.com": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "freecameraprovider.com": {
@@ -11065,9 +11065,9 @@
         "state": "future"
     },
     "xcore.in": {
-        "epoch": "1559865600",
+        "epoch": 1559865600,
         "expiration_date": "07-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "xen-media.com": {
         "epoch": "1568678400",
