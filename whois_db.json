@@ -1725,9 +1725,9 @@
         "state": "past"
     },
     "applicationcodeshopnet.win": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "applicationcodeshopwebs.win": {
         "epoch": 1560297600,
@@ -3900,8 +3900,8 @@
         "state": "future"
     },
     "eclkmpbn.com": {
-        "epoch": "1560556800",
-        "expiration_date": "15-jun-2019",
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "eclkmpsa.com": {
@@ -4875,8 +4875,8 @@
         "state": "future"
     },
     "globalwebads.com": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "gmads.net": {
@@ -7265,8 +7265,8 @@
         "state": "future"
     },
     "netpalnow.com": {
-        "epoch": "1561161600",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "netpaloffers.net": {
