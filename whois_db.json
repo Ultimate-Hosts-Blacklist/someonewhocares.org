@@ -4730,9 +4730,9 @@
         "state": "future"
     },
     "gatoradvertisinginformationnetwork.com": {
-        "epoch": "1561161600",
+        "epoch": 1561161600,
         "expiration_date": "22-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "gem.pl": {
         "epoch": "1586649600",
