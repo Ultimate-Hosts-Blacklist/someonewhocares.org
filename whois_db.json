@@ -3910,8 +3910,8 @@
         "state": "future"
     },
     "eclkspbn.com": {
-        "epoch": "1560556800",
-        "expiration_date": "15-jun-2019",
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "ecoencomputer.com": {
@@ -9920,9 +9920,9 @@
         "state": "future"
     },
     "todayresearch.com": {
-        "epoch": 1560643200,
-        "expiration_date": "16-jun-2019",
-        "state": "past"
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
     },
     "tommysbookmarks.com": {
         "epoch": "1579219200",
