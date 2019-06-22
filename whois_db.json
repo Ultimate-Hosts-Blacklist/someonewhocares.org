@@ -1325,8 +1325,8 @@
         "state": "future"
     },
     "advaliant.com": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "advancedmaccleaner.com": {
@@ -2960,8 +2960,8 @@
         "state": "future"
     },
     "clicktale.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "clicktale.net": {
@@ -4245,8 +4245,8 @@
         "state": "future"
     },
     "findalgorithm.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "findmenow.info": {
@@ -8912,6 +8912,11 @@
     "sexitnow.com": {
         "epoch": "1587600000",
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "sexmonitor.net": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "sexpartnerx.com": {
