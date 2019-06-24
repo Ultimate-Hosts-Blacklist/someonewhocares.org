@@ -4730,9 +4730,14 @@
         "state": "future"
     },
     "gatoradvertisinginformationnetwork.com": {
-        "epoch": 1561161600,
-        "expiration_date": "22-jun-2019",
-        "state": "past"
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "gejroom.net": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
     },
     "gem.pl": {
         "epoch": "1586649600",
