@@ -4620,9 +4620,9 @@
         "state": "future"
     },
     "ftdownload.com": {
-        "epoch": "1561334400",
+        "epoch": 1561334400,
         "expiration_date": "24-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "ftjcfx.com": {
         "epoch": "1586131200",
