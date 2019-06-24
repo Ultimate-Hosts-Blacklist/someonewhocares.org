@@ -3170,9 +3170,9 @@
         "state": "future"
     },
     "combinationsmart.bid": {
-        "epoch": "1550707200",
-        "expiration_date": "21-feb-2019",
-        "state": "past"
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
     },
     "compufixshop.com": {
         "epoch": "1563753600",
@@ -6290,8 +6290,8 @@
         "state": "future"
     },
     "lottoforever.com": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "lpcloudsvr302.com": {
