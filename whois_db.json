@@ -320,7 +320,7 @@
         "state": "future"
     },
     "805m.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
         "state": "future"
     },
@@ -11020,7 +11020,7 @@
         "state": "future"
     },
     "wpadx.com": {
-        "epoch": 1560816000,
+        "epoch": 1592438400,
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
