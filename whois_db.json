@@ -4200,9 +4200,9 @@
         "state": "future"
     },
     "fengyixin.com": {
-        "epoch": "1561507200",
+        "epoch": 1561507200,
         "expiration_date": "26-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "fervortracer.com": {
         "epoch": "1588723200",
@@ -8950,8 +8950,8 @@
         "state": "future"
     },
     "shareaholic.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1624233600,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "shareasale.com": {
