@@ -8175,9 +8175,9 @@
         "state": "future"
     },
     "prizestohandle.club": {
-        "epoch": "1560556800",
+        "epoch": 1560556800,
         "expiration_date": "15-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "prjcq.com": {
         "epoch": "1584316800",
