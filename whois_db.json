@@ -3355,8 +3355,8 @@
         "state": "future"
     },
     "crazywinnings.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "creatrixads.com": {
@@ -4590,8 +4590,8 @@
         "state": "future"
     },
     "friendlyduck.com": {
-        "epoch": "1561248000",
-        "expiration_date": "23-jun-2019",
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "frissvilag.com": {
@@ -7155,8 +7155,8 @@
         "state": "future"
     },
     "nactx.com": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "naenticle.info": {
@@ -8932,6 +8932,11 @@
     "sexsponsors.com": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "sexzavod.com": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "shafou.com": {
