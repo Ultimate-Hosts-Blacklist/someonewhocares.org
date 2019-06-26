@@ -6699,6 +6699,11 @@
         "expiration_date": "05-oct-2019",
         "state": "future"
     },
+    "microsoftsupport.xyz": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
     "miercuri.gq": {
         "epoch": "1769212800",
         "expiration_date": "24-jan-2026",
@@ -10010,8 +10015,8 @@
         "state": "future"
     },
     "top-application-web-online.site": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "top20free.com": {
