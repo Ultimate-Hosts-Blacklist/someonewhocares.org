@@ -3750,8 +3750,8 @@
         "state": "future"
     },
     "donotwatch.org": {
-        "epoch": "1560643200",
-        "expiration_date": "16-jun-2019",
+        "epoch": 1623801600,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "dontwatch.us": {
@@ -3827,6 +3827,11 @@
     "drc-group.net": {
         "epoch": "1626048000",
         "expiration_date": "12-jul-2021",
+        "state": "future"
+    },
+    "drecentreshu.info": {
+        "epoch": 1620086400,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "drowle.com": {
@@ -10515,8 +10520,8 @@
         "state": "future"
     },
     "uqz.com": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "urlcut.net": {
