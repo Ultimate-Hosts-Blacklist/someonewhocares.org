@@ -2880,8 +2880,8 @@
         "state": "future"
     },
     "clevernt.com": {
-        "epoch": "1561161600",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "clhctrk.com": {
@@ -9337,6 +9337,11 @@
     "spklds.com": {
         "epoch": "1562976000",
         "expiration_date": "13-jul-2019",
+        "state": "future"
+    },
+    "spolecznosci.net": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "sponsor1.com": {
