@@ -6150,9 +6150,9 @@
         "state": "future"
     },
     "letslowbefast.site": {
-        "epoch": "1550102400",
-        "expiration_date": "14-feb-2019",
-        "state": "past"
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
     },
     "letssearch.com": {
         "epoch": "1581206400",
@@ -7490,9 +7490,9 @@
         "state": "future"
     },
     "o-2-s-f.win": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "obesitycheck.com": {
         "epoch": "1573776000",
