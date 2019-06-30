@@ -9575,9 +9575,9 @@
         "state": "future"
     },
     "swinon.site": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "symbiosting.com": {
         "epoch": "1577836800",
