@@ -1405,9 +1405,9 @@
         "state": "future"
     },
     "advplace.com": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "advserver.xyz": {
         "epoch": "1565568000",
