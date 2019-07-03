@@ -6505,9 +6505,9 @@
         "state": "future"
     },
     "mashinkhabar.com": {
-        "epoch": "1558137600",
+        "epoch": 1558137600,
         "expiration_date": "18-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "masterspace.biz": {
         "epoch": "1582588800",
@@ -8225,8 +8225,8 @@
         "state": "future"
     },
     "producttestpanel.com": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "profitboosterapp.com": {
