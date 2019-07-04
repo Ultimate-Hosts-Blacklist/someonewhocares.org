@@ -2210,7 +2210,7 @@
         "state": "future"
     },
     "bitcoadz.io": {
-        "epoch": "1565308800",
+        "epoch": 1565308800,
         "expiration_date": "09-aug-2019",
         "state": "future"
     },
@@ -5775,8 +5775,8 @@
         "state": "future"
     },
     "jivox.com": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "jiztini.com": {
@@ -11010,8 +11010,8 @@
         "state": "future"
     },
     "wikidevs.com": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "willysy.com": {
