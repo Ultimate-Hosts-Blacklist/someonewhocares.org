@@ -5190,8 +5190,8 @@
         "state": "future"
     },
     "hilltopads.net": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "himediads.com": {
@@ -10735,9 +10735,9 @@
         "state": "future"
     },
     "vistawebs-web-techie-app.win": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "visualwebsiteoptimizer.com": {
         "epoch": "1668297600",
