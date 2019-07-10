@@ -965,9 +965,9 @@
         "state": "future"
     },
     "ads.dk": {
-        "epoch": 1561852800,
-        "expiration_date": "30-jun-2019",
-        "state": "past"
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
     },
     "ads.gold": {
         "epoch": "1582070400",
@@ -4720,8 +4720,8 @@
         "state": "future"
     },
     "gamelights.ru": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "gamerz123.com": {
