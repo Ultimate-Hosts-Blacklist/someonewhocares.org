@@ -355,8 +355,8 @@
         "state": "future"
     },
     "a-ads.com": {
-        "epoch": "1562457600",
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "a2uu36g43l.download": {
@@ -4300,9 +4300,9 @@
         "state": "future"
     },
     "fixbonus.com": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "flagcounter.com": {
         "epoch": "1673222400",
