@@ -2365,9 +2365,9 @@
         "state": "future"
     },
     "brandsurveypanel.com": {
-        "epoch": "1563062400",
+        "epoch": 1563062400,
         "expiration_date": "14-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "bravospots.com": {
         "epoch": 1590710400,
@@ -9360,8 +9360,8 @@
         "state": "future"
     },
     "spklds.com": {
-        "epoch": "1562976000",
-        "expiration_date": "13-jul-2019",
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "spolecznosci.net": {
