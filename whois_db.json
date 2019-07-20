@@ -4360,8 +4360,8 @@
         "state": "future"
     },
     "fontoshirek.info": {
-        "epoch": "1563321600",
-        "expiration_date": "17-jul-2019",
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "fontostudni.club": {
@@ -9090,9 +9090,9 @@
         "state": "future"
     },
     "simplyfwd.com": {
-        "epoch": "1563580800",
+        "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "simplyhelper.com": {
         "epoch": "1583107200",
