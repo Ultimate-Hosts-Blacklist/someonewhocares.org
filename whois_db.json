@@ -4595,9 +4595,9 @@
         "state": "future"
     },
     "friendgreetings.com": {
-        "epoch": "1563580800",
+        "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "friendgreetings.net": {
         "epoch": "1596672000",
