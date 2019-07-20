@@ -7545,9 +7545,9 @@
         "state": "future"
     },
     "offerreality.com": {
-        "epoch": "1563494400",
+        "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "offertrakking.info": {
         "epoch": "1579219200",
