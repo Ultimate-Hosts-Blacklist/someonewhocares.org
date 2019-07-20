@@ -1955,9 +1955,9 @@
         "state": "future"
     },
     "b400393baba7cd476a3.com": {
-        "epoch": "1563580800",
+        "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "badmactogoodmac.space": {
         "epoch": "1577491200",
