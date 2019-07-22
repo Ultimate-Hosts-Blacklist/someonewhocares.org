@@ -3345,8 +3345,8 @@
         "state": "future"
     },
     "cpxdeliv.com": {
-        "epoch": "1563408000",
-        "expiration_date": "18-jul-2019",
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "crazypopups.com": {
@@ -3485,8 +3485,8 @@
         "state": "future"
     },
     "d4q8zgf756.com": {
-        "epoch": "1563408000",
-        "expiration_date": "18-jul-2019",
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "da-ads.com": {
@@ -9090,9 +9090,9 @@
         "state": "future"
     },
     "simplyfwd.com": {
-        "epoch": 1563580800,
-        "expiration_date": "20-jul-2019",
-        "state": "past"
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
     },
     "simplyhelper.com": {
         "epoch": "1583107200",
