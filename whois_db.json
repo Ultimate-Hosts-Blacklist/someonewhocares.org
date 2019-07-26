@@ -169,6 +169,11 @@
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "activeindexer.com": {
+        "epoch": 1557446400,
+        "expiration_date": "10-may-2019",
+        "state": "past"
+    },
     "ad-clicks.com": {
         "epoch": 1602201600,
         "expiration_date": "09-oct-2020",
@@ -1009,6 +1014,11 @@
         "expiration_date": "28-nov-2019",
         "state": "future"
     },
+    "bonzi.com": {
+        "epoch": 1631491200,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
+    },
     "bopstermedia56.com": {
         "epoch": 1594252800,
         "expiration_date": "09-jul-2020",
@@ -1829,6 +1839,11 @@
         "expiration_date": "10-nov-2019",
         "state": "future"
     },
+    "euniverseads.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "everifymatch.com": {
         "epoch": 1558569600,
         "expiration_date": "23-may-2019",
@@ -1917,6 +1932,11 @@
     "fengyixin.com": {
         "epoch": 1593129600,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "fervortracer.com": {
+        "epoch": 1588723200,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "ffxitrack.com": {
@@ -2188,6 +2208,16 @@
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
         "state": "future"
+    },
+    "goldadpremium.com": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "goodbizez.com": {
+        "epoch": 1557532800,
+        "expiration_date": "11-may-2019",
+        "state": "past"
     },
     "goodbookbook.com": {
         "epoch": 1593648000,
@@ -2624,6 +2654,11 @@
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "keepyoungphone.bid": {
+        "epoch": 1565222400,
+        "expiration_date": "08-aug-2019",
+        "state": "future"
+    },
     "keyofhealth.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
@@ -2879,6 +2914,11 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "majoritishbettes.info": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "mannela.info": {
         "epoch": 1573948800,
         "expiration_date": "17-nov-2019",
@@ -2937,6 +2977,11 @@
     "melding-technology.com": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "merchantapp.com": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
         "state": "future"
     },
     "merryholidays.org": {
@@ -3614,6 +3659,11 @@
         "expiration_date": "04-nov-2019",
         "state": "future"
     },
+    "pushno.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "qip.ru": {
         "epoch": 1574640000,
         "expiration_date": "25-nov-2019",
@@ -3797,6 +3847,11 @@
     "sclk.org": {
         "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
+        "state": "future"
+    },
+    "searchforit.com": {
+        "epoch": 1588723200,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "searchv.com": {
@@ -4389,6 +4444,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "tradetracker.net": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "trafficbee.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
@@ -4522,6 +4582,11 @@
     "tz284.com": {
         "epoch": 1577491200,
         "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
+    "udarem.com": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "ufpcdn.com": {
@@ -4752,6 +4817,11 @@
     "webtrekk.net": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "webwise.com": {
+        "epoch": 1609372800,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "webwise.org": {
