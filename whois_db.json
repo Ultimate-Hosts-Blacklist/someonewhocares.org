@@ -924,6 +924,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "adtaily.pl": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "adtechus.com": {
         "epoch": 1635206400,
         "expiration_date": "26-oct-2021",
@@ -6482,6 +6487,11 @@
     "sudokuwhiz.com": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "suhunsoo.uk": {
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "sumome.com": {
