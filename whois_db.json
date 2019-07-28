@@ -4579,6 +4579,11 @@
         "expiration_date": "24-oct-2019",
         "state": "future"
     },
+    "meevehdar.com": {
+        "epoch": 1558137600,
+        "expiration_date": "18-may-2019",
+        "state": "past"
+    },
     "megasurfin.com": {
         "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
@@ -5037,6 +5042,11 @@
     "nearbyad.com": {
         "epoch": 1575072000,
         "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
+    "nedstat.com": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "neptuneads.com": {
@@ -6817,6 +6827,11 @@
     "tons-to-see.com": {
         "epoch": 1557964800,
         "expiration_date": "16-may-2019",
+        "state": "past"
+    },
+    "toofanshadid.com": {
+        "epoch": 1558137600,
+        "expiration_date": "18-may-2019",
         "state": "past"
     },
     "toolbarbest.biz": {
