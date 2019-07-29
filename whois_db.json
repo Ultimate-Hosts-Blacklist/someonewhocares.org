@@ -834,6 +834,11 @@
         "expiration_date": "02-nov-2019",
         "state": "future"
     },
+    "adsfac.net": {
+        "epoch": 1567555200,
+        "expiration_date": "04-sep-2019",
+        "state": "future"
+    },
     "adsino24.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
@@ -1264,6 +1269,11 @@
         "expiration_date": "12-jun-2019",
         "state": "past"
     },
+    "applicationsoftwarestorenet.win": {
+        "epoch": 1560297600,
+        "expiration_date": "12-jun-2019",
+        "state": "past"
+    },
     "appliedsemantics.com": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
@@ -1547,6 +1557,11 @@
     "bigbrandpromotions.com": {
         "epoch": 1595289600,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "bigbrandrewards.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
         "state": "future"
     },
     "bigfreelotto.com": {
