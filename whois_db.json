@@ -1374,6 +1374,11 @@
         "expiration_date": "19-sep-2019",
         "state": "future"
     },
+    "bulletads.com": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "bumerang.cc": {
         "epoch": 1571270400,
         "expiration_date": "17-oct-2019",
@@ -3399,6 +3404,11 @@
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
+    "lefopost.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
     "legjava.pro": {
         "epoch": 1587772800,
         "expiration_date": "25-apr-2020",
@@ -5189,6 +5199,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "smarttargetting.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "smile-angel.com": {
         "epoch": 1570752000,
         "expiration_date": "11-oct-2019",
@@ -6463,6 +6478,11 @@
         "epoch": 1595289600,
         "expiration_date": "21-jul-2020",
         "state": "future"
+    },
+    "xcore.in": {
+        "epoch": 1559865600,
+        "expiration_date": "07-jun-2019",
+        "state": "past"
     },
     "xen-media.com": {
         "epoch": 1568678400,
