@@ -3134,6 +3134,11 @@
         "expiration_date": "30-jan-2022",
         "state": "future"
     },
+    "firrectly.top": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
     "fixbonus.com": {
         "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
@@ -6943,6 +6948,11 @@
     "syncaccess.net": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "sysip.net": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
         "state": "future"
     },
     "systempartition.com": {
