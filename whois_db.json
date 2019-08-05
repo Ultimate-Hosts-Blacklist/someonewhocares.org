@@ -5575,6 +5575,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "parronnotandone.info": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "parsads.com": {
         "epoch": 1591142400,
         "expiration_date": "02-aug-2020",
@@ -7053,6 +7058,11 @@
     "telecharger-openoffice.fr": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "tenyek-online.com": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "terraclicks.com": {
