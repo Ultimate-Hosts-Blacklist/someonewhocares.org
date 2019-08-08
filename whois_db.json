@@ -4727,7 +4727,7 @@
     "keepyoungphone.bid": {
         "epoch": 1565222400,
         "expiration_date": "08-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "keybinary.com": {
         "epoch": 1588204800,
