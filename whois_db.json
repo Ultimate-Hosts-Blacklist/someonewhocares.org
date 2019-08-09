@@ -459,6 +459,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "ad20.net": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "ad2games.com": {
         "epoch": 1624665600,
         "expiration_date": "26-jun-2021",
@@ -569,6 +574,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "adecn.com": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
+        "state": "future"
+    },
     "ademails.com": {
         "epoch": 1595980800,
         "expiration_date": "29-jul-2020",
@@ -595,6 +605,11 @@
         "state": "future"
     },
     "adexchangeprediction.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "adexchangetracker.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
         "state": "future"
@@ -3169,6 +3184,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "dobbenetes.com": {
+        "epoch": 1568246400,
+        "expiration_date": "12-sep-2019",
+        "state": "future"
+    },
     "doesok.top": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
@@ -3865,9 +3885,9 @@
         "state": "future"
     },
     "frenetikus.com": {
-        "epoch": 1558310400,
-        "expiration_date": "20-may-2019",
-        "state": "past"
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
     },
     "frequencyaccess.com": {
         "epoch": 1576540800,
@@ -4372,6 +4392,11 @@
     "helpmymacfaster.club": {
         "epoch": 1590796800,
         "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "heti-naplo.com": {
+        "epoch": 1569196800,
+        "expiration_date": "23-sep-2019",
         "state": "future"
     },
     "hg8dc7bm.com": {
@@ -6370,6 +6395,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "omtrdc.net": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
     "onclickads.net": {
         "epoch": 1591142400,
         "expiration_date": "03-jun-2020",
@@ -8328,6 +8358,11 @@
     "themecounter.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "themusicnetwork.co.uk": {
+        "epoch": 1613347200,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "thepiratetrader.com": {
