@@ -6260,6 +6260,11 @@
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
+    "net-web-techie-software.win": {
+        "epoch": 1560297600,
+        "expiration_date": "12-jun-2019",
+        "state": "past"
+    },
     "netadclick.com": {
         "epoch": 1606176000,
         "expiration_date": "24-nov-2020",
