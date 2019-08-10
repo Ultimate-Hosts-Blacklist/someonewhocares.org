@@ -2134,6 +2134,11 @@
         "expiration_date": "16-oct-2019",
         "state": "future"
     },
+    "brwser-message.pw": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "brxfinance.com": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
@@ -7675,6 +7680,11 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "seemlessfixing.tech": {
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
+        "state": "future"
+    },
     "segob.gob.mx": {
         "epoch": 1596240000,
         "expiration_date": "01-aug-2020",
@@ -8695,6 +8705,11 @@
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
+    "topreward.site": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "topshape.me": {
         "epoch": 1596931200,
         "expiration_date": "09-aug-2020",
@@ -8703,6 +8718,11 @@
     "topstats.com": {
         "epoch": 1579478400,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "toptypeonlinetheclicks.icu": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
         "state": "future"
     },
     "torjackan.info": {
