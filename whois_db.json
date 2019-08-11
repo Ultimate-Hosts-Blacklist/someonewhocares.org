@@ -449,6 +449,11 @@
         "expiration_date": "24-jan-2020",
         "state": "future"
     },
+    "ad-u.com": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "ad-up.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
@@ -532,6 +537,11 @@
     "adbers.com": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "adbit.co": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
         "state": "future"
     },
     "adblade.com": {
@@ -642,6 +652,11 @@
     "adexpansion.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "adexprt.com": {
+        "epoch": 1571097600,
+        "expiration_date": "15-oct-2019",
         "state": "future"
     },
     "adexprt.me": {
@@ -812,6 +827,11 @@
     "adocean.pl": {
         "epoch": 1584489600,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "adotube.com": {
+        "epoch": 1613347200,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "adpepper.dk": {
@@ -6711,6 +6731,11 @@
         "state": "future"
     },
     "onclickpredictiv.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "onclicksuper.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
         "state": "future"
