@@ -4044,6 +4044,11 @@
         "expiration_date": "27-may-2020",
         "state": "future"
     },
+    "friendgreetings.com": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "friendgreetings.net": {
         "epoch": 1596672000,
         "expiration_date": "06-aug-2020",
@@ -4282,6 +4287,11 @@
     "gigaonclick.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "gingert.net": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "globalbuffer.com": {
@@ -4694,6 +4704,11 @@
         "expiration_date": "18-may-2019",
         "state": "past"
     },
+    "honestsun.top": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
     "hooqy.com": {
         "epoch": 1611187200,
         "expiration_date": "21-jan-2021",
@@ -4987,6 +5002,11 @@
     "iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com": {
         "epoch": 1715472000,
         "expiration_date": "12-may-2024",
+        "state": "future"
+    },
+    "iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "izarc.fr": {
@@ -6377,12 +6397,12 @@
     },
     "networkad.net": {
         "epoch": 1593129600,
-        "expiration_date": "26-jun-2020",
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "newbritmoneymethod.com": {
         "epoch": 1584662400,
-        "expiration_date": "20-mar-2020",
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "newclk.com": {
@@ -6621,6 +6641,11 @@
         "state": "future"
     },
     "onclickprediction.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "onclicktop.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
         "state": "future"
@@ -8105,6 +8130,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "sourmath.com": {
+        "epoch": 1588464000,
+        "expiration_date": "03-may-2020",
+        "state": "future"
+    },
     "sousay.info": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
@@ -8535,6 +8565,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "tgpmanager.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "thatrendsystem.com": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
@@ -8612,8 +8647,7 @@
     },
     "thepiratetrader.com": {
         "epoch": 1608768000,
-        "expiration_date": "24-dec-2020",
-        "state": "future"
+        "expiration_date": "24-dec-2020"
     },
     "thepounder.com": {
         "epoch": 1583625600,
