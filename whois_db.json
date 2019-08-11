@@ -205,9 +205,9 @@
         "state": "future"
     },
     "3turtles.com": {
-        "epoch": 1565308800,
-        "expiration_date": "09-aug-2019",
-        "state": "past"
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
     },
     "4-counter.com": {
         "epoch": 1573430400,
@@ -2584,6 +2584,11 @@
         "expiration_date": "17-jul-2027",
         "state": "future"
     },
+    "clicksgear.com": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
     "clicksor.com": {
         "epoch": 1580083200,
         "expiration_date": "27-jan-2020",
@@ -3284,6 +3289,11 @@
         "expiration_date": "16-dec-2021",
         "state": "future"
     },
+    "dizzcloud.com": {
+        "epoch": 1572220800,
+        "expiration_date": "28-oct-2019",
+        "state": "future"
+    },
     "djugoogs.com": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
@@ -3568,6 +3578,11 @@
         "epoch": 1558569600,
         "expiration_date": "23-may-2019",
         "state": "past"
+    },
+    "exclusivegiftcards.com": {
+        "epoch": 1569024000,
+        "expiration_date": "21-sep-2019",
+        "state": "future"
     },
     "exponential.com": {
         "epoch": 1854748800,
@@ -4160,9 +4175,9 @@
         "state": "future"
     },
     "gameconsolerewards.com": {
-        "epoch": 1565308800,
-        "expiration_date": "09-aug-2019",
-        "state": "past"
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
     },
     "gamelights.ru": {
         "epoch": 1594339200,
@@ -5815,6 +5830,11 @@
         "expiration_date": "24-oct-2019",
         "state": "future"
     },
+    "meevehdar.com": {
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
     "megasurfin.com": {
         "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
@@ -5938,6 +5958,11 @@
     "minero.pw": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "mizvan.com": {
+        "epoch": 1613692800,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "mktrkr.com": {
