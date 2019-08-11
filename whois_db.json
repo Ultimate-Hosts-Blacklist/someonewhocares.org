@@ -2269,6 +2269,11 @@
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "cambonanza.com": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "camgeil.com": {
         "epoch": 1574467200,
         "expiration_date": "23-nov-2019",
@@ -6000,6 +6005,11 @@
         "expiration_date": "06-jun-2019",
         "state": "past"
     },
+    "morefreecamsecrets.com": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
     "morevisits.info": {
         "epoch": 1589760000,
         "expiration_date": "18-may-2020",
@@ -6256,8 +6266,8 @@
         "state": "future"
     },
     "nationalissuepanel.com": {
-        "epoch": 1565395200,
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "nationalsurveypanel.com": {
@@ -7388,6 +7398,11 @@
     "reklamagaci.com": {
         "epoch": 1584144000,
         "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "reklamtrk.com": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "relatable.top": {
@@ -9524,6 +9539,11 @@
         "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
         "state": "past"
+    },
+    "websponsors.com": {
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
     },
     "webstat.com": {
         "epoch": 1597017600,
