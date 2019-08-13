@@ -5695,6 +5695,11 @@
         "expiration_date": "29-aug-2019",
         "state": "future"
     },
+    "lpmxp2017.com": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "lsassoc.com": {
         "epoch": 1618531200,
         "expiration_date": "16-apr-2021",
@@ -8491,8 +8496,8 @@
         "state": "future"
     },
     "statsession.com": {
-        "epoch": 0,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "statsie.com": {
