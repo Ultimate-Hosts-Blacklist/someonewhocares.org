@@ -4497,7 +4497,7 @@
     "grabflashsign.win": {
         "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "greasypalm.com": {
         "epoch": 1574899200,
@@ -4512,6 +4512,11 @@
     "greatdexchange.com": {
         "epoch": 1583366400,
         "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "greeninst.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "greenshot.fr": {
@@ -7065,6 +7070,11 @@
         "expiration_date": "27-may-2019",
         "state": "past"
     },
+    "pills-home.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
     "pituitosus.com": {
         "epoch": 1583193600,
         "expiration_date": "03-mar-2020",
@@ -7445,6 +7455,11 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "qip.ru": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
     "qitrck.com": {
         "epoch": 1559174400,
         "expiration_date": "30-may-2019",
@@ -7533,6 +7548,11 @@
     "realizemobicom.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
+        "state": "future"
+    },
+    "realizmobi.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "rebevengwas.com": {
@@ -8935,8 +8955,8 @@
         "state": "future"
     },
     "top20free.com": {
-        "epoch": 1592438400,
-        "expiration_date": "18-jun-2020",
+        "epoch": 15924384001565827200,
+        "expiration_date": "15-aug-2019",
         "state": "future"
     },
     "topbestgames.com": {
@@ -10107,6 +10127,11 @@
     "yourgiftzone.com": {
         "epoch": 1594857600,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "yourhandytips.com": {
+        "epoch": 1566950400,
+        "expiration_date": "28-aug-2019",
         "state": "future"
     },
     "youripad4free.com": {
