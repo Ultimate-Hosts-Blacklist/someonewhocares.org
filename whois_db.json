@@ -2115,8 +2115,8 @@
         "state": "future"
     },
     "boonsolutions.com": {
-        "epoch": 1565481600,
-        "expiration_date": "11-aug-2019",
+        "epoch": 1660176000,
+        "expiration_date": "11-aug-2022",
         "state": "future"
     },
     "bopstermedia56.com": {
@@ -2552,6 +2552,11 @@
     "claimfreerewards.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
+    "classicjack.com": {
+        "epoch": 1721174400,
+        "expiration_date": "17-jul-2024",
         "state": "future"
     },
     "clckcloud.com": {
@@ -3635,9 +3640,9 @@
         "state": "future"
     },
     "everifymatch.com": {
-        "epoch": 1558569600,
-        "expiration_date": "23-may-2019",
-        "state": "past"
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
     },
     "exclusivegiftcards.com": {
         "epoch": 1569024000,
@@ -3717,6 +3722,11 @@
     "farmius.org": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
+        "state": "future"
+    },
+    "fast-adv.it": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
         "state": "future"
     },
     "fast-mac-upp.com": {
@@ -4707,6 +4717,11 @@
     "hirmadar.com": {
         "epoch": 1583971200,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "hirnaplo.com": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "hironline24.net": {
@@ -6126,8 +6141,8 @@
         "state": "future"
     },
     "mobularity.com": {
-        "epoch": 1565568000,
-        "expiration_date": "12-aug-2019",
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "mochibot.com": {
@@ -6803,6 +6818,11 @@
     "onclkds.com": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
+    "oneluckyvisitor.org": {
+        "epoch": 1573862400,
+        "expiration_date": "16-nov-2019",
         "state": "future"
     },
     "onestat.com": {
@@ -10119,6 +10139,11 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "youf1le.com": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
+        "state": "future"
+    },
     "youfck.com": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
@@ -10247,6 +10272,11 @@
     "zeroredirect2.com": {
         "epoch": 1707955200,
         "expiration_date": "15-feb-2024",
+        "state": "future"
+    },
+    "zeroredirect5.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "zeroredirect6.com": {
