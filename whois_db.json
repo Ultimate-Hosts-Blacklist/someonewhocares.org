@@ -2530,8 +2530,8 @@
         "state": "future"
     },
     "civilhir.net": {
-        "epoch": 1565395200,
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "cjt1.net": {
@@ -5860,6 +5860,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "media-fire.org": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
     "media-match.com": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
@@ -6538,7 +6543,7 @@
     "neweggstats.com": {
         "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "newjunk4u.com": {
         "epoch": 1581465600,
