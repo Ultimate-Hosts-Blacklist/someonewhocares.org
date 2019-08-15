@@ -1049,6 +1049,11 @@
         "expiration_date": "28-sep-2019",
         "state": "future"
     },
+    "adskeeper.co.uk": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "adsmart.co.uk": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
@@ -5333,6 +5338,11 @@
     "kissmetrics.com": {
         "epoch": 1822089600,
         "expiration_date": "28-sep-2027",
+        "state": "future"
+    },
+    "kitaramarketplace.com": {
+        "epoch": 1573516800,
+        "expiration_date": "12-nov-2019",
         "state": "future"
     },
     "kitaramedia.com": {
