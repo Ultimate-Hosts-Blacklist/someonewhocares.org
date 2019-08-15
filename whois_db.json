@@ -2074,6 +2074,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "bkrtx.com": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
     "bleachbit.com": {
         "epoch": 1579305600,
         "expiration_date": "18-jan-2020",
@@ -6548,6 +6553,11 @@
     "nbriskerry.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
+    "nctracking.com": {
+        "epoch": 1576713600,
+        "expiration_date": "19-dec-2019",
         "state": "future"
     },
     "nearbyad.com": {
