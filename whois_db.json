@@ -1329,6 +1329,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "advzilla.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
     "adwitty.com": {
         "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
