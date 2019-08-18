@@ -3679,6 +3679,11 @@
         "expiration_date": "20-dec-2021",
         "state": "future"
     },
+    "errx049.icu": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "estats4all.com": {
         "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
@@ -5818,6 +5823,11 @@
     "maccleanersecurity.com": {
         "epoch": 1594252800,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "macdamaged.tech": {
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
         "state": "future"
     },
     "mackeeper-center.club": {
