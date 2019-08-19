@@ -5124,6 +5124,11 @@
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
+    "intela.com": {
+        "epoch": 1658880000,
+        "expiration_date": "27-jul-2022",
+        "state": "future"
+    },
     "intelliads.com": {
         "epoch": 1589241600,
         "expiration_date": "12-may-2020",
