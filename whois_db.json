@@ -4475,8 +4475,8 @@
         "state": "future"
     },
     "globalnetworkanalys.com": {
-        "epoch": 1565827200,
-        "expiration_date": "15-aug-2019",
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "globalwebads.com": {
@@ -8983,6 +8983,11 @@
     "thecounter.com": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "theexgirlfriends.com": {
+        "epoch": 1609545600,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "thehomo.org": {
