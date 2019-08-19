@@ -1245,8 +1245,8 @@
         "state": "future"
     },
     "adultadworld.com": {
-        "epoch": 1566172800,
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "adultfriendfinder.com": {
@@ -3022,7 +3022,7 @@
     "coordino.com": {
         "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "coquine-dispo.com": {
         "epoch": 1588118400,
@@ -4987,6 +4987,11 @@
     "iesnare.com": {
         "epoch": 1618531200,
         "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
+    "iicdn.com": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
         "state": "future"
     },
     "ilovecheating.com": {
@@ -7843,6 +7848,11 @@
     "ridepush.com": {
         "epoch": 1652400000,
         "expiration_date": "13-may-2022",
+        "state": "future"
+    },
+    "rightmedia.net": {
+        "epoch": 1579046400,
+        "expiration_date": "15-jan-2020",
         "state": "future"
     },
     "rightstats.com": {
