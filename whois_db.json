@@ -2245,8 +2245,8 @@
         "state": "past"
     },
     "browsergames2018.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "browsergames2019.com": {
@@ -8431,9 +8431,9 @@
         "state": "future"
     },
     "softonic.it": {
-        "epoch": 1564531200,
-        "expiration_date": "31-jul-2019",
-        "state": "past"
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
     },
     "sokminden.info": {
         "epoch": 1573516800,
