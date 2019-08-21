@@ -1084,6 +1084,11 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "adsniper.ru": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
     "adsoftware.com": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
@@ -1395,8 +1400,8 @@
         "state": "future"
     },
     "affiliation-france.com": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "afform.co.uk": {
@@ -4075,8 +4080,8 @@
         "state": "future"
     },
     "freecamerasource.com": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "freecamsecrets.com": {
@@ -9707,7 +9712,7 @@
     "vedoriska.com": {
         "epoch": 1566345600,
         "expiration_date": "21-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "veirregnant.club": {
         "epoch": 1628467200,
