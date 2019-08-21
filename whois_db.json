@@ -2255,9 +2255,9 @@
         "state": "future"
     },
     "browser-tools.systems": {
-        "epoch": 1559606400,
-        "expiration_date": "04-jun-2019",
-        "state": "past"
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
     },
     "browsergames2018.com": {
         "epoch": 1597536000,
@@ -9447,6 +9447,11 @@
     "trustedmaccleaner.com": {
         "epoch": 1594252800,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "trustedmacleaner.work": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "tsyndicate.com": {
