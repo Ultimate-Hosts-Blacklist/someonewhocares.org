@@ -780,8 +780,8 @@
         "state": "future"
     },
     "admanage.com": {
-        "epoch": 1565654400,
-        "expiration_date": "13-aug-2019",
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "admedia.com": {
@@ -932,6 +932,11 @@
     "ads2-adnow.com": {
         "epoch": 1583193600,
         "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "ads234.com": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "ads24.net": {
@@ -9352,6 +9357,11 @@
     "trafsearchonline.com": {
         "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "trafstarcurlms.com": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "traktrafficflow.com": {
