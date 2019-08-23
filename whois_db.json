@@ -9054,6 +9054,11 @@
         "expiration_date": "11-feb-2020",
         "state": "future"
     },
+    "theuseful.net": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "thewaycloud.com": {
         "epoch": 1576108800,
         "expiration_date": "12-dec-2019",
