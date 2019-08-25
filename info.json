@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 4,
+        "builds": 5,
         "counter": {
-            "down": 1046,
+            "down": 1308,
             "invalid": 11,
-            "tested": 5979,
-            "up": 4922
+            "tested": 7547,
+            "up": 6228
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Fri Aug 23 23:25:37 2019",
     "end_epoch": 1566602737.435232,
-    "last_autosave_datetime": "Sun Aug 25 19:02:45 2019",
-    "last_autosave_epoch": 1566759765.495755,
+    "last_autosave_datetime": "Sun Aug 25 19:25:48 2019",
+    "last_autosave_epoch": 1566761148.093796,
     "name": "someonewhocares.org",
     "previous_stats": {
         "builds": 13,
