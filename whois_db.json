@@ -4684,6 +4684,11 @@
         "expiration_date": "15-sep-2019",
         "state": "future"
     },
+    "gwallet.com": {
+        "epoch": 1616284800,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
     "hai2u.com": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
@@ -5350,8 +5355,8 @@
         "state": "future"
     },
     "jxliu.com": {
-        "epoch": 1566518400,
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "jyhfuqoh.info": {
@@ -6021,8 +6026,8 @@
         "state": "future"
     },
     "meatspin.biz": {
-        "epoch": 1566172800,
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "meatspin.com": {
@@ -9205,8 +9210,8 @@
         "state": "future"
     },
     "topbestgames.com": {
-        "epoch": 1565827200,
-        "expiration_date": "15-aug-2019",
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "topconsumergifts.com": {
@@ -9755,8 +9760,8 @@
         "state": "future"
     },
     "verypositiveus.com": {
-        "epoch": 1566604800,
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "vibrantmedia.com": {
