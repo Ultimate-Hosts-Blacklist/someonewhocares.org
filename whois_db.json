@@ -3810,8 +3810,8 @@
         "state": "future"
     },
     "farmius.org": {
-        "epoch": 1566432000,
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "fast-adv.it": {
@@ -6418,6 +6418,11 @@
     "murdoog.com": {
         "epoch": 1585353600,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "music611.com": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
         "state": "future"
     },
     "musikzoo.com": {
