@@ -9439,6 +9439,11 @@
         "expiration_date": "23-sep-2019",
         "state": "future"
     },
+    "trendsonline.biz": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "trendsonline.me": {
         "epoch": 1595548800,
         "expiration_date": "24-jul-2020",
