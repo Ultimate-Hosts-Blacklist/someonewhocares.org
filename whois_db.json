@@ -4965,8 +4965,8 @@
         "state": "future"
     },
     "hub.com.pl": {
-        "epoch": 1566777600,
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "hungaryexpres.com": {
@@ -5916,9 +5916,9 @@
         "state": "future"
     },
     "magyarkozosseg.net": {
-        "epoch": 1559779200,
-        "expiration_date": "06-jun-2019",
-        "state": "past"
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
     },
     "magyarnep.me": {
         "epoch": 1578441600,
@@ -7546,8 +7546,8 @@
         "state": "future"
     },
     "productresearchpanel.com": {
-        "epoch": 1567296000,
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "producttestpanel.com": {
