@@ -2069,6 +2069,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "ctnsnet.com": {
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "cuntwars.com": {
         "epoch": 1709078400,
         "expiration_date": "28-feb-2024",
@@ -4967,6 +4972,11 @@
     "portaldimensional.com": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
+        "state": "future"
+    },
+    "postmasterbannernet.com": {
+        "epoch": 1568592000,
+        "expiration_date": "16-sep-2019",
         "state": "future"
     },
     "postmasterdirect.com": {
