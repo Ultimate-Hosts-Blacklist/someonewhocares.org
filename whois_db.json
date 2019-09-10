@@ -1199,6 +1199,11 @@
         "expiration_date": "09-jan-2020",
         "state": "future"
     },
+    "ailiyou1999.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "ako.cc": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
@@ -8392,6 +8397,11 @@
     "webpartition.com": {
         "epoch": 1587686400,
         "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "webpaypal.com": {
+        "epoch": 1586563200,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "websponsors.com": {
