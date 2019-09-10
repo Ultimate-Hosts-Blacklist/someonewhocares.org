@@ -1659,6 +1659,11 @@
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
+    "bigbrandpromotions.com": {
+        "epoch": 1563667200,
+        "expiration_date": "21-jul-2019",
+        "state": "past"
+    },
     "bigbrandrewards.com": {
         "epoch": 1587427200,
         "expiration_date": "21-apr-2020",
@@ -2127,7 +2132,7 @@
     "christianbusinessadvertising.com": {
         "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "cig-arrete.com": {
         "epoch": 1579996800,
