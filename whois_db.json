@@ -44,6 +44,11 @@
         "expiration_date": "09-dec-2021",
         "state": "future"
     },
+    "123greetings.com": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "123plays.com": {
         "epoch": 1596499200,
         "expiration_date": "04-aug-2020",
@@ -3589,6 +3594,11 @@
         "expiration_date": "24-sep-2019",
         "state": "future"
     },
+    "fdbdo.com": {
+        "epoch": 1576281600,
+        "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
     "feedjit.com": {
         "epoch": 1696550400,
         "expiration_date": "06-oct-2023",
@@ -4439,6 +4449,11 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "hightrafficads.com": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
     "hikesearch.net": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
@@ -5042,6 +5057,11 @@
     "keybinary.com": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "keyofhealth.com": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
         "state": "future"
     },
     "keywordblocks.com": {
@@ -8089,6 +8109,11 @@
         "expiration_date": "15-mar-2020",
         "state": "future"
     },
+    "sugoicounter.com": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "suhunsoo.uk": {
         "epoch": 1603324800,
         "expiration_date": "22-oct-2020",
@@ -9251,7 +9276,7 @@
     },
     "wait3sec.org": {
         "epoch": 1597536000,
-        "expiration_date": "16-aug-2020",
+        "expiration_date": "20-feb-2022",
         "state": "future"
     },
     "waldenfarms.com": {
@@ -9432,6 +9457,11 @@
     "wikidevs.com": {
         "epoch": 1593648000,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "willysy.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "windaily.com": {
