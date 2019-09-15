@@ -1864,6 +1864,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "best2019-games-web1.com": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "bestadbid.com": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
@@ -2090,8 +2095,8 @@
         "state": "future"
     },
     "bookpdf.services": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "boonsolutions.com": {
@@ -4597,7 +4602,7 @@
     "hir-online.com": {
         "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hir-tv.com": {
         "epoch": 1584403200,
@@ -6854,6 +6859,11 @@
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
+    "pc-virus-d0l92j2.pw": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "pcads.ru": {
         "epoch": 1602028800,
         "expiration_date": "07-oct-2020",
@@ -7996,7 +8006,7 @@
     },
     "smartcontext.pl": {
         "epoch": 1598832000,
-        "expiration_date": "31-aug-2020",
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "smartlifeguides.com": {
@@ -8622,6 +8632,11 @@
     "themaplemethod.com": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "themecounter.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "themusicnetwork.co.uk": {
