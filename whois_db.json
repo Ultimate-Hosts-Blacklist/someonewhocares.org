@@ -3294,6 +3294,11 @@
         "expiration_date": "28-oct-2019",
         "state": "future"
     },
+    "djugoogs.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "dnps.com": {
         "epoch": 1597104000,
         "expiration_date": "11-aug-2020",
@@ -3862,6 +3867,11 @@
     "freecamerasource.com": {
         "epoch": 1597881600,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "freecamsecrets.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "freecamsexposed.com": {
@@ -4677,6 +4687,11 @@
     "hotkeys.com": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "howtobuildsoftware.com": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "httpads.com": {
@@ -9252,6 +9267,11 @@
     "video-bazis.com": {
         "epoch": 1590883200,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "videoamp.com": {
+        "epoch": 1627516800,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "videobox.com": {
