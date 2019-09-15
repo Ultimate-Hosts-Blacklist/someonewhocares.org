@@ -1119,6 +1119,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "adsxyz.com": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "adsynergy.com": {
         "epoch": 1601683200,
         "expiration_date": "03-oct-2020",
@@ -1142,6 +1147,11 @@
     "adtech.com": {
         "epoch": 1627257600,
         "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
+    "adtext.pl": {
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "adtlgc.com": {
@@ -5145,9 +5155,9 @@
         "state": "future"
     },
     "konimkan.com": {
-        "epoch": 1568332800,
-        "expiration_date": "13-sep-2019",
-        "state": "past"
+        "epoch": 1631491200,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
     },
     "konversation.com": {
         "epoch": 1582243200,
@@ -5242,6 +5252,11 @@
     "lduhtrp.net": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "le1er.net": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "leadgreed.com": {
@@ -5777,6 +5792,11 @@
     "micmusik.com": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
+    "miercuri.gq": {
+        "epoch": 1769212800,
+        "expiration_date": "24-jan-2026",
         "state": "future"
     },
     "mightymagoo.com": {
@@ -6619,6 +6639,11 @@
         "expiration_date": "16-nov-2019",
         "state": "future"
     },
+    "painolympics.info": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "paintnet.fr": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
@@ -6840,9 +6865,9 @@
         "state": "future"
     },
     "popadscdn.net": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "popcash.net": {
         "epoch": 1660348800,
@@ -9052,6 +9077,11 @@
     "upgradeexplorer.com": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "uproar.com": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "uqz.com": {
