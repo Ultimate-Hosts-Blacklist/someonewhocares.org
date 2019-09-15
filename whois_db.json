@@ -234,6 +234,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "4allfree.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "4girlsfingerpaint.com": {
         "epoch": 1638748800,
         "expiration_date": "06-dec-2021",
@@ -1424,6 +1429,11 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "ajcclassifieds.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
     "ako.cc": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
@@ -2227,6 +2237,11 @@
     "bus-offer.com": {
         "epoch": 1577836800,
         "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
+    "buttcandy.com": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "buycheapadvertising.com": {
@@ -5184,6 +5199,11 @@
         "expiration_date": "27-jul-2021",
         "state": "future"
     },
+    "kilomniadst.info": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "kissmetrics.com": {
         "epoch": 1822089600,
         "expiration_date": "28-sep-2027",
@@ -6109,6 +6129,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "murdoog.com": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "music611.com": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
@@ -6337,6 +6362,11 @@
     "needadvertising.com": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "neptuneads.com": {
+        "epoch": 1611792000,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "net-radar.com": {
@@ -9992,6 +10022,11 @@
     "zevents.com": {
         "epoch": 1599868800,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "zfn5wua2d1.online": {
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "zsisk.com": {
