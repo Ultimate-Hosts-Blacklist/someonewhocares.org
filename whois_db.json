@@ -3174,6 +3174,11 @@
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
+    "darmowe-zakupy.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
     "dashbo15myapp.com": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
