@@ -5314,6 +5314,11 @@
         "expiration_date": "13-sep-2021",
         "state": "future"
     },
+    "kontera.com": {
+        "epoch": 1761177600,
+        "expiration_date": "23-oct-2025",
+        "state": "future"
+    },
     "konversation.com": {
         "epoch": 1582243200,
         "expiration_date": "21-feb-2020",
@@ -5692,6 +5697,11 @@
     "macdamaged.tech": {
         "epoch": 1573776000,
         "expiration_date": "15-nov-2019",
+        "state": "future"
+    },
+    "macfixingsoftware.space": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "mackeeper-center.club": {
