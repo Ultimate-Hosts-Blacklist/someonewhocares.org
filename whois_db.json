@@ -3225,8 +3225,8 @@
         "state": "future"
     },
     "defaultinternet.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "defpush.com": {
@@ -3417,6 +3417,11 @@
     "downloadcdn.com": {
         "epoch": 1601078400,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "downloadplayer.xyz": {
+        "epoch": 1584748800,
+        "expiration_date": "21-mar-2020",
         "state": "future"
     },
     "dpbolvw.net": {
