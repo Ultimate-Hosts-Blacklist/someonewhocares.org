@@ -2599,6 +2599,11 @@
         "expiration_date": "11-oct-2019",
         "state": "future"
     },
+    "clearalgorithm.com": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "clearonclick.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
@@ -3387,6 +3392,11 @@
     "dolohen.com": {
         "epoch": 1580774400,
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "donotwatch.org": {
+        "epoch": 1623801600,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "doors.co.kr": {
