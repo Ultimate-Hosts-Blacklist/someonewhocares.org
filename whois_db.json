@@ -1034,6 +1034,11 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "adservicestats.com": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "adservtech.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
@@ -7507,7 +7512,7 @@
     "realizemobicom.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "realizmobi.com": {
         "epoch": 1583020800,
