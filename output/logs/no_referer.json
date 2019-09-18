@@ -146,5 +146,61 @@
     "1568806848.571991": {
         "domain": "track.promovalue.us",
         "extension": "us"
+    },
+    "1568807725.727388": {
+        "domain": "imserv00x.adtech.us",
+        "extension": "us"
+    },
+    "1568807809.97628": {
+        "domain": "adssl01.adtech.us",
+        "extension": "us"
+    },
+    "1568807843.845984": {
+        "domain": "secserv.adtech.us",
+        "extension": "us"
+    },
+    "1568807859.907134": {
+        "domain": "select004.adtech.us",
+        "extension": "us"
+    },
+    "1568807919.331639": {
+        "domain": "select001.adtech.us",
+        "extension": "us"
+    },
+    "1568807934.929295": {
+        "domain": "reportimage.adtech.us",
+        "extension": "us"
+    },
+    "1568807935.128024": {
+        "domain": "service001.adtech.us",
+        "extension": "us"
+    },
+    "1568807960.434854": {
+        "domain": "adserv002.adtech.us",
+        "extension": "us"
+    },
+    "1568807980.136135": {
+        "domain": "manage001.adtech.us",
+        "extension": "us"
+    },
+    "1568808005.929055": {
+        "domain": "dqs001.adtech.us",
+        "extension": "us"
+    },
+    "1568808191.053517": {
+        "domain": "tracking.ariong.us",
+        "extension": "us"
+    },
+    "1568808264.895997": {
+        "domain": "schumacher.adtech.us",
+        "extension": "us"
+    },
+    "1568808268.890371": {
+        "domain": "bitburg.adtech.us",
+        "extension": "us"
+    },
+    "1568808285.958713": {
+        "domain": "adforce.adtech.us",
+        "extension": "us"
     }
 }
