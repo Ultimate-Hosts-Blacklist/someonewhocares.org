@@ -3985,9 +3985,9 @@
         "state": "future"
     },
     "freeadguru.com": {
-        "epoch": 1562198400,
-        "expiration_date": "04-jul-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "freecameraprovider.com": {
         "epoch": 1597881600,
@@ -6674,6 +6674,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "nofreezingmac.space": {
+        "epoch": 1564790400,
+        "expiration_date": "03-aug-2019",
+        "state": "past"
+    },
     "nofreezingmac.work": {
         "epoch": 1570320000,
         "expiration_date": "06-oct-2019",
@@ -7047,6 +7052,11 @@
     "pcads.ru": {
         "epoch": 1602028800,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "pcnetworkreliablecloudservices.online": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
         "state": "future"
     },
     "peachy18.com": {
