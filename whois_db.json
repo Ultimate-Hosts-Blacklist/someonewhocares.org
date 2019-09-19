@@ -6719,6 +6719,11 @@
         "expiration_date": "15-nov-2019",
         "state": "future"
     },
+    "objectopoly.info": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "ocslab.com": {
         "epoch": 1584921600,
         "expiration_date": "23-mar-2020",
