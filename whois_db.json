@@ -474,6 +474,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "ad-void.com": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "ad-words.ru": {
         "epoch": 1575158400,
         "expiration_date": "01-dec-2019",
@@ -1917,6 +1922,11 @@
     "bestorican.com": {
         "epoch": 1587513600,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "bestrxpills.com": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
         "state": "future"
     },
     "bestshockers.com": {
