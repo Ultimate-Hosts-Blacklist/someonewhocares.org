@@ -1199,6 +1199,11 @@
         "expiration_date": "26-jul-2021",
         "state": "future"
     },
+    "adtechus.com": {
+        "epoch": 1635206400,
+        "expiration_date": "26-oct-2021",
+        "state": "future"
+    },
     "adtext.pl": {
         "epoch": 1597536000,
         "expiration_date": "16-aug-2020",
@@ -9057,6 +9062,11 @@
     "tradingtactics.win": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "trafficbee.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "trafficmagnet.net": {
