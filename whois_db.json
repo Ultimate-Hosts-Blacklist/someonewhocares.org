@@ -2539,6 +2539,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "checkfreevideos.net": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "chelick.net": {
         "epoch": 1581033600,
         "expiration_date": "07-feb-2020",
@@ -7010,8 +7015,8 @@
         "state": "future"
     },
     "parserworld.info": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "parskabab.com": {
