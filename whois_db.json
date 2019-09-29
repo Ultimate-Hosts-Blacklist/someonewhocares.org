@@ -404,6 +404,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "activeindexer.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "ad-balancer.net": {
         "epoch": 1589932800,
         "expiration_date": "20-may-2020",
@@ -9340,8 +9345,8 @@
         "state": "future"
     },
     "tudatosanelok.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "tudnivalok.com": {
