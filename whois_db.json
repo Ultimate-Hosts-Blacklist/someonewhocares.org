@@ -2249,6 +2249,11 @@
         "expiration_date": "16-oct-2019",
         "state": "future"
     },
+    "brwser-message.pw": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
     "brxfinance.com": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
@@ -3672,6 +3677,11 @@
     "ero-advertising.com": {
         "epoch": 1639958400,
         "expiration_date": "20-dec-2021",
+        "state": "future"
+    },
+    "errx049.icu": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "estats4all.com": {
