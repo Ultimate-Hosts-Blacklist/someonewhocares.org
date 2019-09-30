@@ -3705,8 +3705,8 @@
         "state": "future"
     },
     "exclusivegiftcards.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "exponential.com": {
@@ -4945,8 +4945,8 @@
         "state": "future"
     },
     "iicdn.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "ilovecheating.com": {
@@ -7127,7 +7127,7 @@
     "phatthalung.go.th": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "phoenixads.co.in": {
         "epoch": 1598745600,
