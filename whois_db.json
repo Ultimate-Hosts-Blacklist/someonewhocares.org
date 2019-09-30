@@ -1600,8 +1600,8 @@
         "state": "future"
     },
     "antivirus-scanner.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "apex-ad.com": {
@@ -8252,6 +8252,11 @@
     "smartadserver.com": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "smartclip.com": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
         "state": "future"
     },
     "smartclip.net": {
