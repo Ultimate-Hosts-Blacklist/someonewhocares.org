@@ -1255,8 +1255,8 @@
         "state": "future"
     },
     "adtrix.com": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "adult-top-list.com": {
@@ -7130,9 +7130,9 @@
         "state": "future"
     },
     "phatthalung.go.th": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
-        "state": "past"
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
     },
     "phoenixads.co.in": {
         "epoch": 1598745600,
