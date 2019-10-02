@@ -8434,6 +8434,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "spinia.com": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
     "spklds.com": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
