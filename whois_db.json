@@ -1,4 +1,14 @@
 {
+    "2000greetings.com": {
+        "epoch": 1571875200,
+        "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "247playz.com": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
     "24trk.com": {
         "epoch": 1575331200,
         "expiration_date": "03-dec-2019",
@@ -64,6 +74,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "coinerra.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "coinhits.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
@@ -94,9 +109,19 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "fineclicks.com": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
     "fxcounters.com": {
         "epoch": 1570924800,
         "expiration_date": "13-oct-2019",
+        "state": "future"
+    },
+    "goldstats.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "gostats.com": {
@@ -117,6 +142,11 @@
     "hitboxcentral.com": {
         "epoch": 1600819200,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "hotkeys.com": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "idirect.com": {
@@ -159,6 +189,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "onclickpredictiv.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "onclicksuper.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
@@ -172,6 +207,11 @@
     "postmasterdirect.com": {
         "epoch": 1585785600,
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "pureadexchange.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "redonetype.com": {
@@ -192,6 +232,11 @@
     "shopping-offer.com": {
         "epoch": 1598486400,
         "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "shorte.st": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
         "state": "future"
     },
     "sponsor1.com": {
