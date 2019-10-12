@@ -14,9 +14,24 @@
         "expiration_date": "03-dec-2019",
         "state": "future"
     },
+    "404errorpage.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "a98spolicies.com": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
     "ad-srv.net": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "adconscious.com": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "adgardener.com": {
@@ -99,6 +114,11 @@
         "expiration_date": "25-nov-2019",
         "state": "future"
     },
+    "fast-adv.it": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
     "fastwebcounter.com": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
@@ -114,6 +134,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "freeadguru.com": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "fxcounters.com": {
         "epoch": 1570924800,
         "expiration_date": "13-oct-2019",
@@ -124,9 +149,19 @@
         "expiration_date": "27-may-2020",
         "state": "future"
     },
+    "goobbe.com": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
     "gostats.com": {
         "epoch": 1606780800,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "haoyunlaid.com": {
+        "epoch": 1571184000,
+        "expiration_date": "16-oct-2019",
         "state": "future"
     },
     "hirozon.info": {
@@ -189,6 +224,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "onclickprediction.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "onclickpredictiv.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
@@ -197,6 +237,11 @@
     "onclicksuper.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "paypopup.com": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "pills-home.com": {
@@ -237,6 +282,11 @@
     "shorte.st": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "skattabrain.com": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "sponsor1.com": {
