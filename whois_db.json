@@ -24,6 +24,11 @@
         "expiration_date": "03-dec-2019",
         "state": "future"
     },
+    "3turtles.com": {
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "404errorpage.com": {
         "epoch": 1575504000,
         "expiration_date": "05-dec-2019",
@@ -232,6 +237,16 @@
     "badults.se": {
         "epoch": 1585094400,
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "bang-hotties.com": {
+        "epoch": 1565654400,
+        "expiration_date": "13-aug-2019",
+        "state": "past"
+    },
+    "bet-at-home.com": {
+        "epoch": 1854230400,
+        "expiration_date": "04-oct-2028",
         "state": "future"
     },
     "bindfast.com": {
@@ -614,6 +629,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "insightfirst.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "jarsquatter.com": {
         "epoch": 1576195200,
         "expiration_date": "13-dec-2019",
@@ -709,6 +729,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "medical-research-books.com": {
+        "epoch": 1564790400,
+        "expiration_date": "03-aug-2019",
+        "state": "past"
+    },
     "megasurfin.com": {
         "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
@@ -772,6 +797,11 @@
     "nedstat.com": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "newjunk4u.com": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
         "state": "future"
     },
     "nexttrk.com": {
@@ -844,6 +874,11 @@
         "expiration_date": "22-may-2020",
         "state": "future"
     },
+    "phuphi.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "pills-home.com": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
@@ -892,6 +927,16 @@
     "pyilgdamion.city": {
         "epoch": 1580860800,
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "qcoldtui1999.com": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "quickcash-system.com": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "redonetype.com": {
@@ -977,6 +1022,11 @@
     "skattabrain.com": {
         "epoch": 1599523200,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "smartclip.com": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
         "state": "future"
     },
     "smspop.com": {
@@ -1132,6 +1182,11 @@
     "twoje-nagrody.com.pl": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "tz284.com": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
         "state": "future"
     },
     "u85foldero.com": {
