@@ -84,6 +84,16 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "ad.net": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "adbit.co": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
     "adcentriconline.com": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
@@ -189,6 +199,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "alltereg0.ru": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "alxsite.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
@@ -214,9 +229,19 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "app-measurement.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "armsart.com": {
         "epoch": 1588723200,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "askto.net": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "atdmt.com": {
@@ -444,6 +469,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "ebaybanner.com": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
     "eclkmpbn.com": {
         "epoch": 1592179200,
         "expiration_date": "15-jun-2020",
@@ -629,6 +659,11 @@
         "expiration_date": "10-nov-2019",
         "state": "future"
     },
+    "imarker.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "inclk.com": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
@@ -702,6 +737,11 @@
     "linkredirect.biz": {
         "epoch": 1590278400,
         "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "linkwithin.com": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
         "state": "future"
     },
     "liveadexchanger.com": {
@@ -964,6 +1004,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "realizemobicom.com": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "redonetype.com": {
         "epoch": 1592179200,
         "expiration_date": "15-jun-2020",
@@ -1082,6 +1127,11 @@
     "statistik-gallup.net": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "stompebi.link": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "sumome.com": {
@@ -1242,6 +1292,11 @@
     "vidnline.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "vilaglato.info": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "w3facility.org": {
