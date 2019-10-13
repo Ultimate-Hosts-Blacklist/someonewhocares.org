@@ -179,6 +179,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "alxsite.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "anatol.com": {
         "epoch": 1752019200,
         "expiration_date": "09-jul-2025",
@@ -252,6 +257,11 @@
     "bulletads.com": {
         "epoch": 1583971200,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "caramail.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "casalemedia.com": {
@@ -357,6 +367,11 @@
     "darakht.com": {
         "epoch": 1596585600,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "dbios.org": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "dgit.com": {
@@ -579,6 +594,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "idealcasino.net": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
     "idirect.com": {
         "epoch": 1573344000,
         "expiration_date": "10-nov-2019",
@@ -672,6 +692,11 @@
     "magyarnep.me": {
         "epoch": 1578441600,
         "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "marketaff.com": {
+        "epoch": 1723680000,
+        "expiration_date": "15-aug-2024",
         "state": "future"
     },
     "mediaoffers.click": {
@@ -797,6 +822,11 @@
     "osqa.net": {
         "epoch": 1577145600,
         "expiration_date": "24-dec-2019",
+        "state": "future"
+    },
+    "parronnotandone.info": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "pawnauctions.net": {
@@ -984,6 +1014,11 @@
         "expiration_date": "06-dec-2020",
         "state": "future"
     },
+    "supernaturalart.com": {
+        "epoch": 1662768000,
+        "expiration_date": "10-sep-2022",
+        "state": "future"
+    },
     "support-ip.com": {
         "epoch": 1595203200,
         "expiration_date": "20-jul-2020",
@@ -1122,6 +1157,11 @@
     "victory1999.com": {
         "epoch": 1599696000,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "vidnline.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "w3facility.org": {
