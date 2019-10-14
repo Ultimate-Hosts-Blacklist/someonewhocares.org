@@ -104,6 +104,11 @@
         "expiration_date": "22-may-2020",
         "state": "future"
     },
+    "addfreecounter.com": {
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "addthiscdn.com": {
         "epoch": 1606953600,
         "expiration_date": "03-dec-2020",
@@ -179,6 +184,11 @@
         "expiration_date": "02-nov-2019",
         "state": "future"
     },
+    "adsfac.net": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "adsrevenue.net": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -192,6 +202,11 @@
     "adsynergy.com": {
         "epoch": 1601683200,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "advmaker.ru": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "affrh2023.com": {
@@ -584,6 +599,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "funsilly.com": {
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "fxcounters.com": {
         "epoch": 1570924800,
         "expiration_date": "13-oct-2019",
@@ -844,6 +864,11 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "mpression.net": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
     "mudfall.com": {
         "epoch": 1582588800,
         "expiration_date": "25-feb-2020",
@@ -946,7 +971,7 @@
     },
     "pawnauctions.net": {
         "epoch": 1586649600,
-        "expiration_date": "12-apr-2020",
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "paypopup.com": {
@@ -1077,6 +1102,11 @@
     "rpgmasterleague.com": {
         "epoch": 1575331200,
         "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "ru4.com": {
+        "epoch": 1573603200,
+        "expiration_date": "13-nov-2019",
         "state": "future"
     },
     "sclk.org": {
