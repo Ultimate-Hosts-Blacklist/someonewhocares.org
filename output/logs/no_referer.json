@@ -1,402 +1,62 @@
 {
-    "1571431262.902893": {
-        "domain": "upload.adtech.us",
-        "extension": "us"
-    },
-    "1571431300.471483": {
-        "domain": "xml.adtech.us",
-        "extension": "us"
-    },
-    "1571431320.775963": {
-        "domain": "adssl02.adtech.us",
-        "extension": "us"
-    },
-    "1571431415.071405": {
-        "domain": "ldimage01.adtech.us",
-        "extension": "us"
-    },
-    "1571431434.863697": {
-        "domain": "ldglob02.adtech.us",
-        "extension": "us"
-    },
-    "1571431546.40411": {
-        "domain": "select001.adtech.us",
-        "extension": "us"
-    },
-    "1571436456.824414": {
-        "domain": "imserv006.adtech.us",
-        "extension": "us"
-    },
-    "1571436457.023022": {
-        "domain": "stats.street-jeni.us",
-        "extension": "us"
-    },
-    "1571436527.638665": {
-        "domain": "report02.adtech.us",
-        "extension": "us"
-    },
-    "1571436565.456485": {
-        "domain": "oascentral.metro.us",
-        "extension": "us"
-    },
-    "1571436652.424389": {
-        "domain": "adserv003.adtech.us",
-        "extension": "us"
-    },
-    "1571436968.927599": {
-        "domain": "secimage.adtech.us",
-        "extension": "us"
-    },
-    "1571436968.972821": {
-        "domain": "www8.ns01.us",
-        "extension": "us"
-    },
-    "1571436992.687565": {
-        "domain": "247support.adtech.us",
-        "extension": "us"
-    },
-    "1571437011.547774": {
-        "domain": "services1.adtech.us",
-        "extension": "us"
-    },
-    "1571437032.467786": {
-        "domain": "3tsdaq8viz.us",
-        "extension": "us"
-    },
-    "1571437032.474948": {
-        "domain": "www.3tsdaq8viz.us",
-        "extension": "us"
-    },
-    "1571440680.741157": {
-        "domain": "secserv.adtech.us",
-        "extension": "us"
-    },
-    "1571440680.989005": {
-        "domain": "service.adtech.us",
-        "extension": "us"
-    },
-    "1571440742.041803": {
-        "domain": "select002.adtech.us",
-        "extension": "us"
-    },
-    "1571440758.353374": {
-        "domain": "imssl01.adtech.us",
-        "extension": "us"
-    },
-    "1571440912.927987": {
-        "domain": "hyperion.adtech.us",
-        "extension": "us"
-    },
-    "1571440926.23149": {
-        "domain": "select004.adtech.us",
-        "extension": "us"
-    },
-    "1571440947.086211": {
-        "domain": "sokrates.adtech.us",
-        "extension": "us"
-    },
-    "1571440995.101683": {
-        "domain": "pix522.adtech.us",
-        "extension": "us"
-    },
-    "1571441023.181964": {
-        "domain": "services.adtech.us",
-        "extension": "us"
-    },
-    "1571441083.636692": {
-        "domain": "adserv008.adtech.us",
-        "extension": "us"
-    },
-    "1571441261.84179": {
-        "domain": "phpads.astalavista.us",
-        "extension": "us"
-    },
-    "1571444215.42575": {
-        "domain": "service00x.adtech.us",
-        "extension": "us"
-    },
-    "1571444216.178331": {
-        "domain": "imageserv.adtech.us",
-        "extension": "us"
-    },
-    "1571444258.60196": {
-        "domain": "reporter.adtech.us",
-        "extension": "us"
-    },
-    "1571444297.635617": {
-        "domain": "service002.adtech.us",
-        "extension": "us"
-    },
-    "1571444330.197354": {
-        "domain": "www.vb1rc5l52n.us",
-        "extension": "us"
-    },
-    "1571444330.220599": {
-        "domain": "vb1rc5l52n.us",
-        "extension": "us"
-    },
-    "1571444387.870111": {
-        "domain": "adserv006.adtech.us",
-        "extension": "us"
-    },
-    "1571444437.436465": {
-        "domain": "securityscan.us",
-        "extension": "us"
-    },
-    "1571444437.461888": {
-        "domain": "www.securityscan.us",
-        "extension": "us"
-    },
-    "1571444489.243062": {
-        "domain": "xanax-online.sms2.us",
-        "extension": "us"
-    },
-    "1571444521.612021": {
-        "domain": "susi.adtech.us",
-        "extension": "us"
-    },
-    "1571444528.290174": {
-        "domain": "advertisement.avosapps.us",
-        "extension": "us"
-    },
-    "1571444561.525347": {
-        "domain": "ldimage02.adtech.us",
-        "extension": "us"
-    },
-    "1571444674.77936": {
-        "domain": "ipacc1.adtech.us",
-        "extension": "us"
-    },
-    "1571444757.695572": {
-        "domain": "adserv004.adtech.us",
-        "extension": "us"
-    },
-    "1571447521.017278": {
-        "domain": "service003.adtech.us",
-        "extension": "us"
-    },
-    "1571447534.444827": {
-        "domain": "select003.adtech.us",
-        "extension": "us"
-    },
-    "1571447635.585589": {
-        "domain": "imserv003.adtech.us",
-        "extension": "us"
-    },
-    "1571447675.729506": {
-        "domain": "adserv001.adtech.us",
-        "extension": "us"
-    },
-    "1571447705.504832": {
-        "domain": "ipdata.adtech.us",
-        "extension": "us"
-    },
-    "1571447757.885209": {
-        "domain": "pix521.adtech.us",
-        "extension": "us"
-    },
-    "1571447794.112475": {
-        "domain": "adserver.adtech.us",
-        "extension": "us"
-    },
-    "1571447870.451": {
-        "domain": "tracker.promovalue.us",
-        "extension": "us"
-    },
-    "1571447885.855326": {
-        "domain": "reporter001.adtech.us",
-        "extension": "us"
-    },
-    "1571447892.975128": {
-        "domain": "service001.adtech.us",
-        "extension": "us"
-    },
-    "1571447906.991": {
-        "domain": "uf2aasn.111adfueo.us",
-        "extension": "us"
-    },
-    "1571447914.003637": {
-        "domain": "cshacks.partycat.us",
-        "extension": "us"
-    },
-    "1571447924.906172": {
-        "domain": "manage001.adtech.us",
-        "extension": "us"
-    },
-    "1571447974.936279": {
-        "domain": "track.iwfueh.us",
-        "extension": "us"
-    },
-    "1571448082.240047": {
-        "domain": "sgs001.adtech.us",
-        "extension": "us"
-    },
-    "1571448104.35174": {
-        "domain": "adforce.adtech.us",
-        "extension": "us"
-    },
-    "1571450736.564757": {
-        "domain": "corba.adtech.us",
-        "extension": "us"
-    },
-    "1571450744.661883": {
-        "domain": "dontwatch.us",
-        "extension": "us"
-    },
-    "1571450744.704816": {
-        "domain": "www.dontwatch.us",
-        "extension": "us"
-    },
-    "1571450827.492895": {
-        "domain": "cnbc.com-article906773.us",
-        "extension": "us"
-    },
-    "1571450857.357513": {
-        "domain": "imserv002.adtech.us",
-        "extension": "us"
-    },
-    "1571450862.363997": {
-        "domain": "ldserv01.adtech.us",
-        "extension": "us"
-    },
-    "1571450875.297395": {
-        "domain": "imserv00x.adtech.us",
-        "extension": "us"
-    },
-    "1571451055.811316": {
-        "domain": "imserv005.adtech.us",
-        "extension": "us"
-    },
-    "1571451106.676152": {
-        "domain": "mrjeweller.us",
-        "extension": "us"
-    },
-    "1571451106.689332": {
-        "domain": "www.mrjeweller.us",
-        "extension": "us"
-    },
-    "1571451138.972803": {
-        "domain": "track.kscentraltrack.us",
-        "extension": "us"
-    },
-    "1571451150.687497": {
-        "domain": "adserv005.adtech.us",
-        "extension": "us"
-    },
-    "1571451156.49493": {
-        "domain": "ldserv02.adtech.us",
-        "extension": "us"
-    },
-    "1571451182.111773": {
-        "domain": "reportimage.adtech.us",
-        "extension": "us"
-    },
-    "1571451193.020277": {
-        "domain": "dqs001.adtech.us",
-        "extension": "us"
-    },
-    "1571451233.843715": {
-        "domain": "adserv007.adtech.us",
-        "extension": "us"
-    },
-    "1571451260.763511": {
-        "domain": "hyvf65qiht.us",
-        "extension": "us"
-    },
-    "1571454059.596525": {
-        "domain": "iq001.adtech.us",
-        "extension": "us"
-    },
-    "1571454189.492526": {
+    "1571595452.014574": {
         "domain": "service004.adtech.us",
         "extension": "us"
     },
-    "1571454228.935234": {
-        "domain": "imserv001.adtech.us",
+    "1571595472.127556": {
+        "domain": "dqs001.adtech.us",
         "extension": "us"
     },
-    "1571454244.730784": {
-        "domain": "kbdiu5z8ah.us",
-        "extension": "us"
-    },
-    "1571454244.761966": {
-        "domain": "www.kbdiu5z8ah.us",
-        "extension": "us"
-    },
-    "1571454302.527097": {
+    "1571595503.932673": {
         "domain": "linuxpark.adtech.us",
         "extension": "us"
     },
-    "1571454303.305356": {
-        "domain": "apple.com-webbrowsing-security.science",
-        "extension": "science"
-    },
-    "1571454399.215299": {
-        "domain": "www.cshacks.partycat.us",
+    "1571595524.264358": {
+        "domain": "adserv001.adtech.us",
         "extension": "us"
     },
-    "1571454558.709796": {
+    "1571595538.357993": {
         "domain": "tracking.ariong.us",
         "extension": "us"
     },
-    "1571456850.058746": {
-        "domain": "schumacher.adtech.us",
+    "1571595578.717946": {
+        "domain": "upload.adtech.us",
         "extension": "us"
     },
-    "1571456865.16705": {
-        "domain": "adssl01.adtech.us",
+    "1571595605.421823": {
+        "domain": "adforce.adtech.us",
         "extension": "us"
     },
-    "1571456919.585483": {
-        "domain": "burns.adtech.us",
+    "1571595607.971521": {
+        "domain": "www.vb1rc5l52n.us",
         "extension": "us"
     },
-    "1571456956.779927": {
-        "domain": "ldglob01.adtech.us",
+    "1571595607.999261": {
+        "domain": "vb1rc5l52n.us",
         "extension": "us"
     },
-    "1571456978.206713": {
-        "domain": "imserv004.adtech.us",
+    "1571595835.849109": {
+        "domain": "advertisement.avosapps.us",
         "extension": "us"
     },
-    "1571457057.03069": {
-        "domain": "adsfac.us",
+    "1571595945.913962": {
+        "domain": "reporter.adtech.us",
         "extension": "us"
     },
-    "1571457057.051202": {
+    "1571595960.366661": {
         "domain": "www.adsfac.us",
         "extension": "us"
     },
-    "1571457065.061967": {
-        "domain": "bitburg.adtech.us",
+    "1571595960.378396": {
+        "domain": "adsfac.us",
         "extension": "us"
     },
-    "1571457078.790067": {
-        "domain": "microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us",
+    "1571595992.770949": {
+        "domain": "susi.adtech.us",
         "extension": "us"
     },
-    "1571457111.472946": {
-        "domain": "adserv002.adtech.us",
-        "extension": "us"
-    },
-    "1571457132.583865": {
-        "domain": "ads.astalavista.us",
-        "extension": "us"
-    },
-    "1571457191.52564": {
-        "domain": "kitchen-island.mensk.us",
-        "extension": "us"
-    },
-    "1571457245.125404": {
-        "domain": "track.promovalue.us",
-        "extension": "us"
-    },
-    "1571457407.834467": {
-        "domain": "help.adtech.us",
-        "extension": "us"
-    },
-    "1571459553.496864": {
-        "domain": "ad.indomp3z.us",
+    "1571596024.973611": {
+        "domain": "ldserv02.adtech.us",
         "extension": "us"
     }
 }
