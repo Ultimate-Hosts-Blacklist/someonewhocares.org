@@ -714,6 +714,11 @@
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
+    "adserver.net": {
+        "epoch": 1586563200,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "adservtech.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
@@ -2699,6 +2704,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "freecameraprovider.com": {
+        "epoch": 1566259200,
+        "expiration_date": "20-aug-2019",
+        "state": "past"
+    },
     "freecamerasource.com": {
         "epoch": 1566259200,
         "expiration_date": "20-aug-2019",
@@ -3043,6 +3053,11 @@
         "epoch": 1585008000,
         "expiration_date": "24-mar-2020",
         "state": "future"
+    },
+    "grabflashsign.win": {
+        "epoch": 1565654400,
+        "expiration_date": "13-aug-2019",
+        "state": "past"
     },
     "greatdexchange.com": {
         "epoch": 1583366400,
@@ -3622,6 +3637,11 @@
     "leadpub.com": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "lefopost.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
         "state": "future"
     },
     "legfrissebb.info": {
@@ -5239,6 +5259,11 @@
         "expiration_date": "13-nov-2019",
         "state": "future"
     },
+    "rubi4edit.com": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
     "rubyfortune.com": {
         "epoch": 1583539200,
         "expiration_date": "07-mar-2020",
@@ -6132,6 +6157,11 @@
     "topmeds10.com": {
         "epoch": 1581897600,
         "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
+    "topreward.site": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "toro-tags.com": {
