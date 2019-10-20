@@ -599,6 +599,11 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "adquest3d.com": {
+        "epoch": 1577145600,
+        "expiration_date": "24-dec-2019",
+        "state": "future"
+    },
     "adrazzi.com": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
@@ -1587,6 +1592,11 @@
     "cashcapitalsystem.com": {
         "epoch": 1579910400,
         "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
+    "cashcount.com": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "cashflowmarketing.com": {
@@ -2984,6 +2994,11 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "got2goshop.com": {
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
     "gparted.fr": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
@@ -3334,6 +3349,11 @@
         "expiration_date": "27-oct-2019",
         "state": "future"
     },
+    "irs01.net": {
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "istockbargains.com": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
@@ -3377,6 +3397,11 @@
     "jf71qh5v14.com": {
         "epoch": 1587772800,
         "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "jiztini.com": {
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
         "state": "future"
     },
     "jolic2.com": {
@@ -3729,6 +3754,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "macdamaged.tech": {
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
+        "state": "future"
+    },
     "magyar-media.com": {
         "epoch": 1577664000,
         "expiration_date": "30-dec-2019",
@@ -3747,6 +3777,11 @@
     "mailforfreedom.com": {
         "epoch": 1586563200,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "mailtrack.me": {
+        "epoch": 1613606400,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "makeitworkfaster.life": {
@@ -5592,6 +5627,11 @@
     "spolecznosci.net": {
         "epoch": 1595289600,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "sponsoradulto.com": {
+        "epoch": 1619913600,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "spotxchange.com": {
