@@ -4974,6 +4974,11 @@
         "expiration_date": "01-dec-2019",
         "state": "future"
     },
+    "launchbuffer.com": {
+        "epoch": 1605312000,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
     "lduhtrp.net": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
