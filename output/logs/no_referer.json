@@ -298,5 +298,25 @@
     "1571761907.433655": {
         "domain": "service001.adtech.us",
         "extension": "us"
+    },
+    "1571764600.066924": {
+        "domain": "adserv005.adtech.us",
+        "extension": "us"
+    },
+    "1571764780.305926": {
+        "domain": "adssl02.adtech.us",
+        "extension": "us"
+    },
+    "1571764906.052899": {
+        "domain": "reporter001.adtech.us",
+        "extension": "us"
+    },
+    "1571764970.334834": {
+        "domain": "reportimage.adtech.us",
+        "extension": "us"
+    },
+    "1571765057.513949": {
+        "domain": "imageserv.adtech.us",
+        "extension": "us"
     }
 }
