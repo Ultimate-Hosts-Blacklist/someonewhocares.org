@@ -2284,6 +2284,11 @@
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "ccpmo.com": {
+        "epoch": 1628467200,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
+    },
     "ccudl.com": {
         "epoch": 1611014400,
         "expiration_date": "19-jan-2021",
