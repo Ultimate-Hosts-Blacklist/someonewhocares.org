@@ -594,6 +594,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "ademails.com": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "adengage.com": {
         "epoch": 1584576000,
         "expiration_date": "19-mar-2020",
@@ -1167,6 +1172,11 @@
     "adtotal.pl": {
         "epoch": 1595980800,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "adtrader.com": {
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "adtrak.net": {
@@ -2637,6 +2647,11 @@
     "codegur.com": {
         "epoch": 1595289600,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "codeotel.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
         "state": "future"
     },
     "coderexception.com": {
@@ -4369,6 +4384,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "hir-tv.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
     "hirado-online.net": {
         "epoch": 1587340800,
         "expiration_date": "20-apr-2020",
@@ -4770,8 +4790,8 @@
         "state": "future"
     },
     "japanese-girl-xxx.com": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "japscat.org": {
@@ -5442,6 +5462,11 @@
     "maxmusics.com": {
         "epoch": 1633392000,
         "expiration_date": "05-oct-2021",
+        "state": "future"
+    },
+    "maxonclick.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "maxserving.com": {
@@ -6442,6 +6467,11 @@
     "painolympics.info": {
         "epoch": 1597881600,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "painolympics.org": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "paintnet.fr": {
@@ -7679,6 +7709,11 @@
         "expiration_date": "12-nov-2019",
         "state": "future"
     },
+    "solamor.com": {
+        "epoch": 1621468800,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
     "solicita.info": {
         "epoch": 1585008000,
         "expiration_date": "24-mar-2020",
@@ -8209,6 +8244,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "themacuser.org": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "themaplemethod.com": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
@@ -8689,6 +8729,11 @@
         "expiration_date": "16-may-2020",
         "state": "future"
     },
+    "turn.com": {
+        "epoch": 1711929600,
+        "expiration_date": "01-apr-2024",
+        "state": "future"
+    },
     "tutihirek.org": {
         "epoch": 1604188800,
         "expiration_date": "01-nov-2020",
@@ -8936,7 +8981,7 @@
     },
     "videocop.com": {
         "epoch": 1575072000,
-        "expiration_date": "30-nov-2019",
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "vidnline.com": {
@@ -9240,8 +9285,8 @@
         "state": "future"
     },
     "windowgolddealtheclicks.live": {
-        "epoch": 1575331200,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1575331200400,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "wonderlandads.com": {
@@ -9251,7 +9296,7 @@
     },
     "wormgush.com": {
         "epoch": 1588809600,
-        "expiration_date": "07-may-2020",
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "wowanalytics.co.uk": {
