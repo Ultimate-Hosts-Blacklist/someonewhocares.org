@@ -1004,6 +1004,11 @@
         "expiration_date": "20-sep-2021",
         "state": "future"
     },
+    "adserver.ro": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "adserversolutions.com": {
         "epoch": 1578700800,
         "expiration_date": "11-jan-2020",
@@ -1212,6 +1217,11 @@
     "adtrix.com": {
         "epoch": 1601510400,
         "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "adult-top-list.com": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "adultadworld.com": {
@@ -2834,6 +2844,11 @@
         "expiration_date": "06-jan-2024",
         "state": "future"
     },
+    "constintptr.com": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "contaxe.com": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
@@ -3474,6 +3489,11 @@
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
+    "emergingupdates.com": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
     "enoratraffic.com": {
         "epoch": 1586822400,
         "expiration_date": "14-apr-2020",
@@ -4059,6 +4079,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "gamerz123.com": {
+        "epoch": 1619395200,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "gamesrotator.com": {
         "epoch": 1587340800,
         "expiration_date": "20-apr-2020",
@@ -4237,6 +4262,11 @@
     "goggle.com": {
         "epoch": 1581552000,
         "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "goldstats.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "goodbizez.com": {
@@ -5539,6 +5569,11 @@
         "expiration_date": "17-nov-2019",
         "state": "future"
     },
+    "mapleway2profit.com": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "market-buster.com": {
         "epoch": 1602806400,
         "expiration_date": "16-oct-2020",
@@ -5694,6 +5729,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "merryholidays.org": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
     "messardu.com": {
         "epoch": 1603324800,
         "expiration_date": "22-oct-2020",
@@ -5845,9 +5885,9 @@
         "state": "future"
     },
     "mobularity.com": {
-        "epoch": 1565568000,
-        "expiration_date": "12-aug-2019",
-        "state": "past"
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "mochibot.com": {
         "epoch": 1581206400,
@@ -7199,6 +7239,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "redshell.io": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "redsheriff.com": {
         "epoch": 1575072000,
         "expiration_date": "30-nov-2019",
@@ -7320,8 +7365,8 @@
         "state": "future"
     },
     "romanticmaui.net": {
-        "epoch": 1599609600,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "romepartners.com": {
@@ -8097,6 +8142,11 @@
     "suhunsoo.uk": {
         "epoch": 1603324800,
         "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "sumome.com": {
+        "epoch": 1607212800,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "sunmaker.com": {
@@ -9577,6 +9627,11 @@
     "xtrasizeoriginal.com.br": {
         "epoch": 1591488000,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "xvideoslive.com": {
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "xxlargepop.com": {
