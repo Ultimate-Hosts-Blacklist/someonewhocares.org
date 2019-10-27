@@ -59,6 +59,11 @@
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
+    "1girl1pitcher.org": {
+        "epoch": 1622505600,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
+    },
     "1guy1cock.com": {
         "epoch": 1622419200,
         "expiration_date": "31-may-2021",
@@ -1067,6 +1072,11 @@
     "adspoll.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "adsrevenue.net": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "adsrv.me": {
@@ -3049,6 +3059,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "dbios.org": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "dctracking.com": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -3117,6 +3132,11 @@
     "dgit.com": {
         "epoch": 1715817600,
         "expiration_date": "16-may-2024",
+        "state": "future"
+    },
+    "dgm2.com": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "dgmaustralia.com": {
@@ -4037,6 +4057,11 @@
     "getlink.pw": {
         "epoch": 1585094400,
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "getloan.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "getmyads.com": {
@@ -5484,6 +5509,11 @@
         "expiration_date": "28-nov-2021",
         "state": "future"
     },
+    "meatspin.biz": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "meatspin.com": {
         "epoch": 1583798400,
         "expiration_date": "10-mar-2020",
@@ -5540,9 +5570,9 @@
         "state": "future"
     },
     "medical-research-books.com": {
-        "epoch": 1564790400,
-        "expiration_date": "03-aug-2019",
-        "state": "past"
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
     },
     "medleyads.com": {
         "epoch": 1571875200,
@@ -7369,6 +7399,11 @@
         "expiration_date": "20-nov-2019",
         "state": "future"
     },
+    "securecontactinfo.com": {
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "securemacfix.com": {
         "epoch": 1594857600,
         "expiration_date": "16-jul-2020",
@@ -7592,6 +7627,11 @@
     "slayinglance.com": {
         "epoch": 1589760000,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "slimspots.com": {
+        "epoch": 1588464000,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "slowmacfaster.trade": {
@@ -8929,6 +8969,11 @@
         "expiration_date": "15-may-2021",
         "state": "future"
     },
+    "valueclick.net": {
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
     "veirregnant.club": {
         "epoch": 1628467200,
         "expiration_date": "09-aug-2021",
@@ -8987,6 +9032,11 @@
     "vidnline.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "vidroll.ru": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "viewtools.com": {
@@ -9269,9 +9319,19 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "widespace.com": {
+        "epoch": 1617494400,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
     "widgetbucks.com": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "wigetmedia.com": {
+        "epoch": 1604793600,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "wikidevs.com": {
