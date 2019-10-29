@@ -1864,6 +1864,11 @@
         "expiration_date": "13-apr-2017",
         "state": "past"
     },
+    "be4life.ru": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "belierlaine.com": {
         "epoch": 1576972800,
         "expiration_date": "22-dec-2019",
@@ -6302,6 +6307,11 @@
     "nakhit.com": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "nanoadexchange.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "napimigrans.com": {
