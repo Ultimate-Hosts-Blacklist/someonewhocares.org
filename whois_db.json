@@ -2469,6 +2469,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "charmstroy.info": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
     "chartbeat.com": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
@@ -4664,6 +4669,11 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "hitboxcentral.com": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "hitstats.co.uk": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
@@ -5427,6 +5437,11 @@
     "linkcounter.com": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "linkhut.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "linknotification.com": {
