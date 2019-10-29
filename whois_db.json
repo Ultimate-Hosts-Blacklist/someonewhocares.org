@@ -1184,6 +1184,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "adtag.cc": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "adtaily.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
@@ -7472,6 +7477,11 @@
     "remekcikkek.com": {
         "epoch": 1598659200,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "remotepartition.com": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "rencontreavenue.com": {
