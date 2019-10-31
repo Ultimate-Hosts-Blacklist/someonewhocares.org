@@ -5014,6 +5014,11 @@
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
+    "itempana.site": {
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "itrackerpro.com": {
         "epoch": 1602547200,
         "expiration_date": "13-oct-2020",
@@ -6214,6 +6219,11 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "myanyone.net": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
     "mybinaryoptionsrobot.com": {
         "epoch": 1590192000,
         "expiration_date": "23-may-2020",
@@ -6902,6 +6912,11 @@
     "performanceadexchange.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "pfhsystem.com": {
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "phatthalung.go.th": {
@@ -8500,8 +8515,8 @@
         "state": "future"
     },
     "tanio-najtaniej.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "tao123.com": {
