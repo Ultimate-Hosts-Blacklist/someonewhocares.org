@@ -2812,7 +2812,7 @@
     "codeotel.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coderexception.com": {
         "epoch": 1567123200,
@@ -2847,7 +2847,7 @@
     "coinhits.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coinhive.com": {
         "epoch": 1575158400,
@@ -7342,6 +7342,11 @@
     "pubpress.net": {
         "epoch": 1580688000,
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "punishtube.com": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
         "state": "future"
     },
     "pureadexchange.com": {
