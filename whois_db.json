@@ -3309,6 +3309,11 @@
         "expiration_date": "30-jul-2024",
         "state": "future"
     },
+    "digitaldsp.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "directleads.com": {
         "epoch": 1575244800,
         "expiration_date": "02-dec-2019",
@@ -7170,8 +7175,8 @@
         "state": "future"
     },
     "preligions.com": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "premiumproductsonline.com": {
