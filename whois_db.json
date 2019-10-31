@@ -3824,6 +3824,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "firefox-updater.com": {
+        "epoch": 1643500800,
+        "expiration_date": "30-jan-2022",
+        "state": "future"
+    },
     "firrectly.top": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
