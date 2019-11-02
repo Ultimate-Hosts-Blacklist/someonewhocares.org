@@ -1344,6 +1344,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "advserver.xyz": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "advzilla.com": {
         "epoch": 1597708800,
         "expiration_date": "18-aug-2020",
@@ -1830,9 +1835,9 @@
         "state": "future"
     },
     "bang-hotties.com": {
-        "epoch": 1565654400,
-        "expiration_date": "13-aug-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "bangbuddy.com": {
         "epoch": 1584835200,
@@ -8432,6 +8437,11 @@
     "suddenplot.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "sudokuwhiz.com": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "sugoicounter.com": {
