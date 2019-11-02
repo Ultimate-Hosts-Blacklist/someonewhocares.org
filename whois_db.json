@@ -1464,6 +1464,11 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "ajcclassifieds.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
     "ako.cc": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
@@ -6535,8 +6540,8 @@
         "state": "future"
     },
     "nextlnk2.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "nextlnk7.com": {
@@ -6777,7 +6782,7 @@
     "openinternetexchange.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "openinternetexchange.net": {
         "epoch": 1598832000,
