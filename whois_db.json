@@ -365,8 +365,8 @@
         "state": "future"
     },
     "abourselfi.com": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "abruzzoinitaly.co.uk": {
@@ -3624,6 +3624,11 @@
         "expiration_date": "20-dec-2021",
         "state": "future"
     },
+    "errx049.icu": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "estats4all.com": {
         "epoch": 1599091200,
         "expiration_date": "03-sep-2020",
@@ -6482,6 +6487,11 @@
     "net-radar.com": {
         "epoch": 1605139200,
         "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "netadclick.com": {
+        "epoch": 1606176000,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "netpalnow.com": {
