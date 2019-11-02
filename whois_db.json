@@ -2825,9 +2825,9 @@
         "state": "future"
     },
     "codeotel.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "coderexception.com": {
         "epoch": 1567123200,
@@ -5994,6 +5994,11 @@
         "expiration_date": "05-oct-2021",
         "state": "future"
     },
+    "microsoftsecurity-experts7565.xyz": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "miercuri.gq": {
         "epoch": 1769212800,
         "expiration_date": "24-jan-2026",
@@ -6565,8 +6570,8 @@
         "state": "future"
     },
     "nextlnk7.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "nextoptim.com": {
