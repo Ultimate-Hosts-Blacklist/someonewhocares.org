@@ -44,6 +44,11 @@
         "expiration_date": "09-dec-2021",
         "state": "future"
     },
+    "123greetings.com": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "123plays.com": {
         "epoch": 1596499200,
         "expiration_date": "04-aug-2020",
@@ -6014,6 +6019,11 @@
         "expiration_date": "07-dec-2019",
         "state": "future"
     },
+    "minero.pw": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
     "minr.pw": {
         "epoch": 1586995200,
         "expiration_date": "16-apr-2020",
@@ -8860,6 +8870,11 @@
         "state": "future"
     },
     "toolbarbucks.biz": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "toolbarcool.biz": {
         "epoch": 1577577600,
         "expiration_date": "29-dec-2019",
         "state": "future"
