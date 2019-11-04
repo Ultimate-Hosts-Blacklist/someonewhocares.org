@@ -5344,6 +5344,11 @@
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "kpremium.com": {
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "kqzyfj.com": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
@@ -9372,7 +9377,7 @@
     "ukbanners.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ukrpts.net": {
         "epoch": 1601942400,
