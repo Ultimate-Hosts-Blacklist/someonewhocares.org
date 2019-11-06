@@ -1469,6 +1469,11 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "airfrance.life": {
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
     "ajcclassifieds.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
