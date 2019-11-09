@@ -195,7 +195,7 @@
         "state": "future"
     },
     "32red.it": {
-        "epoch": 1572134400,
+        "epoch": 1572134400.0,
         "expiration_date": "27-oct-2019",
         "state": "past"
     },
@@ -2235,9 +2235,9 @@
         "state": "future"
     },
     "browsergames2018.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "browsergames2019.com": {
         "epoch": 1581379200,
@@ -5190,7 +5190,7 @@
         "state": "future"
     },
     "journal-des-bourses.com": {
-        "epoch": 1567814400,
+        "epoch": 1567814400.0,
         "expiration_date": "07-sep-2019",
         "state": "past"
     },
