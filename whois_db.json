@@ -1920,7 +1920,7 @@
         "state": "future"
     },
     "best2017games.com": {
-        "epoch": 1567814400,
+        "epoch": 1567814400.0,
         "expiration_date": "07-sep-2019",
         "state": "past"
     },
@@ -3990,7 +3990,7 @@
         "state": "future"
     },
     "freecameraprovider.com": {
-        "epoch": 1566259200,
+        "epoch": 1566259200.0,
         "expiration_date": "20-aug-2019",
         "state": "past"
     },
