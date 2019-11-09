@@ -1819,6 +1819,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "badmactogoodmac.tech": {
+        "epoch": 1577491200.0,
+        "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
     "badults.se": {
         "epoch": 1585094400,
         "expiration_date": "25-mar-2020",
@@ -4035,7 +4040,7 @@
         "state": "future"
     },
     "freegasprovider.com": {
-        "epoch": 1566259200,
+        "epoch": 1566259200.0,
         "expiration_date": "20-aug-2019",
         "state": "past"
     },
@@ -5665,8 +5670,8 @@
         "state": "future"
     },
     "lpg02.com": {
-        "epoch": 1573257600,
-        "expiration_date": "09-nov-2019",
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "lpmxp2014.com": {
