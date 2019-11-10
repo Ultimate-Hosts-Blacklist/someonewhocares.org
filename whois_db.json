@@ -3229,6 +3229,11 @@
         "expiration_date": "20-dec-2019",
         "state": "future"
     },
+    "dashgreen.online": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "datanotary.com": {
         "epoch": 1581724800,
         "expiration_date": "15-feb-2020",
