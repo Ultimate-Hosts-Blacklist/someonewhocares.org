@@ -6628,6 +6628,7 @@ ip6-allnodes
 ip6-allrouters
 ip6-localhost
 ip6-localnet
+ip6-loopback
 ip6-mcastprefix
 ipacc1.adtech.de
 ipacc1.adtech.fr
