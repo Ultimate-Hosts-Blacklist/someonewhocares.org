@@ -19,6 +19,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "0stats.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "1-1ads.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
@@ -3607,6 +3612,11 @@
     "farmius.org": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "fast-adv.it": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
         "state": "future"
     },
     "fast-mac-upp.com": {
@@ -8457,6 +8467,11 @@
     "thecounter.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "theexgirlfriends.com": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "thehomo.org": {
