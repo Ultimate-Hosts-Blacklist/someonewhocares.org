@@ -6799,6 +6799,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "picture-uploads.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "pills-home.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
@@ -7792,6 +7797,11 @@
     "siom.ac.cn": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "siteimproveanalytics.com": {
+        "epoch": 1708905600.0,
+        "expiration_date": "26-feb-2024",
         "state": "future"
     },
     "siteonline.stream": {
@@ -8897,6 +8907,11 @@
     "truecrypt.fr": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "trustaffs.com": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
         "state": "future"
     },
     "trustedmaccleaner.com": {
