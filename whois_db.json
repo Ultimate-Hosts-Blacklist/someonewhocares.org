@@ -304,6 +304,11 @@
         "expiration_date": "14-feb-2023",
         "state": "future"
     },
+    "888casino.com": {
+        "epoch": 1687910400.0,
+        "expiration_date": "28-jun-2023",
+        "state": "future"
+    },
     "888poker.com": {
         "epoch": 1696723200.0,
         "expiration_date": "08-oct-2023",
@@ -1407,6 +1412,11 @@
     "ailiyou1999.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "airfrance.life": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "ajcclassifieds.com": {
