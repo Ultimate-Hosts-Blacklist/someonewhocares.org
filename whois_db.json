@@ -6959,6 +6959,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "poponclick.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "popupad.net": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
@@ -9800,9 +9805,9 @@
         "state": "future"
     },
     "yourrewardzone.com": {
-        "epoch": 1573776000.0,
-        "expiration_date": "15-nov-2019",
-        "state": "past"
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
     },
     "yoursmartrewards.com": {
         "epoch": 1581379200.0,
