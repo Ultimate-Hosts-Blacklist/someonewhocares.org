@@ -3924,6 +3924,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "freelaptopwebsites.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "freenation.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -4562,6 +4567,11 @@
     "hirnaplo.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "hironline24.net": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "hirorigo.net": {
@@ -5652,6 +5662,11 @@
     "maxmusics.com": {
         "epoch": 1633392000.0,
         "expiration_date": "05-oct-2021",
+        "state": "future"
+    },
+    "maxonclick.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "maxserving.com": {
