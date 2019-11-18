@@ -1074,6 +1074,11 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "adsniper.ru": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "adsoftware.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
@@ -2765,9 +2770,9 @@
         "state": "future"
     },
     "coderexception.com": {
-        "epoch": 1567123200.0,
-        "expiration_date": "30-aug-2019",
-        "state": "past"
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
     },
     "coin-ad.com": {
         "epoch": 1582329600.0,
@@ -3817,6 +3822,11 @@
     "flexibleadmin.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "flexibletool.com": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "fliteilex.com": {
@@ -5729,6 +5739,11 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "media-motor.com": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "mediacharger.com": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
@@ -7542,6 +7557,11 @@
     "roulettebotplus.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
+    "rovion.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "rpgmasterleague.com": {
@@ -9742,6 +9762,11 @@
     "xpantivirus.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "xtrasizeoriginal.com.br": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "xvideoslive.com": {
