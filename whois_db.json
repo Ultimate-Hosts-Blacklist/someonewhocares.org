@@ -934,6 +934,11 @@
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
+    "ads234.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "ads2ads.net": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -9312,6 +9317,11 @@
     "utairway.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "utarget.co.uk": {
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
         "state": "future"
     },
     "utarget.ru": {
