@@ -6864,6 +6864,11 @@
         "expiration_date": "19-sep-2027",
         "state": "future"
     },
+    "performanceadexchange.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "pfhsystem.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
@@ -8532,6 +8537,11 @@
     "technicalconsumerreports.com": {
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "technology-revealed.com": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "techques.com": {
