@@ -3914,6 +3914,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "freecamsecrets.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "freecamsexposed.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -9062,6 +9067,11 @@
     "tubgirl.me": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "tudasfaja.com": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "state": "future"
     },
     "tudaskor.com": {
