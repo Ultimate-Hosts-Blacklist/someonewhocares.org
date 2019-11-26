@@ -574,6 +574,11 @@
         "expiration_date": "22-may-2020",
         "state": "future"
     },
+    "addfreecounter.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "addfreestats.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
@@ -6602,6 +6607,11 @@
     "paycounter.com": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
+        "state": "future"
+    },
+    "paypopup.com": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "pcads.ru": {
