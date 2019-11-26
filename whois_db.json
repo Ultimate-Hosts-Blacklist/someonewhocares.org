@@ -2309,6 +2309,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "cashcapitalsystem.com": {
+        "epoch": 1579910400.0,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "cashcount.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
@@ -7704,6 +7709,11 @@
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
+    "snyowx29.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "sochr.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
@@ -9527,6 +9537,11 @@
     "zeroredirect6.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "zeroredirect7.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "zeroredirect8.com": {
