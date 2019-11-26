@@ -4304,6 +4304,11 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "haoyunlaid.com": {
+        "epoch": 1571184000.0,
+        "expiration_date": "16-oct-2019",
+        "state": "past"
+    },
     "hashing.win": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
@@ -5317,6 +5322,11 @@
     "maaxmarket.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "macads.net": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "macaxpower.com.br": {
@@ -7469,6 +7479,11 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "shoppingjobshere.com": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "shoppingminds.net": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
@@ -8454,6 +8469,11 @@
         "expiration_date": "18-jan-2028",
         "state": "future"
     },
+    "traveladvertising.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
     "trcko.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
@@ -8957,6 +8977,11 @@
     "walkthedinosaur.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "wantsfly.com": {
+        "epoch": 1587513600.0,
+        "expiration_date": "22-apr-2020",
         "state": "future"
     },
     "warlog.info": {
