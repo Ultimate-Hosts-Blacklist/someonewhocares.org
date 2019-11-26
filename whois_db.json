@@ -2179,6 +2179,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "buyhitscheap.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "buzzadnetwork.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
@@ -2487,6 +2492,11 @@
     "clhctrk.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "click10.com": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
         "state": "future"
     },
     "click4click.com": {
@@ -4574,6 +4584,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "iicdn.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "ilovecheating.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
@@ -6399,6 +6414,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "originscheduler.com": {
+        "epoch": 1569369600.0,
+        "expiration_date": "25-sep-2019",
+        "state": "past"
+    },
     "otsserver.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -7087,6 +7107,11 @@
     "regflow.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "registrarads.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "reklam3.net": {
