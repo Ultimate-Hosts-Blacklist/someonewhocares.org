@@ -2039,6 +2039,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "bonzi.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
+    },
     "bookpdf.services": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -2157,6 +2162,11 @@
     "bugsbanner.it": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "bulletads.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "bumerang.cc": {
@@ -7084,6 +7094,11 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "radiate.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "randki-sex.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -7413,6 +7428,11 @@
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
         "state": "future"
+    },
+    "searchwe.com": {
+        "epoch": 1570579200.0,
+        "expiration_date": "09-oct-2019",
+        "state": "past"
     },
     "secretlanguage.co": {
         "epoch": 1596153600.0,
@@ -7792,6 +7812,11 @@
     "special-alerts.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "specificclick.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "specificpop.com": {
