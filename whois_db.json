@@ -964,6 +964,11 @@
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
+    "adserver.com.pl": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "adserver.net": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
@@ -1387,6 +1392,11 @@
     "ahzahg6ohb.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "ailiyou1999.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "airfrance.life": {
@@ -6804,6 +6814,11 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "postmasterbannernet.com": {
+        "epoch": 1568592000.0,
+        "expiration_date": "16-sep-2019",
+        "state": "past"
+    },
     "postmasterdirect.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -7952,6 +7967,11 @@
     "sugoicounter.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "suhunsoo.uk": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "sumome.com": {
