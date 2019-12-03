@@ -54,6 +54,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "1priest1nun.com": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "1priest1nun.net": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -252,6 +257,11 @@
     "ad-center.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "ad-clicks.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "ad-flow.com": {
@@ -704,6 +714,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "adtechus.com": {
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "state": "future"
+    },
     "adthru.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
@@ -742,6 +757,11 @@
     "advconversion.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "advertise.com": {
+        "epoch": 1761436800.0,
+        "expiration_date": "26-oct-2025",
         "state": "future"
     },
     "advertisingbay.com": {
@@ -1202,6 +1222,11 @@
     "blender3d.fr": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "blogads.com": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "blogvertising.pl": {
@@ -2344,6 +2369,11 @@
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
+    "freevideodownloadforpc.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "freewebcards.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
@@ -2579,6 +2609,11 @@
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
+    "goldstats.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
     "goodbizez.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -2753,6 +2788,11 @@
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
         "state": "future"
+    },
+    "hironline24.net": {
+        "epoch": 1570838400.0,
+        "expiration_date": "12-oct-2019",
+        "state": "past"
     },
     "hirorigo.net": {
         "epoch": 1587340800.0,
@@ -2982,6 +3022,11 @@
     "itrackerpro.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "izarc.fr": {
@@ -3879,6 +3924,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "noticias.life": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "notifyday.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
@@ -4134,6 +4184,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "phormchina.com": {
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "phormlabs.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -4384,6 +4439,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "quickcash-system.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "quickfilmz.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
@@ -4522,7 +4582,7 @@
     "romepartners.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "roshanavar.com": {
         "epoch": 1596326400.0,
@@ -4709,6 +4769,11 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "shareasale.com": {
+        "epoch": 1579910400.0,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "shawinternets.com": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
@@ -4732,6 +4797,11 @@
     "shopperpromotions.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "shopping-offer.com": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "shorte.st": {
@@ -4964,6 +5034,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "stompebi.link": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "stopphoulplay.com": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
@@ -5062,6 +5137,11 @@
     "tahoesup.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "talentbroker.net": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "tanger.com.br": {
@@ -5322,6 +5402,11 @@
     "topmeds10.com": {
         "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
+    "topshape.me": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "topstats.com": {
@@ -5727,6 +5812,11 @@
     "voluumtrk2.com": {
         "epoch": 1745712000.0,
         "expiration_date": "27-apr-2025",
+        "state": "future"
+    },
+    "voluumtrk3.com": {
+        "epoch": 1745884800.0,
+        "expiration_date": "29-apr-2025",
         "state": "future"
     },
     "vomitgirl.org": {
