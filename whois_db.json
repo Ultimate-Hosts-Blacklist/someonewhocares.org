@@ -259,6 +259,11 @@
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
+    "abclnks.com": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "abetterinternet.com": {
         "epoch": 1723593600.0,
         "expiration_date": "14-aug-2024",
@@ -393,6 +398,11 @@
         "epoch": 1570579200.0,
         "expiration_date": "09-oct-2019",
         "state": "past"
+    },
+    "adbit.co": {
+        "epoch": 1580688000.0,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
     },
     "adblade.com": {
         "epoch": 1635552000.0,
@@ -942,6 +952,11 @@
     "advertisingbay.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "advertpro.com": {
+        "epoch": 1580947200.0,
+        "expiration_date": "06-feb-2020",
         "state": "future"
     },
     "advertstream.com": {
@@ -1814,6 +1829,11 @@
         "expiration_date": "18-mar-2022",
         "state": "future"
     },
+    "cc-dt.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "ccleaner.fr": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
@@ -2402,6 +2422,11 @@
     "darmowe-liczniki.info": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
+    "darmowe-zakupy.com": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "dashbo15myapp.com": {
@@ -5329,6 +5354,11 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "popupdomination.com": {
+        "epoch": 1688774400.0,
+        "expiration_date": "08-jul-2023",
+        "state": "future"
+    },
     "popuptraffic.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
@@ -6659,6 +6689,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "trafficsan.com": {
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
+        "state": "future"
+    },
     "traffictrader.net": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
@@ -6967,6 +7002,11 @@
     "velocecdn.com": {
         "epoch": 1631404800.0,
         "expiration_date": "12-sep-2021",
+        "state": "future"
+    },
+    "venturead.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "vibrantmedia.com": {
