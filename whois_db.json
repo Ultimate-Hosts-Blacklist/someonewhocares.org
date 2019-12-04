@@ -484,6 +484,11 @@
         "expiration_date": "16-jul-2023",
         "state": "future"
     },
+    "adfunkyserver.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "adgardener.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
@@ -699,6 +704,11 @@
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
+    "adsbizsimple.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "adscendmedia.com": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
@@ -792,6 +802,11 @@
     "adspoll.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "adsrevenue.net": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "adsrv.me": {
@@ -1062,6 +1077,11 @@
     "algocashmaster.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "algocashmaster.net": {
+        "epoch": 1586217600.0,
+        "expiration_date": "07-apr-2020",
         "state": "future"
     },
     "allaskme.com": {
@@ -1784,6 +1804,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "cashreportz.com": {
+        "epoch": 1582675200.0,
+        "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
     "casino770.com": {
         "epoch": 1647561600.0,
         "expiration_date": "18-mar-2022",
@@ -2377,6 +2402,11 @@
     "darmowe-liczniki.info": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
+    "dashbo15myapp.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "datanotary.com": {
@@ -3544,6 +3574,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "hotkeys.com": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "howtobuildsoftware.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
@@ -4229,6 +4264,11 @@
         "expiration_date": "15-dec-2020",
         "state": "future"
     },
+    "macaxpower.com.br": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "maccleanersecurity.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -4487,6 +4527,11 @@
     "mlntracker.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "mmoframes.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "mmstat.com": {
