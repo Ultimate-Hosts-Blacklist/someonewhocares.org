@@ -1659,6 +1659,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "canuckmethod.com": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
     "capath.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
@@ -1797,6 +1802,11 @@
     "claimfreerewards.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "clearonclick.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "clevernt.com": {
@@ -2442,6 +2452,11 @@
     "dotcomsecrets.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "doubleclick.com": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "downads.com": {
@@ -3779,6 +3794,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "kliksaya.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
     "knowinteractive.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
@@ -3862,6 +3882,11 @@
     "larivieracasino.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "launchbuffer.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "lduhtrp.net": {
@@ -4819,6 +4844,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "openinternetexchange.net": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
     "openoverflow.com": {
         "epoch": 1634083200.0,
         "expiration_date": "13-oct-2021",
@@ -5469,6 +5499,11 @@
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
+    "runcpa.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "runtnc.net": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
@@ -5632,6 +5667,11 @@
     "shafou.com": {
         "epoch": 1762300800.0,
         "expiration_date": "05-nov-2025",
+        "state": "future"
+    },
+    "shapado.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "share-server.com": {
@@ -7037,6 +7077,11 @@
     "xbasfbno.info": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "xbn.ru": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "xgames-04.com": {
