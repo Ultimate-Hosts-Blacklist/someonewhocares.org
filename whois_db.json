@@ -999,6 +999,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "adservtech.com": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "state": "future"
+    },
     "adsfac.net": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
@@ -1207,6 +1212,11 @@
     "advaliant.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "advancedmaccleaner.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
         "state": "future"
     },
     "advanpromo.com": {
@@ -3374,6 +3384,11 @@
         "expiration_date": "18-oct-2019",
         "state": "past"
     },
+    "emarketmakers.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "emergingupdates.com": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
@@ -4549,6 +4564,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "ilovecheating.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
     "ilovemobi.com": {
         "epoch": 1636502400.0,
         "expiration_date": "10-nov-2021",
@@ -5077,7 +5097,7 @@
     "lefopost.com": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "legfrissebb.info": {
         "epoch": 1582070400.0,
@@ -5298,6 +5318,11 @@
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
         "state": "future"
+    },
+    "m2trk.com": {
+        "epoch": 1570665600.0,
+        "expiration_date": "10-oct-2019",
+        "state": "past"
     },
     "macads.net": {
         "epoch": 1607990400.0,
@@ -8559,6 +8584,11 @@
         "expiration_date": "18-jan-2028",
         "state": "future"
     },
+    "traveladvertising.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
     "trcko.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
@@ -9418,6 +9448,11 @@
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
         "state": "future"
+    },
+    "youf1le.com": {
+        "epoch": 1571270400.0,
+        "expiration_date": "17-oct-2019",
+        "state": "past"
     },
     "youfck.com": {
         "epoch": 1603411200.0,
