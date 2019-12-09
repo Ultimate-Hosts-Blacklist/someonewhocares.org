@@ -4179,6 +4179,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "googkle.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
     "googleadservices.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
@@ -6433,6 +6438,11 @@
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
         "state": "future"
+    },
+    "originscheduler.com": {
+        "epoch": 1569369600.0,
+        "expiration_date": "25-sep-2019",
+        "state": "past"
     },
     "osqa.net": {
         "epoch": 1577145600.0,
