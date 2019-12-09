@@ -2204,6 +2204,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "canadianshawid.com": {
+        "epoch": 1583884800.0,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
     "canuckmethod.com": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
@@ -3197,6 +3202,11 @@
     "drowle.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "dt1blog.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "dutchsales.org": {
@@ -4822,6 +4832,11 @@
     "keywordblocks.com": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "khlgauqt2000.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "kids-in-sandbox.com": {
@@ -7539,6 +7554,11 @@
         "expiration_date": "25-aug-2020",
         "state": "future"
     },
+    "smarttargetting.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "smichovbike.cz": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -8702,6 +8722,11 @@
     "urldelivery.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "usswrite.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "utairway.com": {
