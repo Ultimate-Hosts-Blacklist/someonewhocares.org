@@ -974,6 +974,11 @@
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
+    "adserver.net": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "adserver.pl": {
         "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
@@ -1989,6 +1994,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "bonzi.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
+    },
     "bookpdf.services": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -2442,6 +2452,11 @@
     "cleanmobilephone.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "clearalgorithm.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "clearonclick.com": {
@@ -3739,6 +3754,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "freefuelcoupon.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "freeinvisiblecounters.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -4258,6 +4278,11 @@
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
         "state": "future"
+    },
+    "haoyunlaid.com": {
+        "epoch": 1571184000.0,
+        "expiration_date": "16-oct-2019",
+        "state": "past"
     },
     "hashing.win": {
         "epoch": 1575936000.0,
@@ -7487,6 +7512,11 @@
     "shopping-offer.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "shoppingjobshere.com": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "shoppingminds.net": {
