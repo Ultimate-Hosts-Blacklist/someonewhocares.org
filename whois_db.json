@@ -2109,6 +2109,11 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "bulkclicks.com": {
+        "epoch": 1568851200.0,
+        "expiration_date": "19-sep-2019",
+        "state": "past"
+    },
     "bulletads.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
@@ -6204,6 +6209,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "offertrakking.info": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "offerx.co.uk": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
@@ -6709,6 +6719,11 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "postmasterbannernet.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "postmasterdirect.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -7212,6 +7227,11 @@
     "russian-sex.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "rwpads.net": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "s7clean.com": {
