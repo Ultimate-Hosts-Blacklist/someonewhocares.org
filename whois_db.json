@@ -5940,9 +5940,9 @@
         "state": "future"
     },
     "nbads.com": {
-        "epoch": 1569024000.0,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "nbriskerry.com": {
         "epoch": 1604102400.0,
@@ -7599,6 +7599,11 @@
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
+    "snyowx29.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "sochr.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
@@ -7667,6 +7672,11 @@
     "special-alerts.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "specificclick.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "specificpop.com": {
@@ -8797,6 +8807,11 @@
     "vibrantmedia.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "victory1999.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "video-bazis.com": {
