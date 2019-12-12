@@ -16,11 +16,13 @@ ip6-allhosts
 ip6-allnodes
 ip6-allrouters
 ip6-loopback
+ip6-mcastprefix
 local
 protection.IDpolice.com
 protection.IQpolice.com
 protection.ITpolice.net
 protection.LApolice.com
+protection.MCpolice.com
 protection.MOpolice.com
 protection.MSpolice.net
 protection.PGpolice.com
