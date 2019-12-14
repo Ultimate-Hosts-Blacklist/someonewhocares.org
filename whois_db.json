@@ -304,6 +304,11 @@
         "expiration_date": "02-jan-2027",
         "state": "future"
     },
+    "allaskme.com": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
     "allkindlecloud.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
