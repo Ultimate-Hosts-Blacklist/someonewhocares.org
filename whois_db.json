@@ -1494,6 +1494,11 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "qcoldtui1999.com": {
+        "epoch": 1587168000.0,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
     "redonetype.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -1612,6 +1617,11 @@
     "smarttargetting.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "snyowx29.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "sociallypublish.com": {
