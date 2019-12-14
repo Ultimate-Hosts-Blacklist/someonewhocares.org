@@ -69,6 +69,11 @@
         "expiration_date": "06-jan-2020",
         "state": "future"
     },
+    "adbers.com": {
+        "epoch": 1570579200.0,
+        "expiration_date": "09-oct-2019",
+        "state": "past"
+    },
     "addfreecounter.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
@@ -99,6 +104,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "adireland.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "admanage.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -124,6 +134,11 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "adquest3d.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "ads360.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
@@ -137,6 +152,16 @@
     "adserver.com.pl": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "adserver.net": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "adservtech.com": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
         "state": "future"
     },
     "adsfac.net": {
@@ -344,6 +369,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "bulletads.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "bumerang.cc": {
         "epoch": 1571270400.0,
         "expiration_date": "17-oct-2019",
@@ -433,6 +463,21 @@
         "epoch": 1572480000.0,
         "expiration_date": "31-oct-2019",
         "state": "past"
+    },
+    "collectiveads.net": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "computer-offer.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "computertechanalysis.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
     },
     "constintptr.com": {
         "epoch": 1582243200.0,
@@ -799,6 +844,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "imrk.net": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
     "imrworldwide.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
@@ -1144,6 +1194,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "pocofh.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "poker-new.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
@@ -1374,6 +1429,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "takeprofitsystem.com": {
+        "epoch": 1570579200.0,
+        "expiration_date": "09-oct-2019",
+        "state": "past"
+    },
     "tcimg.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
@@ -1432,6 +1492,11 @@
     "toro-tags.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "tradetracker.net": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "traktum.com": {
@@ -1507,6 +1572,11 @@
     "vakarek.info": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "victory1999.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "vilaglato.info": {
@@ -1637,6 +1707,11 @@
     "zeroredirect2.com": {
         "epoch": 1707955200.0,
         "expiration_date": "15-feb-2024",
+        "state": "future"
+    },
+    "zeroredirect7.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     }
 }
