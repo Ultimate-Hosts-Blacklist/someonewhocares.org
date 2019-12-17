@@ -21,6 +21,7 @@ ip6-allrouters
 ip6-localnet
 ip6-mcastprefix
 localhost.localdomain
+protection.BSpolice.com
 protection.DKpolice.com
 protection.GRpolice.com
 protection.IDpolice.com
