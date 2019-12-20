@@ -814,6 +814,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "adquest3d.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "adrazzi.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -1182,6 +1187,11 @@
     "advaliant.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "advancedmaccleaner.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
         "state": "future"
     },
     "advanpromo.com": {
@@ -4278,6 +4288,11 @@
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
         "state": "future"
+    },
+    "haoyunlaid.com": {
+        "epoch": 1571184000.0,
+        "expiration_date": "16-oct-2019",
+        "state": "past"
     },
     "hashing.win": {
         "epoch": 1607558400.0,
@@ -8962,6 +8977,11 @@
     "vibrantmedia.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "victory1999.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "video-bazis.com": {
