@@ -2184,6 +2184,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "buyhitscheap.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "buzzadnetwork.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
@@ -4612,6 +4617,11 @@
     "iesnare.com": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
+    "ilovecheating.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
         "state": "future"
     },
     "ilovemobi.com": {
