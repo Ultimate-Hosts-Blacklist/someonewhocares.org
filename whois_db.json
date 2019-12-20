@@ -814,6 +814,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "adpowerzone.com": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
     "adquest3d.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -947,6 +952,11 @@
     "adserver.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
+    "adserver.com.pl": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "adserver.net": {
@@ -2002,6 +2012,11 @@
     "bodelen.com": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "bonzi.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
         "state": "future"
     },
     "bookpdf.services": {
@@ -3794,6 +3809,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "freeinvisiblecounters.com": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
     "freelaptopreward.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
@@ -3812,6 +3832,11 @@
     "freerapid.fr": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "freespinwinner.win": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "freestats.com": {
@@ -8518,6 +8543,11 @@
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
         "state": "future"
+    },
+    "toptypeonlinetheclicks.icu": {
+        "epoch": 1572307200.0,
+        "expiration_date": "29-oct-2019",
+        "state": "past"
     },
     "torjackan.info": {
         "epoch": 1627257600.0,
