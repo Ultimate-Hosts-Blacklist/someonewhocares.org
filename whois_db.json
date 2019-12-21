@@ -2734,6 +2734,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "coinhive.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "coinimp.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -6212,6 +6217,11 @@
     "net-radar.com": {
         "epoch": 1636675200.0,
         "expiration_date": "12-nov-2021",
+        "state": "future"
+    },
+    "net-secure-update.icu": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "netadclick.com": {
