@@ -4654,6 +4654,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "iicdn.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "ilovecheating.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
@@ -7857,6 +7862,11 @@
     "smartstats.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "smarttargetting.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "smichovbike.cz": {
