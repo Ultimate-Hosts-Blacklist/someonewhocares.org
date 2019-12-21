@@ -6564,6 +6564,11 @@
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
+    "otsserver.com": {
+        "epoch": 1571097600.0,
+        "expiration_date": "15-oct-2019",
+        "state": "past"
+    },
     "ourfuckbook.com": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
@@ -8772,6 +8777,11 @@
     "traktum.com": {
         "epoch": 1831766400.0,
         "expiration_date": "18-jan-2028",
+        "state": "future"
+    },
+    "traveladvertising.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "trcko.com": {
