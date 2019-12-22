@@ -359,6 +359,11 @@
         "expiration_date": "18-oct-2028",
         "state": "future"
     },
+    "achetezfacile.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
     "acnenomor.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
@@ -1227,6 +1232,11 @@
     "advertisingbay.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "advertlets.com": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "advertpro.com": {
@@ -4572,6 +4582,11 @@
     "homewares.org": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "honestsun.top": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "hooqy.com": {
@@ -8220,8 +8235,8 @@
         "state": "future"
     },
     "surfsecured.net": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "surplus-suppliers.com": {
@@ -9397,6 +9412,11 @@
     "webcounter.com": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "webkurchatov.ru": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
         "state": "future"
     },
     "webpartition.com": {
