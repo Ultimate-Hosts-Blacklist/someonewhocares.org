@@ -4394,6 +4394,11 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "hakerzy.net": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "haouzy.info": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -6230,9 +6235,9 @@
         "state": "past"
     },
     "nctracking.com": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
-        "state": "past"
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
     },
     "nedstat.com": {
         "epoch": 1589846400.0,
@@ -7167,6 +7172,11 @@
     "push-ad.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "push-notification.tools": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "pushno.com": {
