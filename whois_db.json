@@ -4984,6 +4984,11 @@
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
+    "jroqvbvw.info": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
     "jujitsu-ostrava.info": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
@@ -6522,6 +6527,11 @@
     "onclkds.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "oneluckyvisitor.org": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "onesignal.com": {
