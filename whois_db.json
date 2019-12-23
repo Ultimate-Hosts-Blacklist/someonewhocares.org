@@ -1429,6 +1429,11 @@
         "expiration_date": "27-nov-2020",
         "state": "future"
     },
+    "algocashmaster.net": {
+        "epoch": 1586217600.0,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
     "allaskme.com": {
         "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
@@ -2577,6 +2582,11 @@
     "clicksotrk.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "clickspring.net": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "clicktale.com": {
@@ -7194,6 +7204,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "pussl22.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "pwwysydh.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -8522,6 +8537,11 @@
     "themacuser.org": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "themaplemethod.com": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "themecounter.com": {
