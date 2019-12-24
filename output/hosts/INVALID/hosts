@@ -17,6 +17,7 @@
 0.0.0.0 ip6-localnet
 0.0.0.0 ip6-mcastprefix
 0.0.0.0 local
+0.0.0.0 localhost.localdomain
 0.0.0.0 protection.GRpolice.com
 0.0.0.0 protection.IDpolice.com
 0.0.0.0 protection.ITpolice.net
