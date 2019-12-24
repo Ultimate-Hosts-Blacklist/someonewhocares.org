@@ -18,6 +18,7 @@
 0.0.0.0 deniserichards.1stOK.com
 0.0.0.0 ip6-allhosts
 0.0.0.0 ip6-allnodes
+0.0.0.0 ip6-allrouters
 0.0.0.0 ip6-localhost
 0.0.0.0 ip6-localnet
 0.0.0.0 ip6-mcastprefix
@@ -36,6 +37,7 @@
 0.0.0.0 protection.PRpolice.com
 0.0.0.0 protection.PTpolice.com
 0.0.0.0 protection.SCpolice.com
+0.0.0.0 protection.SIpolice.com
 0.0.0.0 protection.SKpolice.com
 0.0.0.0 protection.VIpolice.com
 0.0.0.0 sO.2mdn.net
