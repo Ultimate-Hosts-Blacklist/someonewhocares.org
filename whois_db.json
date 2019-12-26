@@ -364,6 +364,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "ad-sponsor.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "ad-srv.net": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
@@ -889,6 +894,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "adsoldier.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
     "adsonar.com": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
@@ -1002,6 +1012,11 @@
     "adtrader.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "adtrak.net": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
         "state": "future"
     },
     "adtrix.com": {
@@ -1272,6 +1287,11 @@
     "answerhub.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "antispywareexpert.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "antivirus-scanner.com": {
@@ -2489,6 +2509,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "crispads.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "croissed.info": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -3147,6 +3172,11 @@
     "figyelo-net.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "filezilla.fr": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "filmes-hd.com": {
@@ -4059,6 +4089,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "infinite-ads.com": {
+        "epoch": 1578960000.0,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
     "infopaypal.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
@@ -4762,6 +4797,11 @@
     "marketaff.com": {
         "epoch": 1723680000.0,
         "expiration_date": "15-aug-2024",
+        "state": "future"
+    },
+    "marketgid.com": {
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
         "state": "future"
     },
     "marketscore.com": {
@@ -5894,6 +5934,11 @@
         "expiration_date": "27-nov-2020",
         "state": "future"
     },
+    "popmyads.com": {
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
     "popmycash.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
@@ -6434,6 +6479,11 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "sc10.net": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
     "schedmemory.com": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
@@ -6470,9 +6520,9 @@
         "state": "future"
     },
     "searchwe.com": {
-        "epoch": 1570579200.0,
-        "expiration_date": "09-oct-2019",
-        "state": "past"
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
     },
     "secretlanguage.co": {
         "epoch": 1596153600.0,
@@ -7049,6 +7099,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "tanger.com.br": {
+        "epoch": 1768780800.0,
+        "expiration_date": "19-jan-2026",
+        "state": "future"
+    },
     "tanieaukcje.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
@@ -7067,6 +7122,11 @@
     "tcimg.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "team4heat.net": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "techasiamusicsvr.com": {
@@ -7189,6 +7249,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "themecounter.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "themusicnetwork.co.uk": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -7207,6 +7272,11 @@
     "theprofitsmaker.net": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "thetraderinpajamas.com": {
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "theuseful.net": {
@@ -7247,6 +7317,11 @@
     "todayresearch.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "tommysbookmarks.com": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "tommysbookmarks.net": {
@@ -7790,8 +7865,8 @@
         "state": "future"
     },
     "viralture.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "viralvideos.tips": {
@@ -7974,6 +8049,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "weknow.ac": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "wenda.io": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
@@ -8037,6 +8117,11 @@
     "wonderlandads.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "work-offer.com": {
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "wormgush.com": {
