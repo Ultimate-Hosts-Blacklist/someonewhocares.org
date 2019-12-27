@@ -31,6 +31,8 @@
 0.0.0.0 ip6-localnet
 0.0.0.0 ip6-loopback
 0.0.0.0 ip6-mcastprefix
+0.0.0.0 local
+0.0.0.0 localhost.localdomain
 0.0.0.0 protection.BSpolice.com
 0.0.0.0 protection.DKpolice.com
 0.0.0.0 protection.GRpolice.com
