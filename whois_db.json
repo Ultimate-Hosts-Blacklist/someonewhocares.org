@@ -1654,6 +1654,11 @@
         "expiration_date": "28-dec-2019",
         "state": "future"
     },
+    "badmactogoodmac.tech": {
+        "epoch": 1577491200.0,
+        "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
     "badults.se": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
@@ -2759,6 +2764,11 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "coreglead.co.uk": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
     "counter.cz": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -3069,6 +3079,11 @@
         "expiration_date": "10-sep-2025",
         "state": "future"
     },
+    "directleads.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "directnetadvertising.net": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -3307,6 +3322,11 @@
     "efreedom.net": {
         "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "egyazegyben.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "egyenesen.com": {
@@ -4192,6 +4212,11 @@
     "guildofangels.net": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "gwallet.com": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "hadik.info": {
@@ -5429,6 +5454,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "mediaoffers.click": {
+        "epoch": 1576281600.0,
+        "expiration_date": "14-dec-2019",
+        "state": "past"
+    },
     "mediative.ca": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -5909,6 +5939,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "nanoadexchange.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "napimigrans.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
@@ -6325,9 +6360,9 @@
         "state": "future"
     },
     "osqa.net": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
-        "state": "past"
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
     },
     "otsserver.com": {
         "epoch": 1571097600.0,
@@ -7937,6 +7972,11 @@
     "targetctracker.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "tcadops.ca": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "tcimg.com": {
