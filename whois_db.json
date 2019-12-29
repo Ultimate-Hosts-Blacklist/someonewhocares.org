@@ -979,6 +979,11 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "adserver.net": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "adserver.pl": {
         "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
@@ -1387,6 +1392,11 @@
     "ahzahg6ohb.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "ailiyou1999.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "airfrance.life": {
