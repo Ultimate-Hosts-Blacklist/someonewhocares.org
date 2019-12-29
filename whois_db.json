@@ -4304,6 +4304,11 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "haoyunlaid.com": {
+        "epoch": 1571184000.0,
+        "expiration_date": "16-oct-2019",
+        "state": "past"
+    },
     "hatter-story.info": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -7767,6 +7772,11 @@
     "special-alerts.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "specificclick.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "specificpop.com": {
