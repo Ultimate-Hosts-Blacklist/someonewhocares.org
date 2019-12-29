@@ -10,6 +10,7 @@
 0.0.0.0 ip6-allhosts
 0.0.0.0 ip6-allrouters
 0.0.0.0 ip6-localhost
+0.0.0.0 ip6-localnet
 0.0.0.0 ip6-mcastprefix
 0.0.0.0 localhost.localdomain
 0.0.0.0 protection.BSpolice.com
