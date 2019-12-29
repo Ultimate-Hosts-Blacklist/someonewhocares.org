@@ -1429,6 +1429,11 @@
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
+    "alexxe.com": {
+        "epoch": 1798848000.0,
+        "expiration_date": "02-jan-2027",
+        "state": "future"
+    },
     "algocashmaster.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
@@ -2204,6 +2209,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "buyhitscheap.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "buzzadnetwork.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
@@ -2487,6 +2497,11 @@
     "cleanmobilephone.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "clearalgorithm.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "clearonclick.com": {
@@ -3827,6 +3842,11 @@
     "freerapid.fr": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "freespinwinner.win": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "freestats.com": {
