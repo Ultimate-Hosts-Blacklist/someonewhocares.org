@@ -274,6 +274,11 @@
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
+    "7x.cc": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "7xc4n.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
@@ -415,9 +420,9 @@
         "state": "future"
     },
     "ad-gbn.com": {
-        "epoch": 1570924800.0,
-        "expiration_date": "13-oct-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "ad-indicator.com": {
         "epoch": 1588118400.0,
@@ -3589,6 +3594,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "fatcatrewards.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "fdbdo.com": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
@@ -5854,6 +5864,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "morevisits.info": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
     "motosal.net": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -6367,6 +6382,11 @@
     "offerx.co.uk": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "oix.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "oix.net": {
@@ -8465,6 +8485,11 @@
         "state": "future"
     },
     "toolbardollars.biz": {
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
+        "state": "past"
+    },
+    "toolbarmoney.biz": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
         "state": "past"
