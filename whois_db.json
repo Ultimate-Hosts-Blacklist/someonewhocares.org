@@ -2094,6 +2094,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "bowlgirl.com": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "brandsurveypanel.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -3132,6 +3137,11 @@
     "delton.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "derkeiler.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "designbloxlive.com": {
@@ -6374,6 +6384,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "ntsearch.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "nu26.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
@@ -6982,6 +6997,11 @@
     "prjcq.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "probabilidades.net": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "probusinesshub.com": {
@@ -9190,9 +9210,9 @@
         "state": "future"
     },
     "vocal-mess.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "voluumtracker.com": {
         "epoch": 1608076800.0,
