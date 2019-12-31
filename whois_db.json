@@ -655,9 +655,9 @@
         "state": "future"
     },
     "adexprt.com": {
-        "epoch": 1571097600.0,
-        "expiration_date": "15-oct-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "adexprt.me": {
         "epoch": 1607558400.0,
@@ -1227,6 +1227,11 @@
     "advancedmaccleaner.com": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "advanpromo.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "advconversion.com": {
@@ -2112,6 +2117,11 @@
     "brightroll.com": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
+    "brittlefilet.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "brokertraffic.com": {
@@ -8972,6 +8982,11 @@
     "urlcut.net": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "urldelivery.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "usswrite.com": {
