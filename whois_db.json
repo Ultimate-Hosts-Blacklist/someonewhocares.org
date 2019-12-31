@@ -2984,6 +2984,11 @@
         "expiration_date": "11-jan-2021",
         "state": "future"
     },
+    "cryptoloot.pro": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "ctnsnet.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -3113,6 +3118,11 @@
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
         "state": "future"
+    },
+    "deloitteca.com": {
+        "epoch": 1572652800.0,
+        "expiration_date": "02-nov-2019",
+        "state": "past"
     },
     "deloton.com": {
         "epoch": 1601337600.0,
@@ -3287,6 +3297,11 @@
     "downloadcdn.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "downloadplayer.xyz": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
         "state": "future"
     },
     "dpbolvw.net": {
@@ -4378,6 +4393,11 @@
         "epoch": 1571184000.0,
         "expiration_date": "16-oct-2019",
         "state": "past"
+    },
+    "hashing.win": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "hatter-story.info": {
         "epoch": 1596153600.0,
@@ -6567,6 +6587,11 @@
     "outerinfo.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "pacificnet.xyz": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "pagesense.com": {
@@ -8767,6 +8792,11 @@
     "tropiccritics.com": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "trourted.pro": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "trovi.com": {
