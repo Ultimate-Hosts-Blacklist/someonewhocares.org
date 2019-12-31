@@ -4804,6 +4804,11 @@
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
+    "irony.world": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "irs01.net": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
@@ -5144,6 +5149,11 @@
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "laptoprewardszone.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
     "lapzarta.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -5377,6 +5387,11 @@
     "lpmxp2017.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "lsassoc.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "lucklayed.info": {
@@ -8849,6 +8864,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "twoj-voucher.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "twoje-nagrody.com.pl": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -9277,6 +9297,11 @@
     "webtrekk.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "webwise.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "webwise.org": {
