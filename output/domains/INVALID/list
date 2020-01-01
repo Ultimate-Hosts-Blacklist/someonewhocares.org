@@ -22,6 +22,7 @@ ip6-allnodes
 ip6-allrouters
 ip6-loopback
 local
+localhost.localdomain
 protection.IDpolice.com
 protection.IQpolice.com
 protection.ITpolice.net
@@ -34,4 +35,5 @@ protection.PRpolice.com
 protection.SCpolice.com
 protection.SIpolice.com
 protection.SKpolice.com
+sO.2mdn.net
 unk.vver.kiae.rr
