@@ -1129,6 +1129,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "amazon-adsystem.com": {
+        "epoch": 1726444800.0,
+        "expiration_date": "16-sep-2024",
+        "state": "future"
+    },
     "anatol.com": {
         "epoch": 1752019200.0,
         "expiration_date": "09-jul-2025",
@@ -2102,6 +2107,11 @@
     "compufixshop.com": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "computertechanalysis.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "computerxchange.com": {
@@ -3894,6 +3904,11 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "khlgauqt2000.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "kids-in-sandbox.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -4769,6 +4784,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "nedstat.com": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "needadvertising.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -5317,6 +5337,11 @@
     "portalenviroment.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "postmasterbannernet.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "postmasterdirect.com": {
