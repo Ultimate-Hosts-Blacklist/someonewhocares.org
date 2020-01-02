@@ -2614,6 +2614,11 @@
         "expiration_date": "16-jun-2021",
         "state": "future"
     },
+    "dontwatch.us": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "doors.co.kr": {
         "epoch": 1582934400.0,
         "expiration_date": "29-feb-2020",
@@ -5622,6 +5627,11 @@
     "probusinesshub.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "productresearchpanel.com": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "profitboosterapp.com": {
