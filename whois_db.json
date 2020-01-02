@@ -664,6 +664,11 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "adquest3d.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "adrazzi.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -2174,6 +2179,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "computer-offer.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "computertechanalysis.com": {
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
@@ -2427,6 +2437,11 @@
     "dbios.org": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "dctracking.com": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "dearerfonder.info": {
@@ -3272,6 +3287,11 @@
     "geocounter.net": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "getacool100.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "getacool500.com": {
@@ -5168,6 +5188,11 @@
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
         "state": "future"
+    },
+    "otsserver.com": {
+        "epoch": 1571097600.0,
+        "expiration_date": "15-oct-2019",
+        "state": "past"
     },
     "paclitor.com": {
         "epoch": 1609372800.0,
