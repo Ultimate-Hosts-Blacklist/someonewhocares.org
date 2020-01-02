@@ -3849,6 +3849,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "indiads.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "indisancal.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
@@ -3927,6 +3932,11 @@
     "iplogger.org": {
         "epoch": 1648944000.0,
         "expiration_date": "03-apr-2022",
+        "state": "future"
+    },
+    "irs01.net": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "istartsurf.com": {
@@ -4172,6 +4182,11 @@
     "kuhdi.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "lamiflor.xyz": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "lank.ru": {
