@@ -2359,6 +2359,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "cashcapitalsystem.com": {
+        "epoch": 1579910400.0,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "cashcount.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
