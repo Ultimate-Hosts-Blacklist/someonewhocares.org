@@ -2074,6 +2074,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "bonzi.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
+    },
     "bookpdf.services": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -7814,6 +7819,11 @@
         "expiration_date": "25-aug-2020",
         "state": "future"
     },
+    "smarttargetting.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "smichovbike.cz": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -8722,6 +8732,11 @@
     "traktum.com": {
         "epoch": 1831766400.0,
         "expiration_date": "18-jan-2028",
+        "state": "future"
+    },
+    "traveladvertising.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "trcko.com": {
