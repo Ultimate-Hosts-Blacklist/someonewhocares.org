@@ -849,6 +849,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "adpowerzone.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "adrazzi.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -2184,6 +2189,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "buyhitscheap.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "buzzadnetwork.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
@@ -2457,6 +2467,11 @@
     "clearonclick.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "clhctrk.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "click10.com": {
@@ -4649,6 +4664,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "industry-deals.com": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "infinite-ads.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
@@ -5314,6 +5334,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "m2trk.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "maaxmarket.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
@@ -5827,6 +5852,11 @@
     "mulato.info": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "murdoog.com": {
+        "epoch": 1585353600.0,
+        "expiration_date": "28-mar-2020",
         "state": "future"
     },
     "music611.com": {
