@@ -27,6 +27,7 @@ ip6-mcastprefix
 local
 localhost.localdomain
 protection.BSpolice.com
+protection.IDpolice.com
 protection.IQpolice.com
 protection.KPpolice.com
 protection.LApolice.com
@@ -37,4 +38,6 @@ protection.PKpolice.com
 protection.PRpolice.com
 protection.SIpolice.com
 protection.SKpolice.com
+protection.VIpolice.com
+sO.2mdn.net
 unk.vver.kiae.rr
