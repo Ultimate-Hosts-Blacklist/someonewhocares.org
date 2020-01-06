@@ -404,6 +404,11 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "ad-balancer.net": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "ad-center.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
@@ -4889,6 +4894,11 @@
         "expiration_date": "29-nov-2022",
         "state": "future"
     },
+    "japanese-girl-xxx.com": {
+        "epoch": 1571788800.0,
+        "expiration_date": "23-oct-2019",
+        "state": "past"
+    },
     "japscat.org": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
@@ -8842,6 +8852,11 @@
     "tudnodkell.info": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "tuigang1999.com": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "tuniaf.com": {
