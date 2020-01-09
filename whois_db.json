@@ -1289,6 +1289,11 @@
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
+    "advertlets.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "advertpro.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
@@ -5544,6 +5549,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "mailforfreedom.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "mailtrack.me": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -8509,6 +8519,11 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "tidebuy.com": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "tiku.io": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -9159,6 +9174,11 @@
         "expiration_date": "10-mar-2021",
         "state": "future"
     },
+    "vidnline.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "vidroll.ru": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -9482,6 +9502,11 @@
     "wormgush.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "wowanalytics.co.uk": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "wp-club.net": {
