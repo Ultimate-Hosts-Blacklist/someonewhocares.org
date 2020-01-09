@@ -1925,8 +1925,8 @@
         "state": "future"
     },
     "bhclicks.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "bhyuu.com": {
@@ -2412,6 +2412,11 @@
     "ccudl.com": {
         "epoch": 1611014400.0,
         "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "cecash.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "celebwelove.com": {
@@ -3082,6 +3087,11 @@
     "dailynewstonight.com": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "darakht.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "darmowe-liczniki.info": {
@@ -4224,6 +4234,11 @@
         "expiration_date": "22-oct-2019",
         "state": "past"
     },
+    "gigaonclick.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "gingert.net": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
@@ -4937,6 +4952,11 @@
     "jarsquatter.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "jdownloader.fr": {
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "jellycounter.com": {
@@ -5834,6 +5854,11 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "minr.pw": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "mizvan.com": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
@@ -6617,6 +6642,11 @@
     "outerinfo.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "pacificnet.xyz": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "pagesense.com": {
