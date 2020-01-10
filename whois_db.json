@@ -5575,8 +5575,8 @@
         "state": "future"
     },
     "magyarnep.me": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "magyarokrol.com": {
@@ -7212,6 +7212,11 @@
     "push-ad.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "push-notification.tools": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "pushno.com": {
