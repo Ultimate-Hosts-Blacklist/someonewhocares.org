@@ -839,6 +839,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "adtaily.pl": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "adtech.com": {
         "epoch": 1627257600.0,
         "expiration_date": "26-jul-2021",
@@ -2002,6 +2007,11 @@
     "conduit.com": {
         "epoch": 1745193600.0,
         "expiration_date": "21-apr-2025",
+        "state": "future"
+    },
+    "constintptr.com": {
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "contextad.pl": {
@@ -3263,6 +3273,11 @@
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
         "state": "future"
+    },
+    "index-blog.net": {
+        "epoch": 1574121600.0,
+        "expiration_date": "19-nov-2019",
+        "state": "past"
     },
     "indexerflash.com": {
         "epoch": 1613088000.0,
@@ -4759,6 +4774,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "pcnetworkreliablecloudservices.online": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
     "perfectgirls.net": {
         "epoch": 1821312000.0,
         "expiration_date": "19-sep-2027",
@@ -6217,6 +6237,11 @@
     "traktum.com": {
         "epoch": 1831766400.0,
         "expiration_date": "18-jan-2028",
+        "state": "future"
+    },
+    "traveladvertising.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "treasuredata.com": {
