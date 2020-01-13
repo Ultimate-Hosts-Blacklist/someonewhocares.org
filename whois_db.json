@@ -1034,6 +1034,11 @@
         "expiration_date": "09-jan-2021",
         "state": "future"
     },
+    "ailiyou1999.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "airfrance.life": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -1077,6 +1082,11 @@
     "alocdn.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "alxsite.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "amazon-adsystem.com": {
@@ -1797,6 +1807,11 @@
     "clevernt.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "clhctrk.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "click10.com": {
@@ -5014,6 +5029,11 @@
         "expiration_date": "08-nov-2020",
         "state": "future"
     },
+    "pttsite.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
     "purryowl.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -5333,6 +5353,11 @@
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
         "state": "future"
+    },
+    "secretosx.com": {
+        "epoch": 1574208000.0,
+        "expiration_date": "20-nov-2019",
+        "state": "past"
     },
     "securerr.com": {
         "epoch": 1587427200.0,
@@ -6704,6 +6729,11 @@
         "expiration_date": "05-aug-2020",
         "state": "future"
     },
+    "xl-trk.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "xmlheads.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -6777,6 +6807,11 @@
     "yourfuckbook.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "yourgascards.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "yourgiftrewards.com": {
