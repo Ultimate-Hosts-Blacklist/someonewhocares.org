@@ -25,9 +25,11 @@ ip6-loopback
 ip6-mcastprefix
 local
 localhost.localdomain
+protection.BSpolice.com
 protection.DKpolice.com
 protection.GRpolice.com
 protection.ITpolice.net
+protection.KPpolice.com
 protection.MCpolice.com
 protection.MSpolice.net
 protection.NApolice.net
@@ -37,4 +39,5 @@ protection.PRpolice.com
 protection.PTpolice.com
 protection.SKpolice.com
 protection.TKpolice.com
+protection.VIpolice.com
 unk.vver.kiae.rr
