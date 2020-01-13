@@ -1504,6 +1504,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "bonzi.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
+    },
     "bookpdf.services": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -1612,6 +1617,11 @@
     "buycheapadvertising.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "buyhitscheap.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "buzzadnetwork.com": {
@@ -1917,6 +1927,11 @@
     "cltrkr.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "cnhv.co": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "cobalten.com": {
@@ -3137,6 +3152,11 @@
     "hitboxcentral.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "hitstats.co.uk": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
         "state": "future"
     },
     "hlcc.ca": {
