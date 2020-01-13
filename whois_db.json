@@ -804,6 +804,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "adsrevenue.net": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "adsrv.me": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
@@ -977,6 +982,11 @@
     "advplace.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "advserver.xyz": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "advzilla.com": {
@@ -1592,6 +1602,11 @@
     "brittlefilet.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "brokertraffic.com": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "browsergames2018.com": {
@@ -2927,6 +2942,11 @@
     "gatoradvertisinginformationnetwork.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "gejroom.net": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "gem.pl": {
@@ -5349,6 +5369,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "redsheriff.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "registrarads.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
@@ -6324,9 +6349,19 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "toptypeonlinetheclicks.icu": {
+        "epoch": 1572307200.0,
+        "expiration_date": "29-oct-2019",
+        "state": "past"
+    },
     "torjackan.info": {
         "epoch": 1627257600.0,
         "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
+    "tororango.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "tqlkg.com": {
