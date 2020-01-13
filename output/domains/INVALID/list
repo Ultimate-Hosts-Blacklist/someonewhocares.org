@@ -17,6 +17,7 @@ ip6-allnodes
 ip6-allrouters
 ip6-localnet
 ip6-loopback
+local
 localhost.localdomain
 protection.GRpolice.com
 protection.ITpolice.net
