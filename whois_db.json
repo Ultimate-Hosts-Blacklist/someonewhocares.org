@@ -1074,6 +1074,11 @@
         "expiration_date": "07-jan-2021",
         "state": "future"
     },
+    "ako.cc": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "aktiv-hirek.net": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
@@ -1919,6 +1924,11 @@
         "expiration_date": "17-jul-2027",
         "state": "future"
     },
+    "clicksor.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "clicktale.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -2439,6 +2449,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "earthwax.top": {
+        "epoch": 1576713600.0,
+        "expiration_date": "19-dec-2019",
+        "state": "past"
+    },
     "easy-web-stats.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
@@ -2644,6 +2659,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "fervortracer.com": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
     "ffxitrack.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
@@ -2754,9 +2774,19 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "freenation.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "freerapid.fr": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "freespinwinner.win": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "freewebcards.com": {
@@ -2872,6 +2902,11 @@
     "gamesrotator.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "gar-tech.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "gatoradvertisinginformationnetwork.com": {
@@ -3549,6 +3584,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "khlgauqt2000.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "kidsinsandbox.info": {
         "epoch": 1627344000.0,
         "expiration_date": "27-jul-2021",
@@ -3874,6 +3914,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "m2trk.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "maaxmarket.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
@@ -4102,6 +4147,11 @@
     "meteon.org": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "methodcasino2015.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "methode-binaire.com": {
@@ -5139,6 +5189,11 @@
         "expiration_date": "08-nov-2020",
         "state": "future"
     },
+    "pt21na.com": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "pttsite.com": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
@@ -6047,6 +6102,11 @@
     "techques.com": {
         "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
+    "teeser.ru": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "telecharger-openoffice.fr": {
