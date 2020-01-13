@@ -1779,6 +1779,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "click10.com": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "click4click.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -4084,6 +4089,11 @@
         "expiration_date": "26-sep-2021",
         "state": "future"
     },
+    "mttwtrack.com": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "mtvnlatservices.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
@@ -4684,6 +4694,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "pfhsystem.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
     "phorm.co.uk": {
         "epoch": 1623801600.0,
         "expiration_date": "16-jun-2021",
@@ -5074,6 +5089,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "redonetype.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "redshell.io": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
@@ -5227,6 +5247,11 @@
     "sagent.io": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "sanalreklam.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "sc10.net": {
