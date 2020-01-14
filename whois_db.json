@@ -2819,6 +2819,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "freefoodprovider.com": {
+        "epoch": 1590969600.0,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
     "freefoodsource.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
@@ -2942,6 +2947,11 @@
     "funtabsafe.com": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "fusionbanners.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "fuuze.net": {
