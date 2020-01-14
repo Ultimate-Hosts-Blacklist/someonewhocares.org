@@ -59,6 +59,11 @@
         "expiration_date": "31-may-2021",
         "state": "future"
     },
+    "1kdailyprofit.biz": {
+        "epoch": 1573344000.0,
+        "expiration_date": "10-nov-2019",
+        "state": "past"
+    },
     "1man2needles.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
@@ -2089,6 +2094,11 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "computertechanalysis.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
     "comsss-56.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
@@ -2537,6 +2547,11 @@
     "ecoencomputer.com": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "edchargina.pro": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "eelsoup.net": {
@@ -5439,6 +5454,11 @@
         "expiration_date": "26-dec-2020",
         "state": "future"
     },
+    "resolvingserver.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "revsci.net": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
@@ -5573,6 +5593,11 @@
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
         "state": "future"
+    },
+    "screen-mates.com": {
+        "epoch": 1575072000.0,
+        "expiration_date": "30-nov-2019",
+        "state": "past"
     },
     "scrollbelow.com": {
         "epoch": 1595808000.0,
@@ -7222,6 +7247,11 @@
     "zoominnovate.online": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "zsisk.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "ztrf.net": {
