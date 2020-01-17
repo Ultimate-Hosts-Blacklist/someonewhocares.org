@@ -2689,6 +2689,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "cltrkr.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "clubwinnerz.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -2867,6 +2872,11 @@
     "convertro.com": {
         "epoch": 1707436800.0,
         "expiration_date": "09-feb-2024",
+        "state": "future"
+    },
+    "coolsavings.com": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "coordino.com": {
@@ -4122,6 +4132,11 @@
     "get-answers-fast.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "getacool100.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "getacool500.com": {
