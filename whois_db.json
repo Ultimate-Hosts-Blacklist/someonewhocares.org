@@ -599,6 +599,11 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "addthiscdn.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
     "addtoany.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
