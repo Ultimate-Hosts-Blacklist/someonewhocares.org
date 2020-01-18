@@ -259,6 +259,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "7adpower.com": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "7bpeople.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
@@ -1340,8 +1345,8 @@
         "state": "future"
     },
     "affiliatesuccess.net": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "affiliation-france.com": {
@@ -1557,6 +1562,11 @@
     "appdatum.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "appfixing.space": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "applelounge.com": {
@@ -8459,6 +8469,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "the-adblocker.website": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
     "the-binary-options-guide.com": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
@@ -8999,6 +9014,11 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "twoj-bon.pl": {
+        "epoch": 1600560000.0,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
     "twoj-typ.pl": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -9282,6 +9302,11 @@
     "vocal-mess.com": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "voluumtracker.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "voluumtrk.com": {
@@ -9772,6 +9797,11 @@
     "zabavazaodrasle.com": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "zapcdn.space": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "zemgo.com": {
