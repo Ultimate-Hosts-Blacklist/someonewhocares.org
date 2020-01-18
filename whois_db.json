@@ -1824,6 +1824,11 @@
         "expiration_date": "13-apr-2017",
         "state": "past"
     },
+    "be4life.ru": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
     "belierlaine.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
@@ -6844,6 +6849,11 @@
         "expiration_date": "14-jan-2021",
         "state": "future"
     },
+    "pituitosus.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "pixel.watch": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -7712,6 +7722,11 @@
     "shafou.com": {
         "epoch": 1762300800.0,
         "expiration_date": "05-nov-2025",
+        "state": "future"
+    },
+    "shapado.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "share-server.com": {
