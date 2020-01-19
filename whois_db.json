@@ -359,6 +359,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "abruzzoinitaly.co.uk": {
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
+        "state": "future"
+    },
     "acglgoa.com": {
         "epoch": 1855440000.0,
         "expiration_date": "18-oct-2028",
@@ -1867,6 +1872,11 @@
     "best-iphone6s.com": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "best2017games.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "best2019-games-web1.com": {
