@@ -734,6 +734,11 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "adloader.com": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
     "adlogix.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
@@ -807,6 +812,11 @@
     "adnxs.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "adobee.com": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "adobur.com": {
@@ -2424,6 +2434,11 @@
         "expiration_date": "28-jan-2021",
         "state": "future"
     },
+    "cellphoneincentives.com": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "center-message-mobile.com": {
         "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
@@ -3889,6 +3904,11 @@
         "expiration_date": "19-jan-2021",
         "state": "future"
     },
+    "freedailydownload.com": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
     "freefoodprovider.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
@@ -4897,6 +4917,11 @@
     "invitefashion.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
+    "iovation.co.uk": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "iovation.com": {
@@ -6352,6 +6377,11 @@
     "networkad.net": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "networkads.net": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "newbritmoneymethod.com": {
@@ -8567,6 +8597,11 @@
     "theexgirlfriends.com": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "thehomo.org": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "themacuser.org": {
