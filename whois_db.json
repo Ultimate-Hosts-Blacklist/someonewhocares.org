@@ -2994,6 +2994,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "counterbot.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "countercrazy.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
@@ -7157,6 +7162,11 @@
     "popec.net": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "popmyads.com": {
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
         "state": "future"
     },
     "popmycash.com": {
