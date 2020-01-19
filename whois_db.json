@@ -3619,6 +3619,11 @@
         "expiration_date": "15-dec-2020",
         "state": "future"
     },
+    "extreme-dm.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "extremereach.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -5059,6 +5064,11 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "jivox.com": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "jiztini.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -6388,6 +6398,11 @@
         "epoch": 1636675200.0,
         "expiration_date": "12-nov-2021",
         "state": "future"
+    },
+    "net-secure-update.icu": {
+        "epoch": 1575417600.0,
+        "expiration_date": "04-dec-2019",
+        "state": "past"
     },
     "netadclick.com": {
         "epoch": 1606176000.0,
