@@ -2359,6 +2359,11 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "canuckmethods.com": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "capath.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
