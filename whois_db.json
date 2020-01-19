@@ -3234,6 +3234,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "dbios.org": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "dctracking.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
@@ -9657,7 +9662,7 @@
     "vtoyshop.com": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "w3facility.org": {
         "epoch": 1606348800.0,
