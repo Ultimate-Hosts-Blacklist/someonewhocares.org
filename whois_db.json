@@ -719,6 +719,11 @@
         "expiration_date": "18-dec-2020",
         "state": "future"
     },
+    "adireland.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "adition.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
@@ -1065,9 +1070,9 @@
         "state": "future"
     },
     "adsoftware.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "adsoldier.com": {
         "epoch": 1581811200.0,
@@ -6264,6 +6269,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "myprivateemails.com": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
     "mysagagame.com": {
         "epoch": 1676937600.0,
         "expiration_date": "21-feb-2023",
@@ -6752,6 +6762,11 @@
     "oplaca-sie.pl": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "oralse.cx": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "ordersildenafil.com": {
