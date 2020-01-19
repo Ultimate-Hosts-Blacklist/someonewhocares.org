@@ -1034,6 +1034,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "adservtech.com": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "state": "future"
+    },
     "adsfac.net": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
@@ -2387,6 +2392,11 @@
     "caramail.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "carambo.la": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "cardgamespidersolitaire.com": {
@@ -8832,6 +8842,11 @@
     "thirtydaychange.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "thruport.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "tidebuy.com": {
