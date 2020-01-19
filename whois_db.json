@@ -734,6 +734,11 @@
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
+    "adjug.com": {
+        "epoch": 1723593600.0,
+        "expiration_date": "14-aug-2024",
+        "state": "future"
+    },
     "adjuggler.net": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
@@ -2495,8 +2500,8 @@
         "state": "future"
     },
     "charmstroy.info": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "chartbeat.com": {
@@ -4965,8 +4970,8 @@
         "state": "future"
     },
     "installmac.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1642377600.0,
+        "expiration_date": "17-jan-2022",
         "state": "future"
     },
     "intela.com": {
@@ -5002,6 +5007,11 @@
     "iovation.com": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "iplogger.org": {
+        "epoch": 1648944000.0,
+        "expiration_date": "03-apr-2022",
         "state": "future"
     },
     "irony.world": {
@@ -9364,6 +9374,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "updateplayer-flash.icu": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "upgradebasic.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
@@ -9617,6 +9632,11 @@
     "wahoha.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "wait3sec.org": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "waldenfarms.com": {
