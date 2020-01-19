@@ -1679,6 +1679,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "assoc-amazon.com": {
+        "epoch": 1721088000.0,
+        "expiration_date": "16-jul-2024",
+        "state": "future"
+    },
     "atdmt.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -2072,6 +2077,11 @@
     "bizographics.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "bjhdrx.com": {
+        "epoch": 1596499200.0,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "bkrtx.com": {
@@ -8262,7 +8272,7 @@
     "sophang8.com": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sourmath.com": {
         "epoch": 1588464000.0,
@@ -9337,6 +9347,11 @@
     "u85foldero.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "udarem.com": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "ufpcdn.com": {
