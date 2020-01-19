@@ -8179,6 +8179,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "slimspots.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
+        "state": "future"
+    },
     "slowmacfaster.trade": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -9562,6 +9567,11 @@
     "veirregnant.club": {
         "epoch": 1628467200.0,
         "expiration_date": "09-aug-2021",
+        "state": "future"
+    },
+    "velocecdn.com": {
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "state": "future"
     },
     "venturead.com": {
