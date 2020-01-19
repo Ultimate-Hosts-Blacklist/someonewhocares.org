@@ -2434,6 +2434,11 @@
         "expiration_date": "18-mar-2022",
         "state": "future"
     },
+    "cc-dt.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "ccleaner.fr": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
@@ -7844,6 +7849,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "securitas232maximus.xyz": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
     "security60-e.com": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
@@ -9615,8 +9625,8 @@
         "state": "future"
     },
     "wearewolves-records.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "web-stat.com": {
