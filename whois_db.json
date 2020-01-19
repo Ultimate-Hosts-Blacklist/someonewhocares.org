@@ -244,6 +244,11 @@
         "expiration_date": "01-jun-2021",
         "state": "future"
     },
+    "4th3d48.com": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
     "5thavenue.com": {
         "epoch": 1841184000.0,
         "expiration_date": "06-may-2028",
@@ -2057,6 +2062,11 @@
     "bluescreenalert.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "bluestreak.com": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "bluewaffle.biz": {
@@ -4914,6 +4924,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "istockbargains.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "iswwwup.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
@@ -6727,6 +6742,11 @@
     "painolympics.info": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "painolympics.org": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "paintnet.fr": {
