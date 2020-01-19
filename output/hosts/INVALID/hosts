@@ -20,6 +20,7 @@
 0.0.0.0 ip6-allnodes
 0.0.0.0 ip6-allrouters
 0.0.0.0 ip6-localhost
+0.0.0.0 ip6-localnet
 0.0.0.0 ip6-mcastprefix
 0.0.0.0 protection.GRpolice.com
 0.0.0.0 protection.IDpolice.com
