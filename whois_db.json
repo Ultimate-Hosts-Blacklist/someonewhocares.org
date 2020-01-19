@@ -2909,6 +2909,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "counter.cz": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "counter4all.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -4234,9 +4239,19 @@
         "expiration_date": "17-nov-2020",
         "state": "future"
     },
+    "goat.cx": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "goatse.ca": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "goatse.cx": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "goatse.ru": {
@@ -7974,6 +7989,11 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "softonic.com": {
+        "epoch": 1864252800.0,
+        "expiration_date": "28-jan-2029",
+        "state": "future"
+    },
     "softonic.it": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -9485,8 +9505,8 @@
         "state": "future"
     },
     "wenda.io": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "wewillrocknow.com": {
