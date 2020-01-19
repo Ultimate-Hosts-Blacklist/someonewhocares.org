@@ -8054,6 +8054,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "slowmacfaster.trade": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "smart-scripts.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
@@ -8892,6 +8897,11 @@
     "topreward.site": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "topshape.me": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "topstats.com": {
@@ -9782,6 +9792,11 @@
     "wtp101.com": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "wwnc.xyz": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "wytypowany-zwyciezca.com": {
