@@ -149,6 +149,11 @@
         "expiration_date": "27-jul-2021",
         "state": "future"
     },
+    "2girls1finger.com": {
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "state": "future"
+    },
     "2girls1finger.org": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -489,6 +494,11 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "ad.net": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "ad2.pl": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
@@ -650,6 +660,11 @@
         "state": "future"
     },
     "adexchangegate.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "adexchangeprediction.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
         "state": "future"
@@ -8332,6 +8347,11 @@
     "speedboink.com": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "speedcurve.com": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "state": "future"
     },
     "speedtestbeta.com": {
