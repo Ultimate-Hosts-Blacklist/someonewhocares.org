@@ -6634,6 +6634,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "nofreezingmac.space": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
     "nofreezingmac.work": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
