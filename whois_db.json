@@ -334,6 +334,11 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "a7cleaner.com": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
     "a98spolicies.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
@@ -5189,6 +5194,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "justdating.online": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "juste.ru": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -8345,9 +8355,9 @@
         "state": "future"
     },
     "sophang8.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "sourmath.com": {
         "epoch": 1588464000.0,
