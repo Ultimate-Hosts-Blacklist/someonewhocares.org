@@ -5684,6 +5684,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "lpmxp2025.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
     "lsassoc.com": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
