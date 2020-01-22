@@ -1695,8 +1695,8 @@
 0.0.0.0 a.mktw.net
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
-0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams1.ib.adnxs.com
+0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 analysis.fc2.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.onesearch.id
@@ -1828,6 +1828,7 @@
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
 0.0.0.0 applelounge.com
 0.0.0.0 appliedsemantics.com
+0.0.0.0 applyfix.tech
 0.0.0.0 app-measurement.com
 0.0.0.0 app.monetizze.com.br
 0.0.0.0 appnexus.com
@@ -2553,6 +2554,7 @@
 0.0.0.0 clearonclick.com
 0.0.0.0 clevernt.com
 0.0.0.0 clhctrk.com
+0.0.0.0 click10.com
 0.0.0.0 click4click.com
 0.0.0.0 click.a-ads.com
 0.0.0.0 clickad.eo.pl
@@ -2684,13 +2686,13 @@
 0.0.0.0 codeotel.com
 0.0.0.0 coderexception.com
 0.0.0.0 code.vihub.ru
-0.0.0.0 coinad.com
 0.0.0.0 coin-ad.com
+0.0.0.0 coinad.com
 0.0.0.0 coinerra.com
 0.0.0.0 coin-have.com
 0.0.0.0 coinhits.com
-0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
+0.0.0.0 coinhive.com
 0.0.0.0 coinimp.com
 0.0.0.0 coinurl.com
 0.0.0.0 coinverti.com
@@ -4701,6 +4703,7 @@
 0.0.0.0 lpmxp2014.com
 0.0.0.0 lpmxp2017.com
 0.0.0.0 lpmxp2021.com
+0.0.0.0 lpmxp2024.com
 0.0.0.0 lpmxp2025.com
 0.0.0.0 lp.sexyadults.eu
 0.0.0.0 l.qq.com
@@ -5011,10 +5014,10 @@
 0.0.0.0 milkfountain.com
 0.0.0.0 milyondolar.com
 0.0.0.0 mindenegybenblog.hu
-0.0.0.0 mindenegybenblog.net
 0.0.0.0 mindenegyben-blog.net
-0.0.0.0 minden-egyben.com
+0.0.0.0 mindenegybenblog.net
 0.0.0.0 mindenegyben.com
+0.0.0.0 minden-egyben.com
 0.0.0.0 minemytraffic.com
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
@@ -5226,6 +5229,7 @@
 0.0.0.0 net-radar.com
 0.0.0.0 netrp.112.2o7.net
 0.0.0.0 netsdartboards.122.2o7.net
+0.0.0.0 net-secure-update.icu
 0.0.0.0 netshelter.adtrix.com
 0.0.0.0 netspiderads2.indiatimes.com
 0.0.0.0 netsponsors.com
@@ -7079,6 +7083,7 @@
 0.0.0.0 topmeds10.com
 0.0.0.0 top.oewabox.at
 0.0.0.0 top.pcanywhere.net
+0.0.0.0 topreward.site
 0.0.0.0 topshape.me
 0.0.0.0 topstats.com
 0.0.0.0 torjackan.info
@@ -7458,8 +7463,8 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utenti.lycos.it
 0.0.0.0 utility.baidu.com
-0.0.0.0 utils.media-general.com
 0.0.0.0 utils.mediageneral.com
+0.0.0.0 utils.media-general.com
 0.0.0.0 u.videoamp.com
 0.0.0.0 uvimage.56.com
 0.0.0.0 uwz.oewabox.at
@@ -7729,8 +7734,8 @@
 0.0.0.0 webserv.mos.ru
 0.0.0.0 websitepromoten.be
 0.0.0.0 websponsors.com
-0.0.0.0 webstat.com
 0.0.0.0 web-stat.com
+0.0.0.0 webstat.com
 0.0.0.0 webstats1.com
 0.0.0.0 webtrekk.net
 0.0.0.0 webtrends.thisis.co.uk
@@ -8404,8 +8409,8 @@
 0.0.0.0 www.classicjack.com
 0.0.0.0 www.cleanchain.net
 0.0.0.0 www.cleaningformac.com
-0.0.0.0 www.cleanmobilephone.com
 0.0.0.0 www.clean-mobilephone.com
+0.0.0.0 www.cleanmobilephone.com
 0.0.0.0 www.clearonclick.com
 0.0.0.0 www.clevernt.com
 0.0.0.0 www.click4click.com
@@ -8684,8 +8689,8 @@
 0.0.0.0 www.freshmac.space
 0.0.0.0 www.friend-card.com
 0.0.0.0 www.friend-greeting.com
-0.0.0.0 www.friendgreetings.com
 0.0.0.0 www.friend-greetings.com
+0.0.0.0 www.friendgreetings.com
 0.0.0.0 www.friendgreetings.net
 0.0.0.0 www.friendlyduck.com
 0.0.0.0 www.froling.bee.pl
@@ -8980,6 +8985,7 @@
 0.0.0.0 www.lpmxp2014.com
 0.0.0.0 www.lpmxp2017.com
 0.0.0.0 www.lpmxp2021.com
+0.0.0.0 www.lpmxp2024.com
 0.0.0.0 www.lpmxp2025.com
 0.0.0.0 www.lsassoc.com
 0.0.0.0 www.lucky-day-uk.com
@@ -9113,8 +9119,8 @@
 0.0.0.0 www.myprivateemails.com
 0.0.0.0 www.mysagagame.com
 0.0.0.0 www.myseostats.com
-0.0.0.0 www.my-stats.com
 0.0.0.0 www.mystats.com
+0.0.0.0 www.my-stats.com
 0.0.0.0 www.mytimerpro.com
 0.0.0.0 www.myuitm.com
 0.0.0.0 www.my-uq.com
@@ -9745,8 +9751,8 @@
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.websitepromoten.be
 0.0.0.0 www.websponsors.com
-0.0.0.0 www.webstat.com
 0.0.0.0 www.web-stat.com
+0.0.0.0 www.webstat.com
 0.0.0.0 www.webstats1.com
 0.0.0.0 www.webtrekk.net
 0.0.0.0 www.webwise.net
