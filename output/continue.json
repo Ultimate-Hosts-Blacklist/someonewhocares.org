@@ -16862,7 +16862,15 @@
         "www.carrier.bz",
         "carrier.bz",
         "ad.espn.starwave.com",
-        "ads.ak.facebook.com"
+        "ads.ak.facebook.com",
+        "gd14.doubleclick.net",
+        "te.mgnetwork.com",
+        "carisoprodol.1.p2l.info",
+        "ads.savannahnow.com",
+        "gd13.doubleclick.net",
+        "divx.adbureau.net",
+        "metric.10best.com",
+        "jgen20.cjt1.net"
     ],
     "INVALID": [
         "ip6-allnodes",
@@ -16920,6 +16928,7 @@
         "protection.NApolice.net",
         "demimoorenude.1stOK.com",
         "ip6-loopback",
-        "ip6-localnet"
+        "ip6-localnet",
+        "protection.GRpolice.com"
     ]
 }
