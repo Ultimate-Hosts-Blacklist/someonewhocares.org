@@ -5779,6 +5779,11 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "macleaner.space": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "macpurifier.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
