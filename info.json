@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 220,
+            "invalid": 3,
+            "tested": 490,
+            "up": 267
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Thu Jan 30 08:54:29 2020",
     "end_epoch": 1580374469.0742,
-    "last_autosave_datetime": "Thu Jan 30 08:30:24 2020",
-    "last_autosave_epoch": 1580373024.145781,
+    "last_autosave_datetime": "Fri Jan 31 19:36:34 2020",
+    "last_autosave_epoch": 1580499394.426441,
     "name": "someonewhocares.org",
     "previous_stats": {
         "builds": 94,
@@ -20,6 +29,6 @@
         "whitelisted.list": 9962
     },
     "raw_link": "http://someonewhocares.org/hosts/zero/hosts",
-    "start_datetime": "Mon Jan 20 10:42:41 2020",
-    "start_epoch": 1579516961.689096
+    "start_datetime": "Fri Jan 31 19:26:34 2020",
+    "start_epoch": 1580498794.137554
 }
