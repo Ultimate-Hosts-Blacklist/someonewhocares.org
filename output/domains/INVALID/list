@@ -27,6 +27,7 @@ ip6-localhost
 ip6-localnet
 ip6-loopback
 ip6-mcastprefix
+local
 localhost.localdomain
 protection.DKpolice.com
 protection.IDpolice.com
@@ -36,6 +37,7 @@ protection.KPpolice.com
 protection.MCpolice.com
 protection.MSpolice.net
 protection.PFpolice.com
+protection.PGpolice.com
 protection.PKpolice.com
 protection.PRpolice.com
 protection.PTpolice.com
