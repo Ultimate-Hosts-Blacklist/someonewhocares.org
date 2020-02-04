@@ -1834,6 +1834,11 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "insightfirst.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "intelliads.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
@@ -2547,6 +2552,11 @@
     "paypopup.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "pc-virus-d0l92j2.pw": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "pcads.ru": {
