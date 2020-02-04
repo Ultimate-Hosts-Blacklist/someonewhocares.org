@@ -249,6 +249,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "adexprt.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "adexprt.me": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -807,6 +812,11 @@
     "buzzadnetwork.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "cablyshaw.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "canuckmethods.com": {
@@ -2102,6 +2112,11 @@
     "lucklayed.info": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "m2trk.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "macads.net": {
@@ -3577,6 +3592,11 @@
     "viagra-home.com": {
         "epoch": 1609113600.0,
         "expiration_date": "28-dec-2020",
+        "state": "future"
+    },
+    "victory1999.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "video-bazis.com": {
