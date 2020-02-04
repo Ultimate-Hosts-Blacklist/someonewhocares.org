@@ -439,6 +439,11 @@
         "expiration_date": "16-feb-2021",
         "state": "future"
     },
+    "adsonar.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "adspirit.net": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
@@ -2062,6 +2067,11 @@
     "letssearch.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "lingintirejohny.club": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "link4win.net": {
