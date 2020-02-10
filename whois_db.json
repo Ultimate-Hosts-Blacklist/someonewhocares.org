@@ -399,6 +399,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "activeindexer.com": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "ad-balancer.net": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
@@ -2977,6 +2982,11 @@
     "convertro.com": {
         "epoch": 1707436800.0,
         "expiration_date": "09-feb-2024",
+        "state": "future"
+    },
+    "coolsavings.com": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "coordino.com": {
@@ -7419,6 +7429,11 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "pubpress.net": {
+        "epoch": 1643846400.0,
+        "expiration_date": "03-feb-2022",
+        "state": "future"
+    },
     "punishtube.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
@@ -8509,6 +8524,11 @@
         "expiration_date": "10-sep-2022",
         "state": "future"
     },
+    "superstats.com": {
+        "epoch": 1664928000.0,
+        "expiration_date": "05-oct-2022",
+        "state": "future"
+    },
     "support-ip.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
@@ -8542,6 +8562,11 @@
     "swfhostltd.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "swinon.site": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "syncaccess.net": {
