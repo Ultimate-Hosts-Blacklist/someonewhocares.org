@@ -1644,6 +1644,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "apps-cloud.xyz": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "arabtechmessenger.net": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
