@@ -1417,7 +1417,7 @@
     "affpartners.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "affpool.com": {
         "epoch": 1589846400.0,
@@ -8149,6 +8149,11 @@
         "expiration_date": "29-may-2020",
         "state": "future"
     },
+    "sizzle-savings.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
     "skattabrain.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -9097,6 +9102,11 @@
     "trafficnetworkads24.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "trafficrevenue.net": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "trafficsan.com": {
