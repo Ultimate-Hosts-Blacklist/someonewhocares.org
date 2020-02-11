@@ -129,6 +129,11 @@
         "expiration_date": "25-feb-2020",
         "state": "future"
     },
+    "adsvidsdouble.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "adswakeup.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
@@ -187,6 +192,11 @@
     "amazon-adsystem.com": {
         "epoch": 1726444800.0,
         "expiration_date": "16-sep-2024",
+        "state": "future"
+    },
+    "appdatum.com": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "avidnewssource.com": {
@@ -324,6 +334,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "cnhv.co": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "coin-have.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -337,6 +352,11 @@
     "coordino.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "coquine-dispo.com": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "counter4all.com": {
@@ -382,6 +402,11 @@
     "doubleclick.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "downloadcdn.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "earnlivingonline.net": {
@@ -437,6 +462,11 @@
     "fengyixin.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "fervortracer.com": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "fineclicks.com": {
@@ -537,6 +567,11 @@
     "irs01.net": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "itsfree123.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "jroqvbvw.info": {
@@ -729,6 +764,11 @@
         "expiration_date": "29-jun-2021",
         "state": "future"
     },
+    "resolvingserver.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "rewardblvd.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -794,6 +834,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "smarttargetting.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "statsession.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
@@ -812,6 +857,11 @@
     "suhunsoo.uk": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "surplus-suppliers.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "sysip.net": {
@@ -854,6 +904,11 @@
         "expiration_date": "15-feb-2021",
         "state": "future"
     },
+    "theuseful.net": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "tororango.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
@@ -882,6 +937,11 @@
     "urlcut.net": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "usswrite.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "utarget.ru": {
@@ -957,6 +1017,11 @@
     "yourgascards.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "yt-adblocker.com": {
+        "epoch": 1654041600.0,
+        "expiration_date": "01-jun-2022",
         "state": "future"
     },
     "zeroredirect2.com": {
