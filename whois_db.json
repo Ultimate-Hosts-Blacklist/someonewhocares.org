@@ -69,6 +69,16 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "adnexus.net": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "adpowerzone.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "adrotate.se": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
@@ -87,6 +97,11 @@
     "adsdaq.com": {
         "epoch": 1628726400.0,
         "expiration_date": "12-aug-2021",
+        "state": "future"
+    },
+    "adsonar.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "adsspace.net": {
@@ -149,6 +164,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "buyhitscheap.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "canuckmethod.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
@@ -167,6 +187,11 @@
     "clckcloud.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
+    "clearalgorithm.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "clickclick.com": {
@@ -204,6 +229,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "ctnsnet.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "deloitteca.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
@@ -239,6 +269,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "emergingupdates.com": {
+        "epoch": 1574640000.0,
+        "expiration_date": "25-nov-2019",
+        "state": "past"
+    },
     "etahub.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -264,6 +299,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "fusionbanners.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
     "geniusdisplay.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
@@ -287,6 +327,11 @@
     "hlcc.ca": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "httpwwwadserver.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com": {
@@ -369,6 +414,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "mojn.com": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "mokuskerek.club": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
@@ -429,6 +479,11 @@
         "expiration_date": "29-jun-2021",
         "state": "future"
     },
+    "romepartners.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
     "s7clean.com": {
         "epoch": 1610928000.0,
         "expiration_date": "18-jan-2021",
@@ -472,6 +527,11 @@
     "suhunsoo.uk": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "sysip.net": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "systempartition.com": {
@@ -542,6 +602,16 @@
     "xlivehost.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "xn--oogle-wmc.com": {
+        "epoch": 1584921600.0,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "xphones-2019.info": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
         "state": "future"
     },
     "yie4zooseif.info": {
