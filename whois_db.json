@@ -139,9 +139,19 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "advancedmaccleaner.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
     "advserver.xyz": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "affpartners.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "ailiyou1999.com": {
@@ -152,6 +162,16 @@
     "ako.cc": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "alexxe.com": {
+        "epoch": 1798848000.0,
+        "expiration_date": "02-jan-2027",
+        "state": "future"
+    },
+    "allaskme.com": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
         "state": "future"
     },
     "allkindlecloud.com": {
@@ -174,9 +194,29 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "bestadbid.com": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "bestorican.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "bestshockers.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "bidsystem.com": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
+    "bietthuvinhomesgialam.xyz": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "bookpdf.services": {
@@ -252,6 +292,11 @@
     "cltrkr.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "coin-have.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "coinhive.com": {
@@ -364,6 +409,11 @@
         "expiration_date": "28-dec-2019",
         "state": "past"
     },
+    "freefoodprovider.com": {
+        "epoch": 1590969600.0,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
     "freefuelcard.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -390,6 +440,11 @@
         "state": "future"
     },
     "getacool100.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "getacool500.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
         "state": "future"
@@ -524,6 +579,11 @@
         "expiration_date": "09-dec-2019",
         "state": "past"
     },
+    "nedstat.com": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "newbritmoneymethod.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
@@ -557,6 +617,11 @@
     "phorm.co.uk": {
         "epoch": 1623801600.0,
         "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
+    "picture-uploads.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "pmelon.com": {
@@ -654,6 +719,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "slayinglance.com": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
     "slowmacfaster.trade": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -672,6 +742,11 @@
     "stattrax.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "stompebi.link": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "suhunsoo.uk": {
@@ -767,6 +842,11 @@
     "vq91811.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "w3facility.org": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "wantsfly.com": {
