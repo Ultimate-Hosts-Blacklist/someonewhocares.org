@@ -1044,6 +1044,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "adserversolutions.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
     "adservicestats.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
