@@ -25,6 +25,7 @@
 0.0.0.0 ip6-localnet
 0.0.0.0 ip6-loopback
 0.0.0.0 localhost.localdomain
+0.0.0.0 protection.BSpolice.com
 0.0.0.0 protection.GRpolice.com
 0.0.0.0 protection.ITpolice.net
 0.0.0.0 protection.KPpolice.com
@@ -34,6 +35,7 @@
 0.0.0.0 protection.MSpolice.net
 0.0.0.0 protection.PGpolice.com
 0.0.0.0 protection.PKpolice.com
+0.0.0.0 protection.PTpolice.com
 0.0.0.0 protection.SKpolice.com
 0.0.0.0 protection.TKpolice.com
 0.0.0.0 sO.2mdn.net
