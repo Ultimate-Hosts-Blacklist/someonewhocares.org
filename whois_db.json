@@ -664,6 +664,16 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "extremblog.com": {
+        "epoch": 1576368000.0,
+        "expiration_date": "15-dec-2019",
+        "state": "past"
+    },
+    "eztrck.com": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
     "falkag.net": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
@@ -1543,6 +1553,11 @@
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
         "state": "future"
+    },
+    "toolbarsale.biz": {
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
+        "state": "past"
     },
     "topreward.site": {
         "epoch": 1612396800.0,
