@@ -69,6 +69,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "adbit.co": {
+        "epoch": 1580688000.0,
+        "expiration_date": "03-feb-2020",
+        "state": "past"
+    },
     "adcentriconline.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -214,6 +219,11 @@
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
+    "agisdayra.com": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "ailiyou1999.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -252,6 +262,11 @@
     "amazon-adsystem.com": {
         "epoch": 1726444800.0,
         "expiration_date": "16-sep-2024",
+        "state": "future"
+    },
+    "anonymousdemographics.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "app-measurement.com": {
@@ -514,6 +529,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "daily-saver.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
     "dctracking.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
@@ -542,6 +562,11 @@
     "directleads.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "dolohen.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "doubleclick.com": {
@@ -1244,9 +1269,19 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "rwpads.net": {
+        "epoch": 1575158400.0,
+        "expiration_date": "01-dec-2019",
+        "state": "past"
+    },
     "s7clean.com": {
         "epoch": 1610928000.0,
         "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
+    "sanalreklam.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "savings-time.com": {
