@@ -139,6 +139,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "adrotator.se": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "ads-t.ru": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -1027,6 +1032,11 @@
     "majoritishbettes.info": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "marketscore.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "maxserving.com": {
