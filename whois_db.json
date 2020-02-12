@@ -39,6 +39,11 @@
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "ad-balancer.net": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "ad-delivery.net": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -729,6 +734,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "grooveshark.fr": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "hirvarazs.info": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
@@ -859,6 +869,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "lingintirejohny.club": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "link4win.net": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -930,6 +945,11 @@
         "state": "future"
     },
     "mindenegyben-blog.net": {
+        "epoch": 1575676800.0,
+        "expiration_date": "07-dec-2019",
+        "state": "past"
+    },
+    "minemytraffic.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
         "state": "past"
@@ -1108,6 +1128,11 @@
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
         "state": "past"
+    },
+    "postmasterdirect.com": {
+        "epoch": 1585785600.0,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
     },
     "ppoi.org": {
         "epoch": 1607904000.0,
@@ -1394,6 +1419,11 @@
         "expiration_date": "18-jan-2028",
         "state": "future"
     },
+    "traveladvertising.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
     "tricikli.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
@@ -1402,6 +1432,11 @@
     "tsyndicate.com": {
         "epoch": 1843084800.0,
         "expiration_date": "28-may-2028",
+        "state": "future"
+    },
+    "tudatosanelok.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "udarem.com": {
