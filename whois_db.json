@@ -334,6 +334,11 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "bodelen.com": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
     "bonzi.com": {
         "epoch": 1631491200.0,
         "expiration_date": "13-sep-2021",
@@ -562,6 +567,11 @@
     "dctracking.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "decouvre.la": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "defpush.com": {
@@ -1049,6 +1059,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "mobpushup.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "mojn.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
@@ -1484,6 +1499,11 @@
         "expiration_date": "04-dec-2020",
         "state": "future"
     },
+    "technicalconsumerreports.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
     "teeser.ru": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
@@ -1507,6 +1527,11 @@
     "theuseful.net": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "tiltott.net": {
+        "epoch": 1584230400.0,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "topreward.site": {
