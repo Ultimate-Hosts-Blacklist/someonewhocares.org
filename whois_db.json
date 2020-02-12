@@ -419,6 +419,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "cioco-froll.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
     "clckcloud.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
@@ -682,6 +687,11 @@
     "firefox-updater.com": {
         "epoch": 1643500800.0,
         "expiration_date": "30-jan-2022",
+        "state": "future"
+    },
+    "firrectly.top": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "fogjunkossze.com": {
@@ -1107,6 +1117,11 @@
     "offertrakking.info": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "opencandy.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "paclitor.com": {
