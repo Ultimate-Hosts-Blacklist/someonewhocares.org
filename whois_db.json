@@ -924,6 +924,11 @@
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "ktrackdata.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "lamiflor.xyz": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -1115,9 +1120,9 @@
         "state": "future"
     },
     "newjunk4u.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
     },
     "news6health.com": {
         "epoch": 1576022400.0,
@@ -1573,6 +1578,11 @@
         "epoch": 1843084800.0,
         "expiration_date": "28-may-2028",
         "state": "future"
+    },
+    "tudaskor.com": {
+        "epoch": 1575417600.0,
+        "expiration_date": "04-dec-2019",
+        "state": "past"
     },
     "tudatosanelok.com": {
         "epoch": 1601164800.0,
