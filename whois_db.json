@@ -524,9 +524,19 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "cryptoloot.pro": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "ctnsnet.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "czilladx.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "daily-saver.com": {
@@ -675,6 +685,11 @@
         "state": "past"
     },
     "freefoodprovider.com": {
+        "epoch": 1590969600.0,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "freefoodsource.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
         "state": "future"
@@ -939,6 +954,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "majoritishbettes.info": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "maxserving.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -1074,6 +1094,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "offer.camp": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "offertrakking.info": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -1122,6 +1147,11 @@
     "picture-uploads.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "piz7ohhujogi.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "ploaz54.com": {
@@ -1342,6 +1372,11 @@
     "smarttargetting.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "specificclick.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "sponsoradulto.com": {
