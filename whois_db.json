@@ -349,6 +349,11 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "canadianshawid.com": {
+        "epoch": 1583884800.0,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
     "canuckmethod.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
@@ -462,6 +467,11 @@
     "collectiveads.net": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "computer-offer.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "computertechanalysis.com": {
@@ -582,6 +592,11 @@
     "euniverseads.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "falkag.net": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "fast-adv.it": {
@@ -914,14 +929,29 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "mindenegyben-blog.net": {
+        "epoch": 1575676800.0,
+        "expiration_date": "07-dec-2019",
+        "state": "past"
+    },
     "minero.pw": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
         "state": "past"
     },
+    "mktrkr.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "mmoframes.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "mmstat.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "mojn.com": {
@@ -1092,6 +1122,11 @@
     "prestoris.com": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "privitize.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "prjcq.com": {
@@ -1339,6 +1374,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "toro-tags.com": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
     "tororango.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
@@ -1434,6 +1474,11 @@
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
+    "webcompteur.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "webpaypal.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
@@ -1457,6 +1502,11 @@
     "wonderlandads.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "wp-club.net": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "wtp101.com": {
