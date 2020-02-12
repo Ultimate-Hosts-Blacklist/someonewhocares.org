@@ -449,6 +449,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "clhctrk.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "click10.com": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
@@ -1557,6 +1562,11 @@
     "tqlkg.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "tradetracker.net": {
+        "epoch": 1766275200.0,
+        "expiration_date": "21-dec-2025",
         "state": "future"
     },
     "traktum.com": {
