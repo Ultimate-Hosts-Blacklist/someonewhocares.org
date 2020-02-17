@@ -7059,6 +7059,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "poker-new.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
     "poker-unique.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",

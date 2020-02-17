@@ -18,6 +18,7 @@
 0.0.0.0 ip6-allnodes
 0.0.0.0 ip6-allrouters
 0.0.0.0 ip6-localhost
+0.0.0.0 ip6-localnet
 0.0.0.0 localhost.localdomain
 0.0.0.0 protection.GRpolice.com
 0.0.0.0 protection.ITpolice.net
@@ -32,4 +33,5 @@
 0.0.0.0 protection.SCpolice.com
 0.0.0.0 protection.SIpolice.com
 0.0.0.0 protection.SKpolice.com
+0.0.0.0 protection.TKpolice.com
 0.0.0.0 unk.vver.kiae.rr
