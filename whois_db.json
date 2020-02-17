@@ -1549,6 +1549,11 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "anonymous-net.com": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "anonymousdemographics.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -3559,6 +3564,11 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "emarketmakers.com": {
+        "epoch": 1575590400.0,
+        "expiration_date": "06-dec-2019",
+        "state": "past"
+    },
     "enoratraffic.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
@@ -3859,6 +3869,11 @@
         "expiration_date": "18-feb-2026",
         "state": "future"
     },
+    "flycast.com": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
     "focalex.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -4009,6 +4024,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "frequencyaccess.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "frequencyscheduler.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -4099,6 +4119,11 @@
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
+    "funtabsafe.com": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "fusionbanners.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
@@ -4117,6 +4142,11 @@
     "fxcounters.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "g1-globosaude.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "gadgetsytecnologia.com": {
@@ -5082,6 +5112,11 @@
     "jujitsu-ostrava.info": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
+    "juste.ru": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "justhookup.com": {
@@ -6134,6 +6169,11 @@
         "expiration_date": "05-oct-2021",
         "state": "future"
     },
+    "mvonline.com": {
+        "epoch": 1585353600.0,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "mvtracker.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -7109,6 +7149,11 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "postmasterdirect.com": {
+        "epoch": 1585785600.0,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
     "postnewsads.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -7764,6 +7809,11 @@
         "expiration_date": "05-jan-2021",
         "state": "future"
     },
+    "security60-e.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
     "sedatorslegallock.info": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -7807,6 +7857,11 @@
     "sexitnow.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "sexmonitor.net": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "sexsponsors.com": {
@@ -8302,6 +8357,11 @@
     "sudokuwhiz.com": {
         "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
+        "state": "future"
+    },
+    "sugoicounter.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "suhunsoo.uk": {
@@ -9522,6 +9582,11 @@
     "wait3sec.org": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "waldenfarms.com": {
+        "epoch": 1645315200.0,
+        "expiration_date": "20-feb-2022",
         "state": "future"
     },
     "walkthedinosaur.com": {
