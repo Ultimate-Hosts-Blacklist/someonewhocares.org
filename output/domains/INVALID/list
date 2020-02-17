@@ -23,6 +23,7 @@ ip6-allrouters
 ip6-localhost
 ip6-localnet
 ip6-mcastprefix
+local
 localhost.localdomain
 protection.GRpolice.com
 protection.IQpolice.com
@@ -34,10 +35,12 @@ protection.MSpolice.net
 protection.NApolice.net
 protection.PFpolice.com
 protection.PGpolice.com
+protection.PKpolice.com
 protection.PRpolice.com
 protection.PTpolice.com
 protection.SCpolice.com
 protection.SIpolice.com
 protection.SKpolice.com
 protection.TKpolice.com
+sO.2mdn.net
 unk.vver.kiae.rr
