@@ -1329,6 +1329,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "advserver.xyz": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "advzilla.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
@@ -2244,6 +2249,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "bulletads.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
     "bundasnovinhas.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -2403,6 +2413,11 @@
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "past"
+    },
+    "cashcapitalsystem.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
     },
     "cashcount.com": {
         "epoch": 1596672000.0,
