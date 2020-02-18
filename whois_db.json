@@ -8214,6 +8214,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "specificclick.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
     "specificpop.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
