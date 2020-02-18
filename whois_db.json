@@ -859,6 +859,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "adpowerzone.com": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
+        "state": "past"
+    },
     "adquest3d.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -6422,6 +6427,11 @@
     "nearbyad.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "nedstat.com": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "needadvertising.com": {
