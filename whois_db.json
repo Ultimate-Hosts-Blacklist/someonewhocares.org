@@ -6907,7 +6907,7 @@
     "passpport.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "pathforpoints.com": {
         "epoch": 1588809600.0,
@@ -7932,6 +7932,11 @@
     "serving-sys.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "sexcounter.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "sexitnow.com": {
