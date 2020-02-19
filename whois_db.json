@@ -915,8 +915,8 @@
         "state": "future"
     },
     "ads.gold": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "ads01.com": {
@@ -3992,7 +3992,7 @@
     "freedailydownload.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "freefoodprovider.com": {
         "epoch": 1590969600.0,
@@ -6023,6 +6023,11 @@
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
         "state": "past"
+    },
+    "minr.pw": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
     },
     "mizvan.com": {
         "epoch": 1613692800.0,
