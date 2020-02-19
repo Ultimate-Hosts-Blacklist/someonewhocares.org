@@ -6777,7 +6777,7 @@
     "openload.info": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "openoverflow.com": {
         "epoch": 1634083200.0,
@@ -7632,6 +7632,11 @@
     "rickrolling.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "ridepush.com": {
+        "epoch": 1652400000.0,
+        "expiration_date": "13-may-2022",
         "state": "future"
     },
     "rightmedia.net": {
