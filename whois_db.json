@@ -6049,6 +6049,11 @@
         "expiration_date": "07-dec-2019",
         "state": "past"
     },
+    "minero.pw": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
+    },
     "minr.pw": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -6819,6 +6824,11 @@
         "expiration_date": "13-oct-2021",
         "state": "future"
     },
+    "oplaca-sie.pl": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "oralse.cx": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
@@ -7562,6 +7572,11 @@
     "realplayz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "rebevengwas.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "recommendedforyou.xyz": {
