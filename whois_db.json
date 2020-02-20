@@ -4639,6 +4639,11 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "hcg82f2b.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "hdporium.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -4852,6 +4857,11 @@
     "hungaryexpres.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "i4track.net": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "iccee.com": {
