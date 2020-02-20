@@ -1,4 +1,9 @@
 {
+    "0101011.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
     "0427d7.se": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
@@ -2937,7 +2942,7 @@
     "computerxchange.com": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "comsss-56.com": {
         "epoch": 1593561600.0,
@@ -3217,6 +3222,11 @@
     "dashbo15myapp.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
+    "dashgreen.online": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "datanotary.com": {
