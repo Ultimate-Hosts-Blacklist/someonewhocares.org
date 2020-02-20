@@ -644,6 +644,11 @@
         "expiration_date": "10-mar-2021",
         "state": "future"
     },
+    "adecn.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "ademails.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
@@ -5999,6 +6004,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "merlin.co.il": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "merryholidays.org": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
@@ -6595,9 +6605,9 @@
         "state": "past"
     },
     "newsprofin.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
     },
     "newtger.info": {
         "epoch": 1611532800.0,
