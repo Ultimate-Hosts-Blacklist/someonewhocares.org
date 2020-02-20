@@ -1082,7 +1082,7 @@
     "adsmart.co.uk": {
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsmart.com": {
         "epoch": 1586304000.0,
@@ -1137,7 +1137,7 @@
     "adsrv.me": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsrvr.com": {
         "epoch": 1585699200.0,
@@ -2392,6 +2392,11 @@
     "canadianshawid.com": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "canuckmethod.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "canuckmethods.com": {
