@@ -4594,6 +4594,11 @@
         "expiration_date": "08-feb-2021",
         "state": "future"
     },
+    "hallaert.online": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "haouzy.info": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -5444,6 +5449,11 @@
         "expiration_date": "17-apr-2021",
         "state": "future"
     },
+    "lefopost.com": {
+        "epoch": 1575849600.0,
+        "expiration_date": "09-dec-2019",
+        "state": "past"
+    },
     "legfrissebb.info": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
@@ -6102,6 +6112,11 @@
     "mmoframes.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "mmofreegames.online": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "mmstat.com": {
