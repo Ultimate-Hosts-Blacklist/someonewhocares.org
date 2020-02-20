@@ -9194,6 +9194,11 @@
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
+    "trafficopen.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "trafficrevenue.net": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
