@@ -10264,6 +10264,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "zapcdn.space": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
     "zemgo.com": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
