@@ -1882,7 +1882,7 @@
     "bannert.ru": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "banstex.com": {
         "epoch": 1603065600.0,
