@@ -3484,6 +3484,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "downloadplayer.xyz": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
     "dpbolvw.net": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -8627,6 +8632,11 @@
     "support-ip.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "suprama.online": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "surfacecharo.info": {
