@@ -549,6 +549,11 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "extremblog.com": {
+        "epoch": 1576368000.0,
+        "expiration_date": "15-dec-2019",
+        "state": "past"
+    },
     "eztrck.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -597,6 +602,11 @@
     "freefoodprovider.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "freefuelcard.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "freefuelcoupon.com": {
@@ -712,6 +722,11 @@
     "imrk.net": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "imrworldwide.com": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "indiads.com": {
@@ -904,6 +919,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "mmoframes.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "mmstat.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -1084,6 +1104,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "ppoi.org": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
     "precisioncounter.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
@@ -1137,6 +1162,11 @@
     "realizmobi.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "redonetype.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "redsheriff.com": {
@@ -1339,6 +1369,11 @@
         "expiration_date": "29-dec-2019",
         "state": "past"
     },
+    "toolbarmoney.biz": {
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
+        "state": "past"
+    },
     "toolbarnew.biz": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
@@ -1388,6 +1423,11 @@
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
         "state": "past"
+    },
+    "tsyndicate.com": {
+        "epoch": 1843084800.0,
+        "expiration_date": "28-may-2028",
+        "state": "future"
     },
     "tudasfaja.com": {
         "epoch": 1634947200.0,
