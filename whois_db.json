@@ -9,6 +9,11 @@
         "expiration_date": "21-may-2020",
         "state": "future"
     },
+    "2000greetings.com": {
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "state": "future"
+    },
     "21jewelry.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
@@ -129,6 +134,11 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "ads2-adnow.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "adserver.com.pl": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -137,6 +147,11 @@
     "adserver.net": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "adservtech.com": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
         "state": "future"
     },
     "adsoftware.com": {
@@ -199,6 +214,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "alxsite.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "amazon-adsystem.com": {
         "epoch": 1726444800.0,
         "expiration_date": "16-sep-2024",
@@ -237,6 +257,11 @@
     "baiduccdn.org": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "baldehydesupe.info": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "ballsack.org": {
@@ -307,6 +332,16 @@
     "clhctrk.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "click10.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
+    "clicksotrk.com": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "clien.net": {
@@ -614,6 +649,11 @@
         "expiration_date": "28-jan-2021",
         "state": "future"
     },
+    "ilovecheating.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
     "immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
@@ -729,6 +769,16 @@
         "expiration_date": "15-dec-2020",
         "state": "future"
     },
+    "magento-analytics.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "magyar-media.com": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "past"
+    },
     "mangayhentai.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -797,6 +847,11 @@
     "mobscan.info": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "moodoo.com.cn": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "movsflix.com": {
@@ -869,6 +924,11 @@
         "expiration_date": "18-dec-2020",
         "state": "future"
     },
+    "opencandy.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
     "paime.com": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
@@ -879,6 +939,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "payae8moon9.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "paypopup.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -887,6 +952,11 @@
     "pc-virus-d0l92j2.pw": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "pfhsystem.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "phorm.co.uk": {
@@ -1009,6 +1079,11 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "romepartners.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
     "rotumal.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
@@ -1047,6 +1122,11 @@
     "siteonline.stream": {
         "epoch": 1674172800.0,
         "expiration_date": "20-jan-2023",
+        "state": "future"
+    },
+    "sitestat.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "skocz.pl": {
@@ -1219,6 +1299,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "ukrpts.net": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
     "urlcut.net": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -1247,6 +1332,11 @@
     "veirregnant.club": {
         "epoch": 1628467200.0,
         "expiration_date": "09-aug-2021",
+        "state": "future"
+    },
+    "victory1999.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "viralvideos.tips": {
@@ -1294,6 +1384,11 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "wp-club.net": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "wtp101.com": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
@@ -1332,6 +1427,11 @@
     "zenigameblinger.org": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "zeroredirect.com": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "zeroredirect7.com": {
