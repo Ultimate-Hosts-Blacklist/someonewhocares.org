@@ -399,6 +399,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "christianbusinessadvertising.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "clckcloud.com": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
@@ -665,6 +670,11 @@
         "state": "past"
     },
     "freefoodprovider.com": {
+        "epoch": 1590969600.0,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "freefoodsource.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
         "state": "future"
@@ -1109,6 +1119,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "ocslab.com": {
+        "epoch": 1584921600.0,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
     "offer.camp": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -1309,6 +1324,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "reklamtrk.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "resolvingserver.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
@@ -1447,6 +1467,11 @@
     "taba.site": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "tcimg.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "technicalconsumerreports.com": {
