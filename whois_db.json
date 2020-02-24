@@ -209,6 +209,11 @@
         "expiration_date": "09-jan-2021",
         "state": "future"
     },
+    "ailiyou1999.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "ako.cc": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
@@ -304,6 +309,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "bonzi.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
+    },
     "brokertraffic.com": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -314,9 +324,19 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "bulletads.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
     "buyhitscheap.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "cablyshaw.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "canadianshawid.com": {
@@ -574,6 +594,11 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "fengyixin.com": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "fervortracer.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
@@ -632,6 +657,11 @@
     "freshmac.space": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "fusionbanners.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "gar-tech.com": {
@@ -939,6 +969,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "mojn.com": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "moodoo.com.cn": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
@@ -1117,6 +1152,11 @@
     "privitize.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "prjcq.com": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
         "state": "future"
     },
     "probusinesshub.com": {
