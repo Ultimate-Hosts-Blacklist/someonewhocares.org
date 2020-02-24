@@ -259,6 +259,11 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "appdatum.com": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "appliedsemantics.com": {
         "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
