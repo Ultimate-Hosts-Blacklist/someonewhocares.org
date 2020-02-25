@@ -1,4 +1,9 @@
 {
+    "0427d7.se": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "05tz2e9.com": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -94,6 +99,11 @@
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "abourselfi.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
     "actiondesk.com": {
         "epoch": 1632873600.0,
         "expiration_date": "29-sep-2021",
@@ -169,6 +179,11 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "adblockanalytics.com": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
     "adbrite.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -207,6 +222,11 @@
     "adexprts.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "adform.com": {
+        "epoch": 1689465600.0,
+        "expiration_date": "16-jul-2023",
         "state": "future"
     },
     "adfusion.com": {
@@ -262,6 +282,11 @@
     "adobee.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "adpepper.dk": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
         "state": "future"
     },
     "adpowerzone.com": {
@@ -327,6 +352,11 @@
     "adserver.net": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "adserver.ro": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "adservtech.com": {
@@ -569,14 +599,29 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "atlantis-asia.com": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "atpanel.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
         "state": "future"
     },
+    "aureate.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "aussieroadtosuccess.com": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "autohipnose.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "automotive-offer.com": {
@@ -697,6 +742,11 @@
     "bitcoadz.io": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "bizographics.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "blender3d.fr": {
@@ -959,6 +1009,11 @@
         "expiration_date": "15-feb-2021",
         "state": "future"
     },
+    "cloudcrown.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "clownsong.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
@@ -1044,9 +1099,19 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "counterbot.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "cpabank.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "cryptocoinsad.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "cryptoloot.pro": {
@@ -1124,10 +1189,20 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "dirtyrhino.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
     "djugoogs.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
         "state": "past"
+    },
+    "dobbenetes.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
     },
     "dolohen.com": {
         "epoch": 1612396800.0,
@@ -1199,6 +1274,11 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "everifymatch.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "exponential.com": {
         "epoch": 1886284800.0,
         "expiration_date": "10-oct-2029",
@@ -1219,6 +1299,11 @@
         "expiration_date": "23-nov-2020",
         "state": "future"
     },
+    "fadskis.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
     "faggotry.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -1234,6 +1319,11 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "fastchecker.pro": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "fastclick.net": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
@@ -1247,6 +1337,11 @@
     "fastpopunder.com": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
+    "fastwebcounter.com": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "feedjit.com": {
@@ -1294,6 +1389,11 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "flu23.com": {
+        "epoch": 1771372800.0,
+        "expiration_date": "18-feb-2026",
+        "state": "future"
+    },
     "flycast.com": {
         "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
@@ -1317,6 +1417,16 @@
     "folloyu.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "fpctraffic2.com": {
+        "epoch": 1645574400.0,
+        "expiration_date": "23-feb-2022",
+        "state": "future"
+    },
+    "freecontent.bid": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "freedailydownload.com": {
@@ -1409,6 +1519,11 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "gameconsolerewards.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "gamerz123.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -1457,6 +1572,11 @@
     "gigaonclick.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "globalbuffer.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "gmads.net": {
@@ -1594,9 +1714,19 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "iesnare.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
     "ilovecheating.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "imarker.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "imcounting.com": {
@@ -1649,6 +1779,11 @@
         "expiration_date": "23-dec-2019",
         "state": "past"
     },
+    "informereng.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "inkscape.fr": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
@@ -1677,6 +1812,11 @@
     "itempana.site": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "itrackerpro.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "itsfree123.com": {
@@ -1732,6 +1872,11 @@
     "kdowqlpt.info": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "keepass.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "keybinary.com": {
@@ -1849,6 +1994,11 @@
         "expiration_date": "31-jan-2021",
         "state": "future"
     },
+    "link4ads.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "link4win.net": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -1919,6 +2069,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "makemoneyrobot.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
     "mangayhentai.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -1979,6 +2134,11 @@
         "expiration_date": "26-mar-2021",
         "state": "future"
     },
+    "medical-research-books.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "medleyads.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
@@ -1994,6 +2154,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "metareward.com": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
     "meteon.org": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
@@ -2002,6 +2167,11 @@
     "mgid.com": {
         "epoch": 1640822400.0,
         "expiration_date": "30-dec-2021",
+        "state": "future"
+    },
+    "miercuri.gq": {
+        "epoch": 1769212800.0,
+        "expiration_date": "24-jan-2026",
         "state": "future"
     },
     "mightymagoo.com": {
@@ -2149,6 +2319,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "myusersonline.com": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
     "najlepszedlaciebie.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -2197,6 +2372,11 @@
     "net-radar.com": {
         "epoch": 1636675200.0,
         "expiration_date": "12-nov-2021",
+        "state": "future"
+    },
+    "netpalnow.com": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "networkads.net": {
@@ -2404,9 +2584,19 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "pmelon.com": {
+        "epoch": 1592870400.0,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
     "pocofh.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "poker-unique.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "politicalopinionsurvey.com": {
@@ -2427,6 +2617,11 @@
     "popupdomination.com": {
         "epoch": 1688774400.0,
         "expiration_date": "08-jul-2023",
+        "state": "future"
+    },
+    "popuptraffic.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "pornstargals.com": {
@@ -2524,6 +2719,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "push-notification.tools": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
     "pushno.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
@@ -2557,6 +2757,11 @@
     "radiate.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "rankyou.com": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "rdsa2012.com": {
@@ -2602,6 +2807,11 @@
     "reklamtrk.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "relatable.top": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "resanium.com": {
@@ -2674,6 +2884,11 @@
         "expiration_date": "07-mar-2021",
         "state": "future"
     },
+    "runcpa.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "s7clean.com": {
         "epoch": 1610928000.0,
         "expiration_date": "18-jan-2021",
@@ -2682,6 +2897,11 @@
     "sa44.net": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "safebrowse.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "sanalreklam.com": {
@@ -2704,6 +2924,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "searchv.com": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
     "securerunner.com": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -2712,6 +2937,16 @@
     "security60-e.com": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
+    "segob.gob.mx": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "shafou.com": {
+        "epoch": 1762300800.0,
+        "expiration_date": "05-nov-2025",
         "state": "future"
     },
     "share-server.com": {
@@ -2734,6 +2969,11 @@
         "expiration_date": "24-sep-2020",
         "state": "future"
     },
+    "siteimproveanalytics.com": {
+        "epoch": 1708905600.0,
+        "expiration_date": "26-feb-2024",
+        "state": "future"
+    },
     "siteonline.stream": {
         "epoch": 1674172800.0,
         "expiration_date": "20-jan-2023",
@@ -2752,6 +2992,11 @@
     "slayinglance.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "smartadserver.com": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "smartcontext.pl": {
@@ -2797,6 +3042,11 @@
     "sourmath.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "special-alerts.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "specificclick.com": {
@@ -2849,6 +3099,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "sumome.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "superfastcdn.com": {
         "epoch": 1631404800.0,
         "expiration_date": "12-sep-2021",
@@ -2869,6 +3124,11 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "szalonepromocje.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "taba.site": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -2877,6 +3137,11 @@
     "tanio-najtaniej.com": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "tcadops.ca": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "tcimg.com": {
@@ -3052,6 +3317,11 @@
     "tradetracker.net": {
         "epoch": 1766275200.0,
         "expiration_date": "21-dec-2025",
+        "state": "future"
+    },
+    "tradingtactics.win": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "trafficsan.com": {
@@ -3324,6 +3594,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "willysy.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "wonderlandads.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
@@ -3332,6 +3607,11 @@
     "wp-club.net": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "wppluginspro.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "wtp101.com": {
@@ -3409,14 +3689,29 @@
         "expiration_date": "01-jun-2022",
         "state": "future"
     },
+    "zabavazaodrasle.com": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "zenigameblinger.org": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
         "state": "future"
     },
+    "zentastic.com": {
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "state": "future"
+    },
     "zeroredirect.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "zeroredirect11.com": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "zeroredirect12.com": {
