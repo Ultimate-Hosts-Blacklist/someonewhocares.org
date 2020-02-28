@@ -654,6 +654,11 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "getacool100.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
     "getacool500.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
@@ -1244,6 +1249,11 @@
         "expiration_date": "19-jan-2021",
         "state": "future"
     },
+    "specificclick.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
     "sponsoradulto.com": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
@@ -1402,6 +1412,11 @@
     "trustedmaccleaner.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "tsyndicate.com": {
+        "epoch": 1843084800.0,
+        "expiration_date": "28-may-2028",
         "state": "future"
     },
     "tudaskor.com": {
