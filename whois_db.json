@@ -829,6 +829,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "lingintirejohny.club": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "link4win.net": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -888,6 +893,11 @@
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
         "state": "future"
+    },
+    "mediaoffers.click": {
+        "epoch": 1576281600.0,
+        "expiration_date": "14-dec-2019",
+        "state": "past"
     },
     "mindenegyben-blog.net": {
         "epoch": 1614384000.0,
@@ -1227,6 +1237,11 @@
     "sexmonitor.net": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "shawinternets.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "simpleads.net": {
