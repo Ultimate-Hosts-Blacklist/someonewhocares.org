@@ -199,6 +199,11 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "baiduccdn.org": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
     "ballsack.org": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
@@ -379,6 +384,11 @@
         "expiration_date": "23-jun-2021",
         "state": "future"
     },
+    "computertechanalysis.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
     "coolsavings.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
@@ -497,6 +507,11 @@
     "falkag.net": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "fengyixin.com": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "fineclicks.com": {
@@ -659,9 +674,19 @@
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
+    "indiads.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "indisancal.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "industry-deals.com": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "infopaypal.com": {
@@ -809,6 +834,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "mojn.com": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "moodoo.com.cn": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
@@ -862,6 +892,11 @@
     "ocslab.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "offer.camp": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "opencandy.com": {
@@ -1044,6 +1079,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "reklamtrk.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "resolvingserver.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
@@ -1077,6 +1117,11 @@
     "sanalreklam.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "savings-time.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "security60-e.com": {
@@ -1204,6 +1249,11 @@
         "expiration_date": "29-dec-2019",
         "state": "past"
     },
+    "toolbarbucks.biz": {
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
+        "state": "past"
+    },
     "toolbarcool.biz": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
@@ -1252,6 +1302,11 @@
     "trafficbee.com": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "traktum.com": {
+        "epoch": 1831766400.0,
+        "expiration_date": "18-jan-2028",
         "state": "future"
     },
     "traveladvertising.com": {
@@ -1314,6 +1369,11 @@
         "expiration_date": "28-dec-2020",
         "state": "future"
     },
+    "victory1999.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "vipromoffers.com": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
@@ -1367,6 +1427,11 @@
     "xmlheads.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "xn--oogle-wmc.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "xphones-2019.info": {
