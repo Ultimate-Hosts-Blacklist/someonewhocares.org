@@ -44,6 +44,11 @@
         "expiration_date": "04-jan-2020",
         "state": "past"
     },
+    "ad-souk.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "ad-vice.biz": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -464,6 +469,11 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "emarketmakers.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
     "errx049.icu": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
@@ -520,6 +530,11 @@
         "state": "future"
     },
     "freefuelcard.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "freefuelcoupon.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
@@ -672,6 +687,11 @@
     "jarsquatter.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "jiztini.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "jolic2.com": {
@@ -839,6 +859,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "ocslab.com": {
+        "epoch": 1584921600.0,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
     "opencandy.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -884,6 +909,11 @@
         "expiration_date": "16-jun-2021",
         "state": "future"
     },
+    "picture-uploads.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "pills-home.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
@@ -927,6 +957,11 @@
     "postmasterdirect.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "precisioncounter.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "prestoris.com": {
@@ -1232,6 +1267,11 @@
     "trustedmaccleaner.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "tudaskor.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "tutop.com": {
