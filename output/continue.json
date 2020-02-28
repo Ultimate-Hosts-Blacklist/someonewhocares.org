@@ -9986,7 +9986,8 @@
         "www.datanotary.com",
         "falkag.de",
         "top.pcanywhere.net",
-        "specificclick.com"
+        "specificclick.com",
+        "sanoma-adverteren.nl"
     ],
     "INACTIVE": [
         "w.prize44.com",
@@ -16910,7 +16911,27 @@
         "www.specificclick.com",
         "a.ab90be9135de1428ae387956ebd06722.com",
         "adserver.clubic.com",
-        "ads-hl.noktamedya.com.tr"
+        "ads-hl.noktamedya.com.tr",
+        "creatiby1.unicast.com",
+        "m8.cn.2mdn.net",
+        "ads.smartclicks.net",
+        "adj48.thruport.com",
+        "log.statistici.ro",
+        "www.adcarem.co",
+        "adcarem.co",
+        "adserver.aim4media.com",
+        "www.sanoma-adverteren.nl",
+        "hg3.hitbox.com",
+        "t.info.rezbine.com",
+        "red01.as-us.falkag.net",
+        "bet-online.petrovka.info",
+        "nbc.adbureau.net",
+        "ads.turkticaret.net",
+        "stats.vodpod.com",
+        "s2.youtube.com",
+        "www.carrier.bz",
+        "carrier.bz",
+        "da.ce.bd.a9.top.list.ru"
     ],
     "INVALID": [
         "protection.SDpolice.com",
@@ -16963,6 +16984,8 @@
         "MCOpolice.com",
         "ip6-loopback",
         "protection.NApolice.net",
-        "protection.ITpolice.net"
+        "protection.ITpolice.net",
+        "protection.PTpolice.com",
+        "protection.IQpolice.com"
     ]
 }
