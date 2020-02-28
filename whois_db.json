@@ -429,6 +429,11 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "datanotary.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
     "dctracking.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
@@ -1172,6 +1177,11 @@
     "savings-time.com": {
         "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "searchforit.com": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "security60-e.com": {
