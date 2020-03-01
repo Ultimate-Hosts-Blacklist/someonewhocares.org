@@ -21,6 +21,7 @@ ip6-allrouters
 ip6-localhost
 ip6-localnet
 ip6-loopback
+ip6-mcastprefix
 protection.DKpolice.com
 protection.IDpolice.com
 protection.IQpolice.com
