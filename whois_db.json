@@ -6844,6 +6844,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "paime.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
     "painolympics.info": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
