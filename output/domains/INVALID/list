@@ -18,6 +18,7 @@ ip6-allnodes
 ip6-loopback
 local
 localhost.localdomain
+protection.BSpolice.com
 protection.IDpolice.com
 protection.MCpolice.com
 protection.NApolice.net
