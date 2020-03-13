@@ -20029,6 +20029,318 @@
         },
         "1584105756": {
             "None": "INVALID"
+        },
+        "1584109977": {
+            "['ip6-localhost', 'ip6-loopback']": "INVALID",
+            "broadcasthost": "INVALID",
+            "local": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1584109978": {
+            "ip6-allhosts": "INVALID",
+            "ip6-allnodes": "INVALID",
+            "ip6-allrouters": "INVALID",
+            "ip6-localnet": "INVALID",
+            "ip6-mcastprefix": "INVALID"
+        },
+        "1584109980": {
+            "oralse.ca": "INACTIVE",
+            "www.oralse.ca": "INACTIVE"
+        },
+        "1584110002": {
+            "www.ballsack.org": "INACTIVE"
+        },
+        "1584110010": {
+            "www.copyright-reform.info": "INACTIVE"
+        },
+        "1584110011": {
+            "copyright-reform.info": "INACTIVE"
+        },
+        "1584110012": {
+            "cshacks.partycat.us": "INACTIVE"
+        },
+        "1584110023": {
+            "howtotroll.org": "INACTIVE",
+            "www.howtotroll.org": "INACTIVE"
+        },
+        "1584110024": {
+            "www.jarsquatter.com": "INACTIVE"
+        },
+        "1584110054": {
+            "www.jiztini.com": "INACTIVE"
+        },
+        "1584110055": {
+            "junecleeland.com": "INACTIVE",
+            "www.junecleeland.com": "INACTIVE"
+        },
+        "1584110081": {
+            "tubgirl.org": "INACTIVE",
+            "www.tubgirl.org": "INACTIVE"
+        },
+        "1584110098": {
+            "www.cshacks.partycat.us": "INACTIVE"
+        },
+        "1584110157": {
+            "www.ads345.com": "INACTIVE"
+        },
+        "1584110160": {
+            "006.freecounters.co.uk": "INACTIVE",
+            "06272002-dbase.hitcountz.net": "INACTIVE"
+        },
+        "1584110167": {
+            "2001-007.com": "INACTIVE",
+            "www.2001-007.com": "INACTIVE"
+        },
+        "1584110168": {
+            "3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net": "INACTIVE"
+        },
+        "1584110171": {
+            "3ps.go.com": "INACTIVE"
+        },
+        "1584110173": {
+            "a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net": "INACTIVE",
+            "www.aboardamusement.com": "INACTIVE"
+        },
+        "1584110174": {
+            "accountlock-demo.iovation.com": "INACTIVE"
+        },
+        "1584110184": {
+            "adclient.rottentomatoes.com": "INACTIVE"
+        },
+        "1584110186": {
+            "adcodes.aim4media.com": "INACTIVE",
+            "adcounter.globeandmail.com": "INACTIVE"
+        },
+        "1584110187": {
+            "adelogs.adobe.com": "INACTIVE"
+        },
+        "1584110188": {
+            "www.ad-logics.com": "INACTIVE"
+        },
+        "1584110189": {
+            "admanmail.com": "INACTIVE",
+            "admin.iesnare.co.uk": "INACTIVE",
+            "admin.iesnare.com": "INACTIVE",
+            "www.admanmail.com": "INACTIVE"
+        },
+        "1584110196": {
+            "ads.tiscali.com": "INACTIVE"
+        },
+        "1584110197": {
+            "adult.foxcounter.com": "INACTIVE",
+            "affiliate.ab1trk.com": "INACTIVE"
+        },
+        "1584110203": {
+            "ai078.insightexpressai.com": "INACTIVE",
+            "alert.mac-notification.com": "INACTIVE"
+        },
+        "1584110205": {
+            "amer.hops.glbdns.microsoft.com": "INACTIVE"
+        },
+        "1584110206": {
+            "analytics.myfinances.com": "INACTIVE"
+        },
+        "1584110213": {
+            "ant.conversive.nl": "INACTIVE",
+            "antivirus-message.com": "INACTIVE",
+            "www.anonymousdemographics.com": "INACTIVE",
+            "www.antivirus-message.com": "INACTIVE"
+        },
+        "1584110214": {
+            "api2.murdoog.com": "INACTIVE"
+        },
+        "1584110244": {
+            "api.behavioralengine.com": "INACTIVE",
+            "api.bizographics.com": "INACTIVE"
+        },
+        "1584110245": {
+            "api.murdoog.com": "INACTIVE"
+        },
+        "1584110247": {
+            "apple.com-onlinesupport.host": "INACTIVE"
+        },
+        "1584110248": {
+            "asdfanlli-jdna.org": "INACTIVE",
+            "au052.insightexpress.com": "INACTIVE",
+            "www.asdfanlli-jdna.org": "INACTIVE"
+        },
+        "1584110250": {
+            "au.track.decideinteractive.com": "INACTIVE"
+        },
+        "1584110251": {
+            "a.visualrevenue.com": "INACTIVE",
+            "bam-pilot.iovation.com": "INACTIVE",
+            "batch.iovation.com": "INACTIVE"
+        },
+        "1584110253": {
+            "beacons.hottraffic.nl": "INACTIVE"
+        },
+        "1584110259": {
+            "be.sitestat.com": "INACTIVE"
+        },
+        "1584110260": {
+            "best-search.cc": "INACTIVE",
+            "www.best-search.cc": "INACTIVE"
+        },
+        "1584110261": {
+            "beta.easy-hit-counter.com": "INACTIVE",
+            "www.bietthuvinhomesgialam.xyz": "INACTIVE"
+        },
+        "1584110270": {
+            "bilbo.counted.com": "INACTIVE",
+            "bin.clearspring.com": "INACTIVE"
+        },
+        "1584110271": {
+            "birta.stats.is": "INACTIVE",
+            "www.bindedge.com": "INACTIVE"
+        },
+        "1584110274": {
+            "bookproplus.com": "INACTIVE",
+            "www.bookproplus.com": "INACTIVE"
+        },
+        "1584110276": {
+            "broadcastpc.tv": "INACTIVE",
+            "browser-message.com": "INACTIVE",
+            "www.broadcastpc.tv": "INACTIVE",
+            "www.browser-message.com": "INACTIVE"
+        },
+        "1584110277": {
+            "report.broadcastpc.tv": "INACTIVE"
+        },
+        "1584110278": {
+            "bserver.blick.com": "INACTIVE",
+            "bstats.adbrite.com": "INACTIVE"
+        },
+        "1584110285": {
+            "c1.thecounter.com": "INACTIVE"
+        },
+        "1584110286": {
+            "c2.thecounter.com": "INACTIVE"
+        },
+        "1584110287": {
+            "c3.thecounter.com": "INACTIVE"
+        },
+        "1584110300": {
+            "cdn.oggifinogi.com": "INACTIVE"
+        },
+        "1584110301": {
+            "cdxbin.vulnerap.com": "INACTIVE"
+        },
+        "1584110310": {
+            "cgi.hotstat.nl": "INACTIVE"
+        },
+        "1584110315": {
+            "ci-accountlock.iovation.com": "INACTIVE"
+        },
+        "1584110316": {
+            "ci-mpsnare.iesnare.co.uk": "INACTIVE",
+            "ci-mpsnare.iesnare.com": "INACTIVE",
+            "ci-snare.iovation.com": "INACTIVE"
+        },
+        "1584110317": {
+            "www.clckcloud.com": "INACTIVE"
+        },
+        "1584110324": {
+            "click.fivemtn.com": "INACTIVE",
+            "click.investopedia.com": "INACTIVE"
+        },
+        "1584110337": {
+            "clickstatsview.chooseonlinecasino.com": "INACTIVE"
+        },
+        "1584110342": {
+            "clickstatsview.earnmoneycasinos.com": "INACTIVE",
+            "clickstatsview.hourfreeplaycasinos.com": "INACTIVE"
+        },
+        "1584110343": {
+            "clickstatsview.howdepositcasino.com": "INACTIVE",
+            "clickstatsview.howpickcasino.com": "INACTIVE",
+            "clickstatsview.internetcasinosforum.com": "INACTIVE",
+            "clickstatsview.microgamingcasinosites.com": "INACTIVE"
+        },
+        "1584110344": {
+            "clickstatsview.new2007casinobonus.com": "INACTIVE",
+            "clicktalecdn.sslcs.cdngc.net": "INACTIVE",
+            "clicktracker.postmasterglobal.com": "INACTIVE"
+        },
+        "1584110345": {
+            "clicktracker.alloymarketing.com": "INACTIVE"
+        },
+        "1584110347": {
+            "clicktrack.savings-foryou.net": "INACTIVE",
+            "clicktrack.shopping-networks.net": "INACTIVE",
+            "clicktracks.webmetro.com": "INACTIVE"
+        },
+        "1584110404": {
+            "clk.aboxdeal.com": "INACTIVE"
+        },
+        "1584110414": {
+            "cnt.xcounter.com": "INACTIVE"
+        },
+        "1584110424": {
+            "collector.newsx.cc": "INACTIVE"
+        },
+        "1584110439": {
+            "counter.123counts.com": "INACTIVE"
+        },
+        "1584110447": {
+            "counter.1stblaze.com": "INACTIVE"
+        },
+        "1584110470": {
+            "counter.aaddzz.com": "INACTIVE",
+            "counterad.de": "INACTIVE",
+            "www.counterad.de": "INACTIVE"
+        },
+        "1584110471": {
+            "counter.adultrevenueservice.com": "INACTIVE"
+        },
+        "1584110472": {
+            "counter.adultcheck.com": "INACTIVE"
+        },
+        "1584110475": {
+            "counter.asexhound.com": "INACTIVE"
+        },
+        "1584110495": {
+            "counter.credo.ru": "INACTIVE"
+        },
+        "1584110499": {
+            "counter.digits.com": "INACTIVE"
+        },
+        "1584110506": {
+            "counter.e-audit.it": "INACTIVE"
+        },
+        "1584110516": {
+            "counter.htmlvalidator.com": "INACTIVE"
+        },
+        "1584110518": {
+            "counter.impressur.com": "INACTIVE"
+        },
+        "1584110519": {
+            "counter.inti.fr": "INACTIVE"
+        },
+        "1584110520": {
+            "counter.netmore.net": "INACTIVE"
+        },
+        "1584110521": {
+            "counter.pcgames.de": "INACTIVE"
+        },
+        "1584110524": {
+            "counter.sexhound.nl": "INACTIVE",
+            "counters.gigya.com": "INACTIVE"
+        },
+        "1584110527": {
+            "counters.xaraonline.com": "INACTIVE"
+        },
+        "1584110557": {
+            "counter.times.lv": "INACTIVE"
+        },
+        "1584110558": {
+            "counter.uq.edu.au": "INACTIVE"
+        },
+        "1584110572": {
+            "counter.webcom.com": "INACTIVE"
+        },
+        "1584110575": {
+            "counter.webtrends.net": "INACTIVE"
         }
     }
 }
