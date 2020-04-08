@@ -20,6 +20,8 @@
     "last_autosave_datetime": "2020-03-03T15:57:40.209367",
     "last_autosave_epoch": 1583243066.897881,
     "name": "someonewhocares.org",
+    "link": "http://someonewhocares.org/hosts/zero/hosts",
+    "issue_link": "mailto:hosts@someonewhocares.org",
     "previous_stats": {
         "builds": 36,
         "clean.list": 9974,
