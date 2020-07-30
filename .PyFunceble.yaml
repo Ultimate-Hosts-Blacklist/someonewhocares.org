@@ -4,7 +4,7 @@ auto_continue: true
 ci: true
 ci_autosave_commit: '[Autosave] Testing for Ultimate Hosts Blacklist'
 ci_autosave_final_commit: '[Results] Testing for Ultimate Hosts Blacklist'
-ci_autosave_minutes: 10
+ci_autosave_minutes: 15
 ci_branch: master
 ci_distribution_branch: master
 command: ''
@@ -12,6 +12,7 @@ command_before_end: ''
 cooldown_time: null
 custom_ip: 0.0.0.0
 days_between_db_retest: 1
+days_between_inactive_db_clean: 28
 db_type: json
 debug: false
 dns_lookup_over_tcp: false
@@ -151,9 +152,11 @@ outputs:
     splited:
         directory: splited
 plain_list_domain: true
+print_dots: false
 quiet: true
 reputation: false
 seconds_before_http_timeout: 6
+shadow_file: false
 share_logs: true
 show_execution_time: false
 show_percentage: true
@@ -213,3 +216,4 @@ user_agent:
     platform: linux
 verify_ssl_certificate: false
 whois_database: true
+wildcard: false
