@@ -1,18 +1,4 @@
 {
-    "current_stats": {
-        "builds": 294,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 10006,
-        "whitelisted.list": 9968
-    },
     "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T15:57:40.209350",
@@ -22,20 +8,6 @@
     "name": "someonewhocares.org",
     "link": "http://someonewhocares.org/hosts/zero/hosts",
     "issue_link": "mailto:hosts@someonewhocares.org",
-    "previous_stats": {
-        "builds": 36,
-        "clean.list": 9974,
-        "counter": {
-            "down": 6989,
-            "invalid": 55,
-            "tested": 17018,
-            "up": 9974
-        },
-        "domains.list": 17018,
-        "ip.list": 0,
-        "volatile.list": 10006,
-        "whitelisted.list": 9968
-    },
     "raw_link": "http://someonewhocares.org/hosts/zero/hosts",
     "link": "https://someonewhocares.org/hosts/zero/",
     "issue_link": "mailto://hosts@someonewhocares.org",
