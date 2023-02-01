@@ -4,7 +4,7 @@
 
 ```
 # This hosts file is brought to you by Dan Pollock and can be found at
-# http://someonewhocares.org/hosts/zero/
+# https://someonewhocares.org/hosts/zero/
 # You are free to copy and distribute this file for non-commercial uses,
 # as long the original URL and attribution is included.
 #
@@ -24,7 +24,7 @@
 # internet.
 
 # There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0
-# available at http://someonewhocares.org/hosts/.
+# available at https://someonewhocares.org/hosts/.
 # On some machines this may run minutely faster, however the zero version
 # may not be compatible with all systems.
 
@@ -57,7 +57,7 @@
 #    TCP/IP control panel and click on "Select hosts file" to read it in.
 #    ------------------
 #    | As well, note that the format is different on old macs, so
-#    | please visit http://someonewhocares.org/hosts/zero/mac/ for mac format
+#    | please visit https://someonewhocares.org/hosts/zero/mac/ for mac format
 # For Android place the file at "/system/etc/hosts". You will need root
 #   access on your device to do this.
 #    ------------------
