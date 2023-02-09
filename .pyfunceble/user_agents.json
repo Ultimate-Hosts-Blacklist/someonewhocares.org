@@ -1,7 +1,7 @@
 {
     "chrome": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36",
-        "macosx": "Mozilla/5.0(Macintosh;U;PPCMacOSX10_41_98)AppleWebKit/532.82.39(KHTML,likeGecko)Chrome/56.3.7100.2838Safari/533.22Edge/37.16590",
+        "macosx": "Mozilla/5.0(Macintosh;U;PPCMacOSX10_54_07)AppleWebKit/534.03.56(KHTML,likeGecko)Chrome/53.6.1407.6779Safari/530.73Edge/34.79589",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
     },
     "edge": {
