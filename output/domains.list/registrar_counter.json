@@ -1,10 +1,18 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 2,
+        "Google LLC": 2,
+        "NameCheap, Inc.": 2,
         "NameSilo, LLC": 4,
-        "total": 4
+        "Tucows Domains Inc.": 2,
+        "total": 12
     },
     "percentage": {
-        "NameSilo, LLC": 100.0,
-        "total": 100.0
+        "CV. JOGJACAMP": 16.666666666666668,
+        "Google LLC": 16.666666666666668,
+        "NameCheap, Inc.": 16.666666666666668,
+        "NameSilo, LLC": 33.333333333333336,
+        "Tucows Domains Inc.": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
