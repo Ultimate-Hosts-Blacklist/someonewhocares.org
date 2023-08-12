@@ -6,17 +6,19 @@
         "NameCheap, Inc.": 4,
         "NameSilo, LLC": 6,
         "Namecheap": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "Tucows Domains Inc.": 2,
-        "total": 20
+        "total": 22
     },
     "percentage": {
-        "CV. JOGJACAMP": 10.0,
-        "GoDaddy.com, LLC": 10.0,
-        "Google LLC": 10.0,
-        "NameCheap, Inc.": 20.0,
-        "NameSilo, LLC": 30.0,
-        "Namecheap": 10.0,
-        "Tucows Domains Inc.": 10.0,
+        "CV. JOGJACAMP": 9.090909090909092,
+        "GoDaddy.com, LLC": 9.090909090909092,
+        "Google LLC": 9.090909090909092,
+        "NameCheap, Inc.": 18.181818181818183,
+        "NameSilo, LLC": 27.272727272727273,
+        "Namecheap": 9.090909090909092,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.090909090909092,
+        "Tucows Domains Inc.": 9.090909090909092,
         "total": 100.0
     }
 }
