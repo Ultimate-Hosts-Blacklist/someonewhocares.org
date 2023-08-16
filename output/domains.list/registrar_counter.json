@@ -1,24 +1,28 @@
 {
     "counter": {
         "CV. JOGJACAMP": 2,
-        "GoDaddy.com, LLC": 2,
+        "Gname.com Pte. Ltd.": 2,
+        "GoDaddy.com, LLC": 8,
         "Google LLC": 2,
+        "IONOS SE": 2,
         "NameCheap, Inc.": 4,
         "NameSilo, LLC": 6,
         "Namecheap": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Tucows Domains Inc.": 2,
-        "total": 22
+        "Tucows Domains Inc.": 4,
+        "total": 34
     },
     "percentage": {
-        "CV. JOGJACAMP": 9.090909090909092,
-        "GoDaddy.com, LLC": 9.090909090909092,
-        "Google LLC": 9.090909090909092,
-        "NameCheap, Inc.": 18.181818181818183,
-        "NameSilo, LLC": 27.272727272727273,
-        "Namecheap": 9.090909090909092,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.090909090909092,
-        "Tucows Domains Inc.": 9.090909090909092,
-        "total": 100.0
+        "CV. JOGJACAMP": 5.882352941176471,
+        "Gname.com Pte. Ltd.": 5.882352941176471,
+        "GoDaddy.com, LLC": 23.529411764705884,
+        "Google LLC": 5.882352941176471,
+        "IONOS SE": 5.882352941176471,
+        "NameCheap, Inc.": 11.764705882352942,
+        "NameSilo, LLC": 17.647058823529413,
+        "Namecheap": 5.882352941176471,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.882352941176471,
+        "Tucows Domains Inc.": 11.764705882352942,
+        "total": 99.99999999999999
     }
 }
