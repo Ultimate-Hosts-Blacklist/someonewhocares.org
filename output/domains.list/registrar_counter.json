@@ -2,31 +2,33 @@
     "counter": {
         "CV. JOGJACAMP": 2,
         "Gname.com Pte. Ltd.": 2,
-        "GoDaddy.com, LLC": 12,
+        "GoDaddy.com, LLC": 16,
         "Google LLC": 2,
         "IONOS SE": 2,
         "KEY-SYSTEMS GmbH": 2,
         "Key-Systems GmbH": 2,
         "NameCheap, Inc.": 4,
         "NameSilo, LLC": 6,
+        "NameSilo,LLC": 2,
         "Namecheap": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "Tucows Domains Inc.": 4,
-        "total": 42
+        "total": 48
     },
     "percentage": {
-        "CV. JOGJACAMP": 4.761904761904762,
-        "Gname.com Pte. Ltd.": 4.761904761904762,
-        "GoDaddy.com, LLC": 28.571428571428573,
-        "Google LLC": 4.761904761904762,
-        "IONOS SE": 4.761904761904762,
-        "KEY-SYSTEMS GmbH": 4.761904761904762,
-        "Key-Systems GmbH": 4.761904761904762,
-        "NameCheap, Inc.": 9.523809523809524,
-        "NameSilo, LLC": 14.285714285714286,
-        "Namecheap": 4.761904761904762,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.761904761904762,
-        "Tucows Domains Inc.": 9.523809523809524,
-        "total": 99.99999999999999
+        "CV. JOGJACAMP": 4.166666666666667,
+        "Gname.com Pte. Ltd.": 4.166666666666667,
+        "GoDaddy.com, LLC": 33.333333333333336,
+        "Google LLC": 4.166666666666667,
+        "IONOS SE": 4.166666666666667,
+        "KEY-SYSTEMS GmbH": 4.166666666666667,
+        "Key-Systems GmbH": 4.166666666666667,
+        "NameCheap, Inc.": 8.333333333333334,
+        "NameSilo, LLC": 12.5,
+        "NameSilo,LLC": 4.166666666666667,
+        "Namecheap": 4.166666666666667,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.166666666666667,
+        "Tucows Domains Inc.": 8.333333333333334,
+        "total": 100.0
     }
 }
