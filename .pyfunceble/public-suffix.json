@@ -1671,6 +1671,7 @@
         "net-freaks.com",
         "nfshost.com",
         "nodebalancer.linode.com",
+        "o365.cloud.nospamproxy.com",
         "ocelot.mythic-beasts.com",
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
@@ -1784,7 +1785,6 @@
         "s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com",
         "s3-accesspoint.dualstack.us-west-1.amazonaws.com",
         "s3-accesspoint.dualstack.us-west-2.amazonaws.com",
-        "s3-accesspoint.eu-central-1.amazonaws.com",
         "s3-accesspoint.eu-central-2.amazonaws.com",
         "s3-accesspoint.eu-north-1.amazonaws.com",
         "s3-accesspoint.eu-south-1.amazonaws.com",
@@ -3105,7 +3105,6 @@
         "telebit.io",
         "tickets.io",
         "uk0.bigv.io",
-        "upli.io",
         "us.ngrok.io",
         "utwente.io",
         "vaporcloud.io",
@@ -7302,6 +7301,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "s3-accesspoint.eu-central-1.amazonaws.com",
         "shacknet.nu"
     ],
     "nz": [
