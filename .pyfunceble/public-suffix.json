@@ -1785,6 +1785,7 @@
         "s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com",
         "s3-accesspoint.dualstack.us-west-1.amazonaws.com",
         "s3-accesspoint.dualstack.us-west-2.amazonaws.com",
+        "s3-accesspoint.eu-central-1.amazonaws.com",
         "s3-accesspoint.eu-central-2.amazonaws.com",
         "s3-accesspoint.eu-north-1.amazonaws.com",
         "s3-accesspoint.eu-south-1.amazonaws.com",
@@ -7301,7 +7302,6 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "s3-accesspoint.eu-central-1.amazonaws.com",
         "shacknet.nu"
     ],
     "nz": [
