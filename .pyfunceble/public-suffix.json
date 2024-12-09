@@ -1004,6 +1004,7 @@
         "statics.cloud",
         "tn.oxa.cloud",
         "trafficplex.cloud",
+        "translated.page",
         "uk.oxa.cloud",
         "uk.primetel.cloud",
         "uk.reclaim.cloud",
@@ -7552,8 +7553,7 @@
         "pdns.page",
         "plesk.page",
         "prvcy.page",
-        "rocky.page",
-        "translated.page"
+        "rocky.page"
     ],
     "pe": [
         "blogspot.pe",
