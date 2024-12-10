@@ -192,6 +192,7 @@
         "noop.app",
         "northflank.app",
         "nyat.app",
+        "on-fleek.app",
         "ondigitalocean.app",
         "platform0.app",
         "preview.csb.app",
@@ -1004,7 +1005,6 @@
         "statics.cloud",
         "tn.oxa.cloud",
         "trafficplex.cloud",
-        "translated.page",
         "uk.oxa.cloud",
         "uk.primetel.cloud",
         "uk.reclaim.cloud",
@@ -7553,7 +7553,8 @@
         "pdns.page",
         "plesk.page",
         "prvcy.page",
-        "rocky.page"
+        "rocky.page",
+        "translated.page"
     ],
     "pe": [
         "blogspot.pe",
@@ -7964,7 +7965,8 @@
         "asso.re",
         "blogspot.re",
         "can.re",
-        "com.re"
+        "com.re",
+        "netlib.re"
     ],
     "rip": [
         "clan.rip"
@@ -8044,7 +8046,6 @@
         "ras.ru",
         "spb.ru",
         "spectrum.myjino.ru",
-        "test.ru",
         "vladikavkaz.ru",
         "vladimir.ru",
         "vps.mcdir.ru",
