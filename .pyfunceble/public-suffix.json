@@ -392,6 +392,7 @@
     ],
     "az": [
         "biz.az",
+        "co.az",
         "com.az",
         "edu.az",
         "gov.az",
@@ -821,7 +822,10 @@
         "co.business"
     ],
     "bw": [
+        "ac.bw",
         "co.bw",
+        "gov.bw",
+        "net.bw",
         "org.bw"
     ],
     "by": [
@@ -3061,7 +3065,6 @@
         "sa.ngrok.io",
         "sandcats.io",
         "sekd1.beebyteapp.io",
-        "shiftedit.io",
         "shw.io",
         "site.rb-hosting.io",
         "spacekit.io",
@@ -8138,7 +8141,6 @@
         "heyflow.site",
         "jele.site",
         "jouwweb.site",
-        "lelux.site",
         "loginline.site",
         "madethis.site",
         "my.canva.site",
