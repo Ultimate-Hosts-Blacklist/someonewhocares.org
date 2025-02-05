@@ -311,6 +311,7 @@
         "com.aw"
     ],
     "aws": [
+        "dnsalias.net",
         "experiments.sagemaker.aws",
         "labeling.ap-northeast-1.sagemaker.aws",
         "labeling.ap-northeast-2.sagemaker.aws",
@@ -7655,6 +7656,7 @@
         "leczna.pl",
         "legnica.pl",
         "lezajsk.pl",
+        "lib.ms.us",
         "limanowa.pl",
         "lodz.pl",
         "lomza.pl",
