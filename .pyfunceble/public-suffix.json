@@ -2763,7 +2763,6 @@
         "hra.health"
     ],
     "hk": [
-        "armenia.su",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -3287,6 +3286,7 @@
         "is.it",
         "isernia.it",
         "jc.neen.it",
+        "komono.mie.jp",
         "kr.it",
         "la-spezia.it",
         "laquila.it",
@@ -4364,6 +4364,7 @@
         "koza.wakayama.jp",
         "kozagawa.wakayama.jp",
         "kozaki.chiba.jp",
+        "kuchinotsu.nagasaki.jp",
         "kudamatsu.yamaguchi.jp",
         "kudoyama.wakayama.jp",
         "kui.hiroshima.jp",
@@ -7651,7 +7652,6 @@
         "kppsp.gov.pl",
         "krakow.pl",
         "krasnik.pl",
-        "kuchinotsu.nagasaki.jp",
         "kutno.pl",
         "kwp.gov.pl",
         "kwpsp.gov.pl",
@@ -8147,7 +8147,8 @@
         "barsyonline.shop",
         "base.shop",
         "hoplix.shop",
-        "shopware.shop"
+        "shopware.shop",
+        "xn--gmqw5a.hk"
     ],
     "si": [
         "f5.si",
@@ -8249,6 +8250,7 @@
         "adygeya.su",
         "aktyubinsk.su",
         "arkhangelsk.su",
+        "armenia.su",
         "ashgabad.su",
         "azerbaijan.su",
         "balashov.su",
