@@ -2777,7 +2777,6 @@
         "inc.hk",
         "ltd.hk",
         "net.hk",
-        "noticeable.news",
         "org.hk",
         "xn--55qx5d.hk",
         "xn--ciqpn.hk",
@@ -5496,6 +5495,7 @@
         "yoita.niigata.jp",
         "yoka.hyogo.jp",
         "yokaichiba.chiba.jp",
+        "yokawa.hyogo.jp",
         "yokkaichi.mie.jp",
         "yokohama.jp",
         "yokoshibahikari.chiba.jp",
@@ -6273,6 +6273,9 @@
         "azimuth.network",
         "co.network",
         "tlon.network"
+    ],
+    "news": [
+        "noticeable.news"
     ],
     "nf": [
         "arts.nf",
@@ -9130,8 +9133,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw",
-        "yokawa.hyogo.jp"
+        "org.zw"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
