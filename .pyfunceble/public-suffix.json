@@ -2920,7 +2920,6 @@
         "or.id",
         "ponpes.id",
         "sch.id",
-        "srht.site",
         "web.id",
         "zone.id"
     ],
@@ -8212,6 +8211,7 @@
         "platformsh.site",
         "preview.site",
         "square.site",
+        "srht.site",
         "tst.site",
         "wpsquared.site"
     ],
