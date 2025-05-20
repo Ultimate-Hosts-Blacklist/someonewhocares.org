@@ -2694,10 +2694,12 @@
         "stackit.gg"
     ],
     "gh": [
+        "biz.gh",
         "com.gh",
         "edu.gh",
         "gov.gh",
         "mil.gh",
+        "net.gh",
         "org.gh"
     ],
     "gi": [
@@ -5730,7 +5732,8 @@
         "jcloud.kz",
         "mil.kz",
         "net.kz",
-        "org.kz"
+        "org.kz",
+        "readthedocs.io"
     ],
     "la": [
         "bnr.la",
