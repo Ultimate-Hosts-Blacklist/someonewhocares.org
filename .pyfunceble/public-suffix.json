@@ -182,6 +182,8 @@
         "expo.app",
         "flutterflow.app",
         "framer.app",
+        "frontend.encr.app",
+        "github.app",
         "hasura.app",
         "hosted.app",
         "id.replit.app",
@@ -2365,6 +2367,7 @@
     ],
     "dev": [
         "12chars.dev",
+        "api.lp.dev",
         "archer.replit.dev",
         "barsy.dev",
         "bones.replit.dev",
@@ -2402,6 +2405,7 @@
         "myaddr.dev",
         "ngrok-free.dev",
         "ngrok.dev",
+        "objects.lp.dev",
         "odo.replit.dev",
         "pages.dev",
         "panel.dev",
@@ -2877,6 +2881,7 @@
         "fastvps.host",
         "freesite.host",
         "half.host",
+        "iserv.host",
         "jele.host",
         "mircloud.host",
         "myfast.host",
@@ -5716,6 +5721,7 @@
         "co.kr",
         "daegu.kr",
         "daejeon.kr",
+        "eliv-cdn.kr",
         "eliv-dns.kr",
         "es.kr",
         "gangwon.kr",
@@ -7161,7 +7167,6 @@
         "xn--drbak-wua.no",
         "xn--dyry-ira.no",
         "xn--eveni-0qa01ga.no",
-        "xn--finny-yua.no",
         "xn--fjord-lra.no",
         "xn--fl-zia.no",
         "xn--flor-jra.no",
@@ -9185,7 +9190,6 @@
         "sch.zm"
     ],
     "zone": [
-        "cloud66.zone",
         "lima.zone",
         "stackit.zone",
         "triton.zone"
